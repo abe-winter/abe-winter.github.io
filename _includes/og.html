@@ -1,0 +1,11 @@
+<meta name="og:type" content="article">
+<meta name="og:author" content="Abe Winter">
+{% if page.title %}
+<meta name="og:title" content="{{ page.title }}">
+{% else %}
+<meta name="og:title" content="{{ site.title }}">
+{% endif %}
+<meta name="og:description" content="{% if page.description %}{{ page.description }}{% else %}You would be clicking here if only someone had written a description for this article ...{% endif %}">
+{% if page.url %}
+<meta name="og:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
