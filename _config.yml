@@ -18,6 +18,7 @@ email: awinter.public@gmail.com
 description: I'm a NYC-based former scaling consultant with a day job now.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abe-winter.github.io"
+twitter_username: abewinter2
 github_username: abe-winter
 
 # Build settings
