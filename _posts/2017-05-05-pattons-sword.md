@@ -6,6 +6,7 @@ categories: change
 visible: true
 ---
 
+<img src="https://anti.style/flatpixel/pattons-sword">
 <style>blockquote {font-style:normal; letter-spacing:normal;}</style>
 
 1. (kramdown replaces this with toc)

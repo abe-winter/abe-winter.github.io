@@ -6,6 +6,8 @@ categories: blues
 visible: true
 ---
 
+<img src="https://anti.style/flatpixel/config-vs-container">
+
 ## A modest proposal
 
 These are the things I want out of my cloud management layer.

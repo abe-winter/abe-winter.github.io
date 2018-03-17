@@ -6,6 +6,8 @@ categories: evolvability
 visible: true
 ---
 
+<img src="https://anti.style/flatpixel/android-evolvability">
+
 One of my best friends in college decided to get all his calories from chocolate-chip-cookie-peanut-butter sandwiches for a whole quarter. In case you're imagining bread in there, no: it's just peanut butter between two cookies. As an experiment, he also went all quarter never, or seldom, washing his hands. We lived in the same dorm and you could tell where he'd been by an oily glitter on banisters and doorknobs.
 
 The visceral reaction you're having to that image? That's how I feel every time I interact with the java ecosystem, and android has been even worse.
