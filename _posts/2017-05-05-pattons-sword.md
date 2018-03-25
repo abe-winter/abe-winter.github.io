@@ -6,7 +6,6 @@ categories: change
 visible: true
 ---
 
-<img src="https://anti.style/flatpixel/pattons-sword">
 <style>blockquote {font-style:normal; letter-spacing:normal;}</style>
 
 1. (kramdown replaces this with toc)
@@ -14,7 +13,7 @@ visible: true
 
 ## Patton's career-defining choice in 1917
 
-Brief biography of GSP in case you're not familiar:
+Brief biography of GSP in case you're not familiar: <img src="https://anti.style/flatpixel/pattons-sword" style="display:inline">
 
 * 1909: graduated west point
 * 1912: placed in the olympic pentathlon (stockholm)

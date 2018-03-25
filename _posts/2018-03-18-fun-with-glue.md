@@ -6,9 +6,7 @@ categories: reliable-automation
 date: 2018-03-18
 ---
 
-<img src="https://anti.style/flatpixel/fun-with-glue">
-
-This collects some thoughts from using kubernetes and luigi to orchestrate largish systems on various public clouds.
+This collects some thoughts from using kubernetes and luigi to orchestrate largish systems on various public clouds. <img src="https://anti.style/flatpixel/fun-with-glue" style="display:inline">
 
 Have you ever toggled the input sources on a modern TV, and the control delay is such that when you get a signal you're never sure which source you're using?
 
