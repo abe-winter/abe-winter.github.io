@@ -18,7 +18,7 @@ blockquote {font-style:normal; letter-spacing:inherit;}
 
 That's all well and good except I'm pretty senior now. Suddenly part of my job is winning arguments. <img src="https://anti.style/flatpixel/certainty">
 
-As beginning managers we sometimes luck into getting *angry* about the right thing, and insist on it. New managers are reluctant to appear certain until we're absolutely sure that we've done all our homework. I'm speaking for myself here but I think I'm not just speaking for myself.
+As beginning managers we sometimes luck into getting *angry* about the right thing, and insist on it, but are reluctant to assert ourselves with a cool head.
 
 This caution doesn't serve your career *or* the interests of your team.
 
