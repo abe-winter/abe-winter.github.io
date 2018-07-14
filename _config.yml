@@ -30,5 +30,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - code
+  - vendor
 plugins:
   - jekyll-redirect-from
