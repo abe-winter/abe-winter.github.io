@@ -69,5 +69,6 @@ To me that means we should plan to do as little as possible to win. Not because 
 ## Notes
 {:.no_toc}
 
-[^heresies]: For the life of me I can't remember where I read this.
+[^heresies]: It's p3 of WB Stanford / The Ulysses Theme. 'St. Basil of Cappadocia rejoiced, it is said, because his native Cappadocian tongue was too crude to express some of the abstruser Greek heresies.' Stanford didn't footnote and I've had no luck finding a second source for this, but it's a cool line.
+
 [^mccullough]: [David McCullough C-Span open phones](https://www.c-span.org/video/?432540-14/open-phones-david-mccullough) circa 6:50
