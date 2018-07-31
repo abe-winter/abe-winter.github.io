@@ -86,4 +86,6 @@ If it seems like these three goals are at odds, you're right -- that's why atten
 
 A successful group mind would filter and meter new information to control how many workers are affected by it, to determine impact and urgency before shouting. 'Wait and see'. Partition information through space (i.e. subgroups of workers) and time.
 
-But *slack has no memory* and doesn't really have spatial partitions -- without enormous discipline, everyone will end up in every room. slack-based group minds therefore can't afford to adopt a 'wait and see' strategy ever. On slack the choice is 'wait OR see'. There is only the now.
+But *slack has no memory*, defined as the automatic reuse of past information to inform present action. If you want to define memory as slack's huge archive of chat, your definition will include compost heaps and landfills. I have a different word for that. And slack doesn't have spatial partitions between individuals on the same team; they're all in the same rooms.
+
+slack-based group minds therefore can't afford to adopt a 'wait and see' strategy ever. On slack the choice is 'wait OR see'. There is only the now.
