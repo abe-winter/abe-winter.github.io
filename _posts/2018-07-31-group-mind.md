@@ -19,7 +19,7 @@ Max Yasgur, the farmer who hosted woodstock, gave a speech on the third day of t
 
 Begging the question, once you have all those people what do you do with them? When are large groups capable of more than small groups?
 
-In armies and assembly lines scale matters, but for certain kinds of cognitive work, more isn't immediately better. Fred Brooks' [mythical man month](...) book, for example, is about this.
+In armies and assembly lines scale matters, but for certain kinds of cognitive work, more isn't immediately better. Fred Brooks' [mythical man month](https://en.wikipedia.org/wiki/Mythical_man_month) book, for example, is about this.
 
 Evolutionary biology has concepts like superorganism and holobiont to describe the ways in which separate individuals can coordinate to achieve results beyond what any one of them could do alone. In the distant past humans were pretty good at coordination when we hunted in small bands, stamped out gears on a line, or delivered mail.
 
