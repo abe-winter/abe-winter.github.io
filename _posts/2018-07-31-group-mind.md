@@ -13,7 +13,7 @@ date: 2018-07-31
 
 ## Yasgur's farm
 
-Max Yasgur, the farmer who hosted woodstock, gave a speech on the third day of the concert. It's mostly about the availability of bathrooms, but one line stuck with me: <img src="https://anti.style/flatpixel/group-mind">
+Max Yasgur, the farmer who hosted woodstock, gave a speech on the third day of the concert. It's mostly about the line to the bathroom, but one line stuck with me: <img src="https://anti.style/flatpixel/group-mind">
 
 > [This is the largest group of people ever assembled in one place.](https://youtu.be/a8eiL25BjkY?t=61)
 
@@ -38,7 +38,7 @@ It doesn't need to be 'as conscious' as a whole as the individual pieces. But at
 The goal is to:
 
 - Do cognitive work faster than any individual could, even if the speedup is less than linear
-- Ideally: solve problems too large for one individual given infinite time, but this is a bigger ask
+- Ideally: solve in finite time problems too large for one individual given infinite time
 
 ## Higher brain functions don't distribute well
 
