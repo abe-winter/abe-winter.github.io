@@ -25,6 +25,8 @@ Evolutionary biology has concepts like superorganism and holobiont to describe t
 
 Recently our problem space has shifted from physical problems to cognitive ones, and scaleup has been iffy at best. Even as our physical problems are being left to our machines, we're still applying management assumptions from the white-collar boom of the 1950s.
 
+'Flat org tools' like slack are seen as an alternative to traditional management in cognitive companies, meaning that slack is somehow the scaffold for the class of group mind we call the 21st century company.
+
 ## What is a group mind
 
 A mind that is disconnectable and reconnectable. A brain, for example, is fully physically connected all the time and doesn't qualify.
