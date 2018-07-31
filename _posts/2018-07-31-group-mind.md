@@ -13,7 +13,7 @@ date: 2018-07-31
 
 ## Yasgur's farm
 
-Max Yasgur, the farmer who hosted woodstock, gave a speech on the third day of the concert. It's mostly about the line to the bathroom, but one line stuck with me: <img src="https://anti.style/flatpixel/group-mind">
+Max Yasgur, the farmer who hosted woodstock, gave a speech on the third day of the concert. It's mostly about the bathrooms, but one line stuck with me: <img src="https://anti.style/flatpixel/group-mind">
 
 > [This is the largest group of people ever assembled in one place.](https://youtu.be/a8eiL25BjkY?t=61)
 
