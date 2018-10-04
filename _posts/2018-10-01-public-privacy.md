@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To survive, FOSS has to steal my data like the adults
+title: FOSS must abandon privacy to survive
 description: Time to leave the sidelines
 author: Abe Winter
 date: 2018-10-01
@@ -11,14 +11,15 @@ date: 2018-10-01
 
 ## Privacy-first FOSS can't compete with consumer products
 
-Most software privacy policies preserve the right to use your data to 'improve their product offering', and if you've been on the inside you know companies use aggregate behavioral stats to make all kinds of decisions. <img src="https://anti.style/flatpixel/public-privacy">
+The free and open source library ecosystem is thriving, but the app space is languishing. Libreoffice is shaky, gimp and inkscape have never been perfect, ubuntu has made big bets that didn't play out. <img src="https://anti.style/flatpixel/public-privacy">
+
+Commercial software privacy policies typically preserve the right to use your data to 'improve their product offering', and if you've been on the inside you know companies really do use aggregate behavioral stats to inform feature design & maintenance.
 
 The exception is FOSS. In general, free & open source software doesn't have the ability to:
 
-1. detect when a user flow isn't working
-1. use stats to understand which features matter
+1. use stats to understand how features are used and identify broken user flows
 1. collect crash dumps so they can fix them
-1. collect rich location and behavioral data to develop whole new feature categories (like 'busy times' on google maps)
+1. collect rich corpuses of behavioral and sensor data to develop whole new feature categories (like 'busy times' on google maps)
 
 The reasons for this are various. Early open-sourcers like GNU's Stallman with a pro-privacy slant founded the community with their values. In the mobile space, things like crashlytics are verboten in the [f-droid inclusion policy](https://f-droid.org/docs/Inclusion_Policy/?title=Inclusion_Policy).
 
@@ -26,24 +27,16 @@ Culture aside, a lot of open source projects just don't have the infrastructure 
 
 Ubuntu collects some kind of 'problem reporting' (presumably crash dumps) and has [started surveying basic system data](https://www.omgubuntu.co.uk/2018/02/ubuntu-data-collection-opt-out). I totally hate this **but** I'd also hate a world where their UX crashes so hard people start using windows again.
 
-## Data for improving FOSS isn't the same as data for monetization
+## FOSS data collection, unlike commercial / closed-source, is nominally prosocial
 
 All else being equal I'd rather have FOSS collecting my data than a closed source / freemium product. Reasons:
 
 * I can be more certain about what's being collected. No dark patterns or 'oops our bad' about what the privacy settings do.
 * The data is more likely to end up in a public corpus that I can access and benefit from.
 
-That said, why isn't it better for open source software to be strictly private?
+What's more, FOSS can lead the debate the about when and how data should be shared, and develop norms and tools to help build privacy-conscious software. A privacy linter developed for OSS would be used by self-conscious commercial software, and if we're lucky it would bring its norms and expectations with it.
 
-Because the ecosystem relies on people using the software, and without data nobody will want to use it. The experience will be *so much worse* than the magic you can get from a highly tested, high-feedback device / app.
-
-If OSS doesn't have users, it won't exist, and you'll have no alternative to the completely opaque market leader you use now.
-
-Data-sharing with FOSS has at least a chance of not ending up in a massive consumer database, and of being anonymized enough to not upset the balance of power between private citizens and law enforcement.
-
-FOSS can lead the debate the about when and how data should be shared, but not if it stays on the sidelines.
-
-## Next steps
+## First steps
 
 Someone should write up an open source license that:
 
