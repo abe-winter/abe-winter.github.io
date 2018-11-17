@@ -63,6 +63,8 @@ I think the real issue here is consumer choice AND that consumer choice is maxim
 
 *There are no good options* in the mobile OS space. Where good = cheap, private, lets me run a modicum of my own software, supports OSS apps and components, doesn't force me to do anything (look at ads and notifications), doesn't constantly pull the rug out from under me on tracking. I tried to buy the [throwback nokia featurephone](https://en.wikipedia.org/wiki/Nokia_3310_(2017)) only to discover that it runs Yun OS, aka AliOS, aka a version of android that has been modified by a big chinese conglomerate. (Not stock).
 
+This isn't just about software either -- hardware-software bundling leads to hardware that doesn't last or to situations like apple throttling CPU when new OSs are installed on old models. I've beaten the heck out of two nexus 5s and they're both going strong after 4 years. The new devices and OSs I've tried are strictly worse.
+
 I'm not blaming anybody for this outcome, just making the point that we shouldn't say 'consumers must like it or they would take their business elsewhere'. There is no elsewhere.
 
 I use plenty of [f-droid apps](https://f-droid.org/) and will be giving [ubports a shot on my beloved nexus 5](https://ubports.com/devices/nexus5-convergence), but as mobile matures and the web slowly dies, I'm losing the ability to use commercial products without selling my soul.
