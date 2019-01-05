@@ -11,7 +11,7 @@ date: 2018-10-01
 
 ## Privacy-first FOSS can't compete with consumer products
 
-The free and open source library ecosystem is thriving, but the app space is languishing. Libreoffice is shaky, gimp and inkscape have never been perfect, ubuntu has made big bets that didn't play out. <img src="https://anti.style/flatpixel/public-privacy">
+The free and open source library ecosystem is thriving, but the app space is languishing. Libreoffice is shaky, gimp and inkscape have never been perfect, ubuntu has made big bets that didn't play out.
 
 Commercial software privacy policies typically preserve the right to use your data to 'improve their product offering', and if you've been on the inside you know companies really do use aggregate behavioral stats to inform feature design & maintenance.
 
@@ -48,3 +48,5 @@ Someone should write up an open source license that:
 The community should develop something github-like for collecting and sharing these stats.
 
 Some privacy-related linting & static analysis would be nice too.
+
+{% include flatpixel.html tag="public-privacy" %}

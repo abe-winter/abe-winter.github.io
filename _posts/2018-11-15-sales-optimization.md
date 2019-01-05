@@ -7,7 +7,7 @@ date: 2018-11-15
 
 ## Drinks
 
-Had the opportunity to catch up with the sales team at my old company and it was (a) fun, they're great and (b) weird. <img src="https://anti.style/flatpixel/sales">
+Had the opportunity to catch up with the sales team at my old company and it was (a) fun, they're great and (b) weird.
 
 Weird because they understood things about engineering management that I'm just learning.
 
@@ -38,3 +38,5 @@ First, 'mere' implementation is harder than most people want to believe and make
 Second, systems design -- refining the spec so that it's safe, stable, simple, clear. Pushing back against bad asks and building something that's maintainable.
 
 Most important, supporting the ideation process. Helping the org as a whole comprehend what is necessary, possible, valuable. Redefining problems until they emit solutions.
+
+{% include flatpixel.html tag="sales" %}

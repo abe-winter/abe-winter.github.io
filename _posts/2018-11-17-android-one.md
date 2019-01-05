@@ -68,3 +68,5 @@ This isn't just about software either -- hardware-software bundling leads to har
 I'm not blaming anybody for this outcome, just making the point that we shouldn't say 'consumers must like it or they would take their business elsewhere'. There is no elsewhere.
 
 I use plenty of [f-droid apps](https://f-droid.org/) and will be giving [ubports a shot on my beloved nexus 5](https://ubports.com/devices/nexus5-convergence), but as mobile matures and the web slowly dies, I'm losing the ability to use commercial products without selling my soul.
+
+{% include flatpixel.html tag="stock" %}

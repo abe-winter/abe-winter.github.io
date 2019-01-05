@@ -67,5 +67,5 @@ I see an opening for companies that will:
 1. Use these findings to attract good candidates; people are tired of having their time wasted
 1. Build third-party tools to do this and own the next generation of the 'productivity platform' (ms office, g suite, slack, ...).
 
-<img src="https://anti.style/flatpixel/open-office">
+{% include flatpixel.html tag="open-office" %}
 

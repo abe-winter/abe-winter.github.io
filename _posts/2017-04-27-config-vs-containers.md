@@ -6,8 +6,6 @@ categories: blues
 visible: true
 ---
 
-<img src="https://anti.style/flatpixel/config-vs-container">
-
 ## A modest proposal
 
 These are the things I want out of my cloud management layer.
@@ -67,3 +65,5 @@ I realize all of the above are 'bad feelings' rather than arguments. I've been r
 6 months x 3 smart devs who understand the linux kernel. So like $600k.
 
 Getting it running in a distributed fashion would take 3x that. (But distribution & scale aren't the be-all and end-all; a lot of small teams want heroku workflow, are willing to host / manage it themselves, and don't need 100% uptime).
+
+{% include flatpixel.html tag="config-vs-container" %}

@@ -6,7 +6,7 @@ author: Abe Winter
 date: 2018-03-24
 ---
 
-<u>Post-privacy</u> saas is what we have now. SaaS and cloud companies in 2018 disclose so much user data to third parties. <img src="https://anti.style/flatpixel/post-privacy-saas" style="display:inline">
+<u>Post-privacy</u> saas is what we have now. SaaS and cloud companies in 2018 disclose so much user data to third parties.
 
 They give away the data not because they're evil, but because:
 1. it lets them improve their products (which customers seem to want), and
@@ -94,3 +94,5 @@ The public sector and big corporations are already getting access to source code
 In the consumer space, [sandstorm](https://sandstorm.io/) and [remotestorage](remotestorage.io) are early players but not sure if either went anywhere.
 
 The real point is that most SaaS providers are willing to provide non-multitenant hosting OR host on your hardware if you pay them enough. We should come up with some common asks so that this is the common case and available to smaller customers.
+
+{% include flatpixel.html tag="post-privacy-saas" %}

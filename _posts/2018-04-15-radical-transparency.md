@@ -8,7 +8,7 @@ categories: read the tos
 redirect_from: /2018/04/15/better/half/fb-better-half.html
 ---
 
-FB, as an olive branch to concerned users, is permitting people to download their 'own' data from the platform. But this isn't the whole story. <img src="https://anti.style/flatpixel/radical-transparency">
+FB, as an olive branch to concerned users, is permitting people to download their 'own' data from the platform. But this isn't the whole story.
 
 # What's missing from the download
 
@@ -45,3 +45,5 @@ I'm not asking the government to regulate what FB is permitted to do with user d
 We shouldn't even require government disclosure; users can form their own groups and decide what to do. FB has been selling themselves for years as a platform for collective action. Let's see their own users use them to find a palatable compromise on data use.
 
 The end goal here is probably sane and powerful privacy settings with defaults that permit some behavioral ad targeting.
+
+{% include flatpixel.html tag="radical-transparency" %}

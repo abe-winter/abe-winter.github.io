@@ -9,8 +9,7 @@ Pretty bad week for twitter/facebook. Audiences down, stock down. My read on the
 
 ## Labor impact
 
-Twitter has had layoffs before, when it became clear that they would never grow but might remain stable. Twitter is built on a stale stack (scala / mysql, ultimately ruby, write me an angry letter if any of these are your pets) and the people they lose will be a drop in the bucket of the legacy talent pool. <img src="https://anti.style/flatpixel/peak-twtr">
-
+Twitter has had layoffs before, when it became clear that they would never grow but might remain stable. Twitter is built on a stale stack (scala / mysql, ultimately ruby, write me an angry letter if any of these are your pets) and the people they lose will be a drop in the bucket of the legacy talent pool.
 
 FB will be bigger, especially if the malaise spreads to google. They're about to make big changes to android which will lose them worldwide mobile dominance, and search quality is in gradual decline, opening them to disruption from the outside.
 
@@ -47,3 +46,5 @@ The digital tools we use today are (a) unpleasant and relatively useless (b) loa
 There may be interruptions in monotonicity of funding rounds, but that's always been volatile. Old tech will be disrupted by new tech but we have to be okay with that.
 
 Ad-pocalypse, on the other hand, is the backlash of users against crappy engagement-heavy ad-ridden content. It will destroy FB & google and spawn a hord of maggotty children in their carcasses to redesign mobile, social and search.
+
+{% include flatpixel.html tag="peak-twtr" %}

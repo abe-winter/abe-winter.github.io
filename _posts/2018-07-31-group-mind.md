@@ -13,7 +13,7 @@ date: 2018-07-31
 
 ## Yasgur's farm
 
-Max Yasgur, the farmer who hosted woodstock, gave a speech on the third day of the concert. It's mostly about the bathrooms, but one line stuck with me: <img src="https://anti.style/flatpixel/group-mind">
+Max Yasgur, the farmer who hosted woodstock, gave a speech on the third day of the concert. It's mostly about the bathrooms, but one line stuck with me:
 
 > [This is the largest group of people ever assembled in one place.](https://youtu.be/a8eiL25BjkY?t=61)
 
@@ -91,3 +91,5 @@ A successful group mind would filter and meter new information to control how ma
 But *slack has no memory*, defined as the automatic reuse of past information to inform present action. If you want to define memory as slack's huge archive of chat, your definition will include compost heaps and landfills. I have a different word for that. And slack doesn't have spatial partitions between individuals on the same team; they're all in the same rooms.
 
 slack-based group minds therefore can't afford to adopt a 'wait and see' strategy ever. On slack the choice is 'wait OR see'. There is only the now.
+
+{% include flatpixel.html tag="group-mind" %}

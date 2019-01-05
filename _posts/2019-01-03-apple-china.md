@@ -71,5 +71,6 @@ Without hardware dominance, I don't believe they can maintain their app store re
 
 Apple TV & siri aren't competing well with the rest of the field so it's unlikely apple's next step will be UX for lux homes.
 
-I think the likely scenario is a slow decline as apple becomes the new sun / cisco. They'll spend down their cash reserves keeping the lights on. They'll acquire innovative startups and then dismember them while jamming their business model into the mold that worked in apple's glory days. <object data="https://anti.style/flatpixel/apple-china" type="image/png">
+I think the likely scenario is a slow decline as apple becomes the new sun / cisco. They'll spend down their cash reserves keeping the lights on. They'll acquire innovative startups and then dismember them while jamming their business model into the mold that worked in apple's glory days.
 
+{% include flatpixel.html tag="apple-china" %}

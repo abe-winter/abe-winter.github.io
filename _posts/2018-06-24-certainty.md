@@ -16,7 +16,7 @@ blockquote {font-style:normal; letter-spacing:inherit;}
 
 > I learned long ago never to wrestle with a pig. You get dirty and besides the pig likes it.<br>-- G. B. Shaw (misattributed)
 
-That's all well and good except I'm pretty senior now. Suddenly part of my job is winning arguments. <img src="https://anti.style/flatpixel/certainty">
+That's all well and good except I'm pretty senior now. Suddenly part of my job is winning arguments.
 
 As beginning managers we sometimes luck into getting *angry* about the right thing, and insist on it, but are reluctant to assert ourselves with a cool head.
 
@@ -109,3 +109,5 @@ Certainty, like faith, is only brought to bear after reasonable people have disa
 If your emotions are causing you to not speak up because you may be wrong, they're serving you badly. If the other people in the room are 100% sure, they'll say so. Otherwise, follow your instincts. Fight the good fight.
 
 Good orgs will judge you more harshly for not betting than for betting wrong.
+
+{% include flatpixel.html tag="certainty" %}

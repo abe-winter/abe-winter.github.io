@@ -6,7 +6,7 @@ description: Set to drain
 categories: pituitary-gland
 ---
 
-An oldie but a goodie: what do you tell a devops person with two alerts queued up? Nothing you haven't already told them twice. Ba-dum ching! <img src="https://anti.style/flatpixel/reporting" style="display:inline">
+An oldie but a goodie: what do you tell a devops person with two alerts queued up? Nothing you haven't already told them twice. Ba-dum ching!
 
 Monitoring has to be looked at constantly, is hard to interpret, and can drain all your energy if you let it. Monitoring is a vampire.
 
@@ -55,3 +55,5 @@ Having ops dashes that only one or two people can interpret is an organizational
 # Monitoring could be a lot better
 
 Why isn't monitoring as powerful as R / numpy? I don't know.
+
+{% include flatpixel.html tag="reporting" %}

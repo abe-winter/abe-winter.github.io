@@ -6,7 +6,7 @@ categories: evolvability
 visible: true
 ---
 
-One of my best friends in college decided to get all his calories from chocolate-chip-cookie-peanut-butter sandwiches for a whole quarter. In case you're imagining bread in there, no: it's just peanut butter between two cookies. As an experiment, he also went all quarter never, or seldom, washing his hands. We lived in the same dorm and you could tell where he'd been by an oily glitter on banisters and doorknobs. <img src="https://anti.style/flatpixel/android-evolvability">
+One of my best friends in college decided to get all his calories from chocolate-chip-cookie-peanut-butter sandwiches for a whole quarter. In case you're imagining bread in there, no: it's just peanut butter between two cookies. As an experiment, he also went all quarter never, or seldom, washing his hands. We lived in the same dorm and you could tell where he'd been by an oily glitter on banisters and doorknobs.
 
 The visceral reaction you're having to that image? That's how I feel every time I interact with the java ecosystem, and android has been even worse.
 
@@ -61,3 +61,5 @@ Why is this important?
 * <u>Docs and forums get easier to use</u>: most of the android docs I copied don't build, most examples are incomplete, the others are *too* complete (i.e. too long)
 * <u>Usable defaults</u>: removing config files as a required input forces us to have usable defaults. Android insiders might argue that there are usable defaults encoded into android studio or gradle, which get applied when you initialize a project. Okay, but now I own 15 config files and have to maintain them.
 * <u>Enable experimentation</u>. I have a pretty fast laptop and relying on gradle / android studio for anything is still slow. If I could create a usable android app in 10 lines without relying on a project template generator, XML files, and autocomplete, I could learn things and get them right 'in the small' and then incorporate to my project.
+
+{% include flatpixel.html tag="android-evolvability" %}

@@ -145,4 +145,5 @@ I read this [article about Holly Neher](https://abcnews.go.com/Lifestyle/female-
 > Whether it’s a female or male quarterback or a ninth or twelfth grader, you want someone who isn’t afraid to make a mistake and who knows they’re going to get yelled at from time to time.
 
 Teammates who appear to be mad and are fighting you the loudest are actually rooting for you to score.
-<img src="https://anti.style/flatpixel/parachute">
+
+{% include flatpixel.html tag="parachute" %}

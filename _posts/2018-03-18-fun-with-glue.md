@@ -6,7 +6,7 @@ categories: reliable-automation
 date: 2018-03-18
 ---
 
-This collects some thoughts from using kubernetes and luigi to orchestrate largish systems on various public clouds. <img src="https://anti.style/flatpixel/fun-with-glue" style="display:inline">
+This collects some thoughts from using kubernetes and luigi to orchestrate largish systems on various public clouds.
 
 Have you ever toggled the input sources on a modern TV, and the control delay is such that when you get a signal you're never sure which source you're using?
 
@@ -82,3 +82,5 @@ Better ecosystem tools may also allow us to design safer ways to integrate more 
 Faced with the need to solve control problems and unwilling to take the performance hit of pushing drivers out of the kernel (minix style), the XP team built powerful simulation tools to increase safety.
 
 My fingers are crossed that we'll build more powerful simulation tools for integrating with headless systems. It's one way to move past glue in problems that are both performance and safety critical. I have no doubt that more of these problems are coming.
+
+{% include flatpixel.html tag="fun-with-glue" %}

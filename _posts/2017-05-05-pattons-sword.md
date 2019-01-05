@@ -13,7 +13,7 @@ visible: true
 
 ## Patton's career-defining choice in 1917
 
-Brief biography of GSP in case you're not familiar: <img src="https://anti.style/flatpixel/pattons-sword" style="display:inline">
+Brief biography of GSP in case you're not familiar:
 
 * 1909: graduated west point
 * 1912: placed in the olympic pentathlon (stockholm)
@@ -299,3 +299,5 @@ This is percent of firms in each industry providing any tuition assistance. I do
 *[TFP]: total factor productivity
 *[ATC]: air traffic controller
 *[SA]: situational awareness
+
+{% include flatpixel.html tag="pattons-sword" %}
