@@ -150,8 +150,8 @@ Everyone knows this but I'll say it again -- platform risk is the habanero flavo
 
 Watch for the unbundling of identity from platforms and for higher-priced, secure, verified 'identity as a service'. It will suck in its own way just as bad as facebook but hey, at least it won't *be* facebook.
 
-Look out for arbitration as a service -- third parties who are accountable to both sides of a transaction and who create some kind of anonymized public record of disputes.
+Look out for arbitration as a service -- third parties who are accountable to both sides of a transaction and who create some kind of anonymized public record of disputes. The courts are too slow and expensive to keep up with facebook or uber. Arbitration is equally slow, opaque and probably favors the repeat customer. Cheap, fair and effective arbitration is a key ingredient for the next chapter of electronic consumer markets.
 
-I have my fingers crossed for a decline of purely free products. Free and freemium = really unclear contractual rights. I think consumers are going to get sick of the abuse.
+I have my fingers crossed for the decline of purely free products. Free and freemium = really unclear contractual rights. I think consumers are getting sick of the abuse, and voting with their wallets is the only way to end it.
 
 {% include flatpixel.html tag="due-process" %}
