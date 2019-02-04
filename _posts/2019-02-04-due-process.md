@@ -15,15 +15,13 @@ blockquote {
 
 I got kicked off of facebook and I don't know why.
 
-We have the concept of due process from the 1354 restatement of the Magna Carta. It's interesting that it only appeared in the restatement -- their rights were useless without structures for exercising them.
-
-Due process is the secret ingredient for fair systems. Without it, nobody should submit themselves to institutional power. *But* internet platforms that began as toys have lately insinuated themselves into different daily transactions, like purchases, communication and travel. Transactions made through platforms generally afford one or both parties fewer due process rights than they'd get in a traditional market.
+Due process is the secret ingredient for fair systems. Without it, nobody should submit themselves to institutional power. *But* internet platforms that began as toys have lately insinuated themselves into different daily transactions, like payments, communication and travel. Transactions made through platforms generally afford the weaker party fewer due process rights than they'd get in a traditional market.
 
 Why is due process relevant to the web? When I lost FB, I lost access to services that only accept facebook logins. And it's not clear who's accountable -- I can't pay FB to reopen the account, I can't compel them to give me an explanation, and it's unclear if the external services are responsible for ensuring that I can log in to them.
 
-Platforms, in order to remain sticky and survive, have to be essential, which means incorporating all our daily transactions into themselves. Having a FB account may become a requirement for banking, getting on a plane, crossing borders -- you get the picture.
+Platforms, in order to remain sticky and survive, have to be essential, which means incorporating every daily consumer transaction into themselves. Having a FB account may become a requirement for banking, getting on a plane, crossing borders -- you get the picture.
 
-This is scary because there's no Magna Carta for platforms.
+We have the concept of due process from the Magna Carta. There's no Magna Carta for platforms, and we sorely need one.
 
 1. toc
 {:toc}
