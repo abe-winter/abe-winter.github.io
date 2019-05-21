@@ -6,7 +6,7 @@ description: Diminishing returns is the nature of waterfowl
 date: 2019-05-20
 ---
 
-Everyone who has a success asks themselves how to repeat it, or failing that, maintain it. If you have a certain kind of career in tech you've seen a lot of these companies. Writers, musicians, and athletes struggle with it too, calling it their sophomore slump.
+Everyone who has a success asks themselves how to repeat it, or failing that, maintain it. If you have a certain kind of career in tech you've seen your share of companies at this stage. Writers, musicians, and athletes struggle with it too, calling it their sophomore slump.
 
 The very idea of luck may come from the frustration of not being able to hit that trick shot twice. 'Lucky' and 'unlucky' are backwards-looking statistics.
 
