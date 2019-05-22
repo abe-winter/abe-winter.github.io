@@ -11,7 +11,7 @@ Look what's at the bottom of my email. A neat little menu allowing me to reply w
 
 Not surprising that they get this wrong.
 
-Maybe whatever fresh-faced Stanford grad student built this on their summer internship flubbed the feature engineering, modeling autorespond as a library of independent phrases rather than a yes/no choice. A lot of ML still comes down to feature engineering and they designed the wrong model.
+Maybe whatever fresh-faced Stanford grad student built this on their summer internship flubbed the feature engineering, modeling autorespond as a library of independent phrases rather than a library of choices. A lot of ML still comes down to feature engineering i.e. it's art as much as science.
 
 Or maybe 'no' struck someone as too negative and they had to take it out.
 
