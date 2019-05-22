@@ -11,7 +11,7 @@ Look what's at the bottom of my email. A neat little menu allowing me to reply w
 
 Not surprising that they get this wrong.
 
-Maybe whatever fresh-faced Stanford grad student built this on their summer internship flubbed the feature engineering, modeling autorespond as a library of independent phrases rather than a library of choices. A lot of ML still comes down to feature engineering i.e. it's art as much as science.
+Maybe whatever fresh-faced grad student built this on their summer internship flubbed the feature engineering, modeling autorespond as a library of independent phrases rather than a library of choices. A lot of ML still comes down to feature engineering i.e. it's art as much as science.
 
 Or maybe 'no' struck someone as too negative and they had to take it out.
 
@@ -39,6 +39,6 @@ Since then I've been waiting for the other shoe to drop.
 
 Now this has entered the realm where G's much-touted ML arm can't deliver usable products and they're employing dark UX patterns intentionally and by accident. In Titanic terms, the water is entering the engine room.
 
-My friends who 5 years ago wouldn't care about consumer privacy still don't, but they're way more educated than they were -- they can talk coherently about usability, filter bubbles, identity theft, negotiation risk, all measurable impacts of a data-driven society dominated by freemium data brokers.
+My friends who 5 years ago wouldn't care about consumer privacy still don't, but they're way more educated than they were -- they can talk coherently about usability, filter bubbles, identity theft, negotiation risk, all the measurable impacts of a data-driven society dominated by free products built by data brokers.
 
-They've learned, and that's more dangerous than caring, because that means they're rationally pricing these harms. The day that 20% of consumers put a price tag on privacy, freemium is over.
+They've learned, and that's more dangerous than caring, because that means they're rationally pricing these harms. The day that 20% of consumers put a price tag on privacy, freemium is over and privacy is back.
