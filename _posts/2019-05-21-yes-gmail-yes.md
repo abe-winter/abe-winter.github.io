@@ -42,3 +42,36 @@ Now this has entered the realm where G's much-touted ML arm can't deliver usable
 My friends who 5 years ago wouldn't care about consumer privacy still don't, but they're way more educated than they were -- they can talk coherently about usability, filter bubbles, identity theft, negotiation risk, all the measurable impacts of a data-driven society dominated by free products built by data brokers.
 
 They've learned, and that's more dangerous than caring, because that means they're rationally pricing these harms. The day that 20% of consumers put a price tag on privacy, freemium is over and privacy is back.
+
+<br>
+
+---
+
+<br>
+
+## Appendix: more examples & 'sounds good GIFs'
+{:.notoc}
+
+After this article got some views, my android device was creepily and probably coincidentally opted in to some next-level version of this:
+
+![Sounds good GIFs]({{ "/assets/gmail/sounds-good-gifs.png" | absolute_url }})
+
+Also here are some more 'smart reply' examples from my inbox:
+
+To a friend asking me to refer him an ops person: ![Absolutely. For sure. I don't, sorry.]({{ "/assets/gmail/abs-forsure-Idontsorry.png" | absolute_url }})
+
+To my mom asking an important question about taking classes: ![Yeah. Very cool! I don't think so.]({{ "/assets/gmail/gmail-yeah-very-cool-I-dont-think-so.png" | absolute_url }})
+
+To my mom saying good night (i.e. 'are you alive'): ![Good night sweet dreams.]({{ "/assets/gmail/goodnight.png" | absolute_url }})
+
+To a friend's one-liner reply to an article I sent: ![Indeed! I agree! Not really.]({{ "/assets/gmail/indeed-I-agree-not-really.png" | absolute_url }})
+
+To a one-liner reply by my uncle to my dad on a family email chain: ![Love it! What? In.]({{ "/assets/gmail/love-it-what-in.png" | absolute_url }})
+
+To a friend asking me to do a friend-of-a-friend a favor: ![Please do! Awesome! Awesome, thanks!]({{ "/assets/gmail/please-do.png" | absolute_url }})
+
+To me sending a list of news article URLs to myself from my work email account: ![Thanks, I'll check them out. Thanks! Thanks a lot.]({{ "/assets/gmail/thanks-thanks-thanks.png" | absolute_url }})
+
+A few years ago I hooked up a chatbot to some work AIM account that we used for emergencies during the trading day, and went to the bathroom. When I came back everyone either was mad at me or thought I was mad at them.
+
+This round feels like a nightmare where I open my mouth and valentine's day hearts come out. BE MINE.
