@@ -19,7 +19,9 @@ If I saw something like this in the 90s I wouldn't think black mirror, I'd just 
 
 Now I think black mirror a little, but occam's razor still prefers incompetence to malice.
 
-It's not just autocomplete that doesn't want me to say no. This is kind of meta because I've turned this autocomplete feature off, I'm sure of it. Did I just do it on my phone? Did my wifi blip so the AJAX didn't work? I certainly didn't turn it on.
+It's not just autocomplete that doesn't want me to say no. This is kind of meta because I've turned this autocomplete feature off, I'm sure of it. Did I just do it on my phone? Did my wifi blip so the AJAX didn't work? I certainly never turned it on.
+
+What does settings creep have to do with fortune-cookie autosuggest? Both want me to interact with the world using a limited menu of 'yes' options.
 
 ## Maybe yes forever later
 
