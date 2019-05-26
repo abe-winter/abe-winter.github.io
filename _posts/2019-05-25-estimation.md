@@ -63,15 +63,15 @@ I don't mean to completely absolve the ICs / tech team. When someone brings you 
 
 I don't think this list is controversial or surprising -- I do think a lot of companies in my space don't do any of these things. I think that's okay as long as they don't *say* they're doing estimation.
 
-Good estimators can / do:
+Good estimators will:
 
 * Detect late delivery early: you know as soon as things are off the rails
-* Course correction: you can crunch (add labor) or compromise (reduce scope) when something is running late
-* Padding: there's a gap between internal estimates and the quote provided to a client / senior manager. This also (says one of my survey respondents) makes room for refactoring and tech debt reduction
-* Large discovery period (including de-risking experiments) before taking on the job
-* ICs can turn down, redesign or rescope the spec
-* Capacity / prioritization: estimates are used to support decisions about how much work to take on at once
-* When discovery hands off to implementation, there's an ordered task list that is realistic and doesn't surprise the boots-on-the-ground implementer
+* Do course correction: you can crunch (add labor) or compromise (reduce scope) when something is running late
+* Pad: there's a safety gap between internal estimates and the quote provided to a client / senior manager. This also (says one of my survey respondents) makes room for refactoring and tech debt reduction
+* Have a large discovery period (including de-risking experiments) before taking on the job
+* Let ICs turn down, redesign or rescope the spec
+* Do capacity planning / prioritization: estimates are used to support decisions about how much work to take on at once
+* When discovery hands off to implementation, give an ordered task list that's realistic and doesn't surprise boots on the ground
 
 I've had clients where *zero* of these things are true. But this list isn't a secret, everyone knows this stuff. The mystery is why teams *don't* do it. Some theories:
 
