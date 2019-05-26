@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimation -- what is good for
+title: Estimation -- what is it good for
 description: Say it again
 author: Abe Winter
 date: 2019-05-25
@@ -27,11 +27,11 @@ Bear in mind as you read this that for a given project and team, 'should you est
 
 ## What \*is\* it good for
 
-In all cases:
+In general, estimation is useful for:
 
 * Respecting the capacity of the team. Overloaded poeple are inefficent, do too much switching, make mistakes, and get burned out.
 * Giving the team space to get the job done (time, head count, resources, political cover, whatever).
-* Ordering work. Apollo was able to deliver because they carved out a tick-tock cadence of milestones which they would attempt, fail at, and succeed on the second shot.
+* Ordering work. NASA's Apollo program relied on a testing cadence that went from easy to hard. (George Mueller and Wernher von Braun [fought a war over the details of this](https://en.wikipedia.org/wiki/George_Mueller_(NASA)#NASA_and_the_Apollo_program))
 
 In the case of large R&D projects: carving out large blocks of time for the team to work in peace, setting spending caps that the company can afford. Bearing that in mind, the Manhattan Project was over time (the war in Europe was over) and over budget.
 
@@ -41,9 +41,9 @@ In the case of client-facing work: usually cost is agreed on (in broad strokes) 
 
 Repeatability matters. One survey respondent who is a project manager at an agency has high confidence in estimation because her process includes a discovery period before anything is promised, and because the work follows a repeatable rubric.
 
-A close relative is a senior project manager at an AV installer and has the most sophisticated version of this that I've seen: gantt charts, precise costing. Even so, they sometimes have to crunch or swap in high-skill people. Also there's a high degree of measurability and repeatability here: they know number of rooms, cost of equipment, square footage, various delivery lead times, and person-hours required for different installations.
+A close relative is a senior project manager at an AV installer and has the most sophisticated version of this that I've seen: gantt charts, precise costing. And they still sometimes have to crunch or swap in high-skill people. Also there's a high degree of measurability and repeatability here: they know number of rooms, cost of equipment, square footage, various delivery lead times, and person-hours required for different installations.
 
-Even so this work is half prediction and half course correction. When schedules slip, they start the overtime. When estimates fail as prediction they fulfill their second function as alarm.
+This work is half prediction and half course correction. When schedules slip, they start the overtime. When estimates fail as predictions, they fulfill their second function as an alarm.
 
 ## I don't understand what makes this so hard
 
