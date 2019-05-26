@@ -1,31 +1,31 @@
 ---
 layout: post
-title: Estimation -- what is it good for
-description: Say it again
+title: Are startups getting value from project estimation?
+description: I mean, atlassian obviously
 author: Abe Winter
 date: 2019-05-25
 ---
 
-From a survey of my professional network:
+I've always wondered whether project management of small projects at small companies adds value. From the outside project management looks like useful work but sometimes when I get handed a spec, it has to be redone before work can start.
+
+I did a survey of my professional network which turned up fun results like this:
 
 ![What is your expected uncertainty for estimation? (pie chart)]({{ "/assets/expected-uncertainty.png" | absolute_url }})
 
 Which is to say it varies.
 
-I hate being over-deadline. Every unit of work I finish makes the end feel further away as I uncover new dependencies. I've had my share of these moments. My takeaway is that professionalism means being able to guarantee results on a forward basis -- or at least to *not* guarantee results that you can't reliably guarantee.
+That said, I hate being over-deadline. That situation where every unit of work I finish makes the end feel further away as I uncover new dependencies. I've had my share of these moments and I avoid them like the plague.
 
-Doctors are great at this: "I'm going to have my friend cut you and then I'll examine you again afterwards". Two predictions, both likely to be true.
+The startup world is particularly bad at estimation I think. We're relatively junior, the person *hiring* us is often relatively junior and evaluates on 'output' skills rather than organizational skills. (By which I mean both 'being organized' and the ability to operate within an organization). And we're impatient, which means we reward shorter estimates even when they don't play out.
 
-Who isn't great at this: everyone involved with the process of inventing & delivering software products.
-
-The startup ecosystem is particularly bad. We're relatively junior, the person *hiring* us is often relatively junior and evaluates on 'output' skills rather than organizational skills. (By which I mean both 'being organized' and the ability to operate within an organization). We're impatient -- because we and our companies are so young we think that three weeks is too long and, being inexperienced, we're willing to push down estimates without shrinking scope.
+Despite all this we still set deadlines and pretend we can reach them. This article is my attempt to capture the best practices I've seen and explain why we deviate from them.
 
 Bear in mind as you read this that for a given project and team, 'should you estimate' or even 'can you estimate' are questions you'll have to answer on your own.
 
 1. toc
 {:toc}
 
-## What \*is\* it good for
+## What is it good for
 
 In general, estimation is useful for:
 
