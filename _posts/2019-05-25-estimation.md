@@ -12,7 +12,7 @@ From a survey of my professional network:
 
 Which is to say it varies.
 
-I hate the moment where I'm over-deadline and every unit of work I finish makes the end feel further away as I uncover new dependencies. I've had my share of these moments. My takeaway is that professionalism means being able to guarantee results on a forward basis -- or at least to *not* guarantee results that you can't reliably guarantee.
+I hate being over-deadline. Every unit of work I finish makes the end feel further away as I uncover new dependencies. I've had my share of these moments. My takeaway is that professionalism means being able to guarantee results on a forward basis -- or at least to *not* guarantee results that you can't reliably guarantee.
 
 Doctors are great at this: "I'm going to have my friend cut you and then I'll examine you again afterwards". Two predictions, both likely to be true.
 
