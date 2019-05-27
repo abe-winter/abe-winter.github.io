@@ -80,3 +80,5 @@ These are complex, bespoke laws and the legislators seem to have no idea what th
 > 'Until the waves shout ay bendito'
 
 The goal of this policy is likely to get the giants to retreat back across the pond. Europe wants to be Europe and can't do it with powerful commercial institutions invading their people's everyday life.
+
+{% include flatpixel.html tag="pasito" %}

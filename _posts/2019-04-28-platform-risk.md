@@ -216,3 +216,5 @@ My main point is this: you're never going to get big building on top of someone 
 
 ## Sources
 {:.no_toc}
+
+{% include flatpixel.html tag="platform-risk" %}

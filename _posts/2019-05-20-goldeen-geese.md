@@ -64,3 +64,5 @@ What's the responsible thing for Blockbuster to do when a Netflix appears? Buy t
 I've worked with people, smart managers in all silos, who believe in another model: eggs that lay golden geese. A process that creates repeated successes, without user lock-in, without reinvestment in variations, without wide and blind experimentation, a process that goes from 'strength to strength' (an absurd phrase I heard in some other kid's report card when I was in high school -- what a little suck-up that kid was).
 
 I want to believe too.
+
+{% include flatpixel.html tag="golden-geese" %}

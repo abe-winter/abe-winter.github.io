@@ -108,3 +108,5 @@ If you respond to this article in public please don't use the word 'agile' witho
 ## If you do nothing else
 
 Write down the steps as soon as you know them. Update them when they change. That way when someone comes up to you and says 'what are you working on' you'll know the answer.
+
+{% include flatpixel.html tag="estimation" %}

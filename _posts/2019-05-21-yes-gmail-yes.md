@@ -77,3 +77,5 @@ To me sending a list of news article URLs to myself from my work email account: 
 A few years ago I hooked up a chatbot to some work AIM account that we used for emergencies during the trading day, and went to the bathroom. When I came back everyone either was mad at me or thought I was mad at them.
 
 This round feels like a nightmare where I open my mouth and valentine's day hearts come out. BE MINE.
+
+{% include flatpixel.html tag="yes-gmail-yes" %}

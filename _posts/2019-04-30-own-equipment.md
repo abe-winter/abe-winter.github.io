@@ -65,3 +65,5 @@ Like I said above, I don't know if company time / company laptop even comes up i
 And I can't give legal advice.
 
 That said, if you try this and it works, let me know.
+
+{% include flatpixel.html tag="own-equipment" %}

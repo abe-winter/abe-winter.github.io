@@ -65,3 +65,5 @@ For anyone to be secure everyone has to be secure. Security is a weakest link pr
 If you're already crypto-literate, the world has felt surreal for a while, in the way that politically aware liberals have felt since 2016 ('how could anybody want to live like this'). Websites and electronics feel as safe as a carbon monoxide baby blanket but nobody cares.
 
 Don't burn out -- consumers will start to care. People have to get that this is a public safety issue.
+
+{% include flatpixel.html tag="encryption-literacy" %}
