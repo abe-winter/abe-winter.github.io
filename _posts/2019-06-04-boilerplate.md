@@ -5,6 +5,7 @@ author: Abe Winter
 description: I hope this market has two sides
 date: 2019-06-04
 categories: fair thee well
+published: false
 ---
 
 I'm so sick of long crappy contracts. I've read more than two cloud services vendor contracts in the last month that grant them a bunch of rights to my IP and content including, in Facebook's case, an express right to compete with their partners.
