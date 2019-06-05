@@ -16,6 +16,7 @@ Ground rules:
 * Long = more than 500 words. ballpark it on mobile as 5 screens worth of scroll
 * Anything with an arbitration clause or waiver of trial rights is verboten
 * I'm cool with personal injury indemnity for dangerous things like axe throwing or trampoline basketball, as long as it doesn't excuse negligence
+* Absolutely no rights or waivers that don't help the company provide the service I'm paying for
 * For in-person contracts, I'll cross out the bad clauses and if there's no meeting of the minds, I'll walk away
 * For digital EULAs, I'll send the company a request for a shorter, fairer contract and if they won't play ball, I'll send them a copy of this blog post
 * Okay to sign whatever in an emergency (emergency travel, urgent medical care, need to start a new job or starve)
