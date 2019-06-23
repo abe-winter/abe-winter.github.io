@@ -63,3 +63,5 @@ Retaliation by major players is also a concern; apple and google have [colluded 
 ## Bottom line
 
 I'm looking forward to the day when I can write software for mobile without (1) having to use ancient, heavy SDKs / buildsystems and (2) being treated like a criminal by the distribution platforms.
+
+{% include flatpixel.html tag="aapl-picking" %}
