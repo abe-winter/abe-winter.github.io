@@ -46,7 +46,7 @@ I don't believe the walled garden = consumer safety. In my opinion, any argument
 
 ## Can an open phone platform succeed?
 
-It's 2019 and there's [finally a linux phone coming to the market](https://puri.sm/products/librem-5/). 
+It's 2019 and [it's finally the year of the linux phone](https://puri.sm/products/librem-5/) (maybe).
 
 Both apple and google are using their market power to prevent competitors from innovating on top of their platform. This is more visible in the android world where device makers are threatened with losing access to the closed-source layer (i.e. maps, gmail, play store) that lives on top of the open source OS.
 
