@@ -124,15 +124,15 @@ If this claim ever gets litigated I hope it's a [Bill Alsup](https://en.wikipedi
 
 It would cost so little to get a serious expert in this area to create a policy that isn't nonsense, doesn't expose them to legal risk, and isn't offensive to anyone who cares about online speech. I can't believe how badly they've dropped the ball.
 
-## Fair use
+## Very seriously winky face emoji
 
 > We take copyrights very seriously. If you don't own the rights to a photo or video, please don't post it
 
-Very seriously (winky face emoji).
+The next line in the doc is a dog joke.
 
 What about fair use? What if I'm posing in public in front of a hung photo? What if I've paid someone to *license* a photo to which they 'own the rights' (licensing for cash being the whole point of copyright). Under the letter of this document, I can be kicked for that.
 
-Have you *ever* gotten a takedown request from a content owner? If not, why is this section even in the guidelines?
+Have you *ever* gotten a takedown request from a content owner? If not, why is this section even in the guidelines, rather than the bottom of the TOS?
 
 Even crazier: given the various selfie bans in this document we can assume most photos on the platform will be taken by someone other than the account owner. [Moral rights to a photo automatically assign to its author](https://photo.stackexchange.com/questions/25511/if-someone-makes-a-picture-of-me-who-owns-the-right-to-it). Under the letter of this doc, NO photo is safe.
 
