@@ -21,15 +21,15 @@ This document is probably unenforceable, it's internally incoherent, it undermin
 
 A lot wrong here. First problem: this seems unenforceably vague. ['Respect' isn't defined](https://www.youtube.com/watch?v=XbebjUYItKw). And even if it were, because the space of beliefs is large and not enumerated here, it's difficult to imagine a court allowing B to kick someone for not respecting, for example, Brony culture.
 
-What's weirder is that this paragraph *lists* several things that could be called 'beliefs and interests': hate speech, bullying and misogyny. As part of my interest in trust online, I'm interested in hate speech & bullying. And misogyny could be construed as a belief that women are bad or less.
+What's weirder is that this paragraph *lists* several things that could be called 'beliefs and interests': hate speech, bullying and misogyny. As part of my interest in trust online, I'm *interested* in hate speech & bullying. Misogyny is a *belief* that women are bad or less.
 
 Taken at its literal meaning, this document is requiring Bumble users to respect hate speech, bullying and misogyny.
 
 Another hole: the directive to behave on Bumble as I would in real life can defeat any other clause in this document. It doesn't even say 'as you *do* behave' -- it's 'would behave', as in 'would like to'. It's dealer's choice = total drivel.
 
-The commandment to 'respect thyself' is like icing on the crazy cake. This doesn't belong in a contract.
+The commandment to 'respect thyself' is icing on the crazy cake. This doesn't belong in a contract.
 
-Am I twisting their words? Could be. But their words are twisting my brains. And I learned from watching suits that you must be precise, as the law is a precise endeavor. If you can't think straight you shouldn't charge people for drafting contracts.
+Am I twisting their words? Could be. But their words are twisting my brains. And I learned from watching suits that we must be precise, as the law is a precise endeavor. If you can't think straight you shouldn't charge people for drafting contracts.
 
 ## Guns and meat
 
@@ -48,13 +48,17 @@ I'm a vegetarian. From my perspective, there's no difference between a photo of 
 
 But there's no law against eating meat, I can smell it everywhere I go, and any claim that vegetarians are offended by the sight of it can be flipped on its head; vegetarians offend some meat-eaters.
 
-The 'no guns' line is kind of genius. The UCC is already wary of consumer contracts that waive the right to jury trials and that's only the [7th amendment](https://en.wikipedia.org/wiki/Seventh_Amendment_to_the_United_States_Constitution). This one implicates the second and the first. It breaks as many laws as it contains words. Is the right to carry a weapon in densely populated areas limited by state and local laws? Yes. But outside children's media (and this isn't that), there's no law against carrying one in a photo.
+The 'no guns' line checks some more boxes. Arbitration case law is already wary of consumer contracts that waive the right to jury trials and that's only the [7th amendment](https://en.wikipedia.org/wiki/Seventh_Amendment_to_the_United_States_Constitution). This one implicates the second and the first. It breaks as many laws as it contains words. Is the right to carry a weapon in densely populated areas limited by state and local laws? Yes. But outside children's media (and this isn't that), there's no law against carrying one in a photo.
 
 The bill of rights binds the state. Bumble is a private entity that shouldn't have to respect its users' rights, right? Right, unless you ask [the supreme court in 2017](https://en.wikipedia.org/wiki/Packingham_v._North_Carolina). Or [in 1946](https://en.wikipedia.org/wiki/Marsh_v_Alabama).
 
-The vegetarianism thing is even trickier because private entities are barred from certain kinds of religious discrimination. And vegetarianism, as a morally-based dietary practice, may meet the definition for a religion. Banning depictions of vegetarianism would injure Jains, some Buddhists, and I think Hindus? Banning all depiction of meat might injure groups that use meat in their religious practice. (Which may even [include Christians](https://en.wikipedia.org/wiki/Transubstantiation)).
+Also, there's a protected class that carries guns for work: veterans.
 
-I heard an interview about RBG's case [Craig v Boren](https://en.wikipedia.org/wiki/Craig_v._Boren) where she said that all equal rights issues are two-sided, and that defending young men's right to buy alcohol would end up helping women and all groups by creating a bedrock of equality in society. I like that argument and I feel that way about banning non-illegal practices on a widely used public forum. It would erode the bedrock.
+The veggie / meat thing may constitute religious discrimination. Vegetarianism, as a morally-based dietary practice, may meet the definition for a religion. Banning depictions of vegetarianism would injure Jains, some Buddhists, and I think Hindus? And because these issues are a two way street, banning all depiction of meat injures groups that use meat in their religious practice. (Which may even [include Christians](https://en.wikipedia.org/wiki/Transubstantiation)). Hunting or animal slaughter is a religious practice for some groups.
+
+Better filtering configs could be the compromise between showing all content and a blanket ban on guns / hunting. These apps already provide ways to 'not see' protected classes you don't want to see. Age is a good example -- [facebook is up the creek for age discrimination](https://www.vox.com/policy-and-politics/2018/5/31/17408884/facebook-amazon-job-ads-age-discrimination-lawsuit) but Bumble is probably allowed to. Filtering by religion is another special case on these apps that isn't permitted in the wider world.
+
+I heard an interview about RBG's case [Craig v Boren](https://en.wikipedia.org/wiki/Craig_v._Boren) where she said that all equal rights issues are two-sided, and that defending young men's right to buy alcohol would end up helping women and all groups by creating a bedrock of equality in society. I like that argument and I feel that way about banning non-illegal 'activities that represent a group' on a widely used public forum. It would erode the bedrock.
 
 ## Diversity, speech and fences
 
