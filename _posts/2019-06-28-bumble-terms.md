@@ -132,7 +132,7 @@ Very seriously (winky face emoji).
 
 What about fair use? What if I'm posing in public in front of a hung photo? What if I've paid someone to *license* a photo to which they 'own the rights' (licensing for cash being the whole point of copyright). Under the letter of this document, I can be kicked for that.
 
-Have you *ever* gotten a takedown request? If not, why is this section even in the guidelines?
+Have you *ever* gotten a takedown request from a content owner? If not, why is this section even in the guidelines?
 
 Even crazier: given the various selfie bans in this document we can assume most photos on the platform will be taken by someone other than the account owner. [Moral rights to a photo automatically assign to its author](https://photo.stackexchange.com/questions/25511/if-someone-makes-a-picture-of-me-who-owns-the-right-to-it). Under the letter of this doc, NO photo is safe.
 
