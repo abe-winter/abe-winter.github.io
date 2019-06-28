@@ -143,3 +143,5 @@ I think their intent was something much worse: to police their platform with a p
 > He will not go behind his father's saying,<br>
 > And he likes having thought of it so well<br>
 > He says again, 'Good fences make good neighbors.'
+
+{% include flatpixel.html tag="bumble-terms" %}
