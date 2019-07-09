@@ -4,7 +4,7 @@ title: Are startups getting value from project estimation?
 description: I mean, atlassian obviously
 author: Abe Winter
 date: 2019-05-25
-draft: true
+published: false
 ---
 
 I've always wondered whether project management of small projects at small companies adds value. From the outside project management looks like useful work but sometimes when I get handed a spec, it has to be redone before work can start.

@@ -3,7 +3,7 @@ layout: post
 title: Android One != stock (and the underlying consumer choice problem)
 description: Who killed the electric car
 author: Abe Winter
-draft: true
+published: false
 ---
 
 <style>

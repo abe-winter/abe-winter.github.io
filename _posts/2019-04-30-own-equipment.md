@@ -4,7 +4,7 @@ title: "'Own time and own equipment' IP clauses seem bogus to me"
 author: Abe Winter
 description: "Taking home a laptop isn't a perk"
 date: 2019-04-30
-draft: true
+published: false
 ---
 
 If you've started a new programming job in the last few years and read your contract, you likely found something like this after the IP assignment block:
