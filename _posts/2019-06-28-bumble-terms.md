@@ -4,6 +4,7 @@ title: Bumble's new community guidelines are banana pudding
 author: Abe Winter
 description: He is all pine and I am apple orchard
 date: 2019-06-28
+draft: true
 ---
 
 Like everyone else, I've gotten into [trust & community structure online](https://github.com/abe-winter/trustgator) so when someone sent me the Bumble [community guidelines](https://bumble.com/en-us/guidelines) ([archived here](https://web.archive.org/web/20190210140644/https://bumble.com/en-us/guidelines)) I dug in.

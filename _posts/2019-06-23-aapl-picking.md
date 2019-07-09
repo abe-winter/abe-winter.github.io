@@ -5,6 +5,7 @@ author: Abe Winter
 date: 2019-06-23
 description: Minimize, deny, justify, blame
 categories: brags
+draft: true
 ---
 
 1. toc
