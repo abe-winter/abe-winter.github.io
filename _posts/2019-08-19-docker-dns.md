@@ -32,7 +32,7 @@ $200m plus of venture raise plus multiple acquisitions and still nobody is sure 
 
 Other than getting that one spark job working, I'm not sure what a hadoop consultant is going to do to fix the business. Do they even control their codebase anymore? If not, what are their assets?
 
-Docker people probably didn't expect the adoption they got and may have been caught flatfooted, but they raised a ton of money and had years to get their shit together. In my opinion docker-compose has never been useful. Swarm never got adopted, buildkit is still somewhere in the great go build cluster over the horizon. Have they done anything good since their first stable release? Where were they headed?
+Docker people probably didn't expect the adoption they got and may have been caught flatfooted, but they raised a ton of money and had years to get their shit together. Compose, swarm and buildkit are all in limbo or have problems. What's left to ship?
 
 ## DNS was the missing piece even before their failed cloud offering(s)
 
