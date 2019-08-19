@@ -5,6 +5,8 @@ description: Docker the company I mean, the tool is getting used
 author: Abe Winter
 ---
 
+(I mean Docker the company -- docker the tool is fine for now).
+
 * toc
 {:toc}
 
