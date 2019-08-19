@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Docker failed because it didn't launch with DNS
-description: Docker the company I mean, the tool is getting used
+description: "Beware the missing 'then what'"
 author: Abe Winter
 ---
 
-(I mean Docker the company -- docker the tool is healthy enough).
+This article is about a specific hole in docker's strategy and holy strategies in general.
 
 * toc
 {:toc}
 
 ## Incredible adoption curve -- what went right?
 
-Running mysql directly on your laptop is like having an unflushed toilet in your kitchen. God forbid you ever needed to run two. Docker lets you do that without having to taste mysql in your food. It was a godsend, and a rare example of the community embracing a new primitive wholesale.
+Running mysql directly on your laptop is like having an unflushed toilet in your kitchen. God forbid you ever need two. Docker lets you do that without having to taste mysql in your food. It was a godsend, and a rare example of the community embracing a new primitive wholesale.
 
 There's an argument that google was destined to win this space. They invented containerization, mainlined it to the kernel, and then released a usable cloud platform that used it. But docker's commands and image structure are something that wouldn't naturally be born in google. D's obtuse, order-dependent layer caching mechanism wouldn't make sense given the scale of G's buildsystems.
 
@@ -24,11 +24,13 @@ $200m plus of venture raise plus multiple acquisitions and still nobody is sure 
 
 'Big investment in direct sales' was the story for a while, and it led to the most important event in an F-round infra startup's life: [the hortonworks CEO takes over](https://techcrunch.com/2019/05/08/steve-singh-stepping-down-as-docker-ceo/). Other than getting that one spark job working, I'm not sure what a hadoop consultant is going to do to fix this business. I doubt CNCF will let them pull a CDH on the docker tool. Do they even control their codebase anymore? If not, what are their assets?
 
+Not saying the company will explode, not saying it won't, but there was a moment when people thought 'docker will be cloud, period' and that moment is over. Opportunity missed.
+
 ## DNS was the missing piece even before their failed cloud offering(s)
 
 Lack of DNS integration for docker containers is, was, and has always been annoying on the local machine. I still have to write like 10 lines of wrapper code in every new project to look up IPs for docker names in the local dev environment. My use case, as it is for a lot of people, is database / services in docker, hot reload API in shell.
 
-Docker's strategy for this probably was names inside overlay networks but the hole there is sooner or later things need to be reachable from the outside. This is still a pain in kubernetes-land: process, container, pod, deployment, proxy, service, ingress, load balancer is a lot of turtles (even though some of them don't exist physically as a network hop). Had docker created a simple primitive for DNS/routing like they did for container builds, kube would have inherited that simplicity and docker might even have held it's own against the bigger offerings.
+Docker's strategy for this probably was names inside overlay networks but the hole there is sooner or later things need to be reachable from the outside. This is still a pain in kubernetes-land: process, container, pod, deployment, proxy, service, ingress, load balancer is a lot of yaml, though some of those don't exist physically as a network hop. Had docker created a simple primitive for DNS/routing like they did for container builds, kube would have inherited that simplicity and docker might even have held it's own against the bigger offerings.
 
 Without that, docker remained a toy I use to run mysql on my laptop and the incumbents (google, I guess) ate all the lunch. Arguably binpacking is a killer feature too, but IMO DNS is more vital.
 
