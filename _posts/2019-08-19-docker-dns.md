@@ -5,7 +5,7 @@ description: Docker the company I mean, the tool is getting used
 author: Abe Winter
 ---
 
-(I mean Docker the company -- docker the tool is fine for now).
+(I mean Docker the company -- docker the tool is healthy enough).
 
 * toc
 {:toc}
@@ -26,13 +26,9 @@ Google has never been good at releasing good tools that make sense outside googl
 
 ## The other shoe
 
-$200m plus of venture raise plus multiple acquisitions and still nobody is sure how much they net; I suspect it's a drop in the bucket compared to the total current kubernetes market (though I'm prepared to be surprised). I can't find any public information about revenue. Could be *zero*.
+$200m plus of venture raise plus multiple acquisitions and still nobody is sure how much they net; they have 400 ish employees so at cost per head $150k that's $60m burn. The CEO's departure letter in may said they have the 'option' to be in the black this year, whatever that means, and that they'd 'no longer need to seek outside capital', but another version of that story is that they *can't* raise again and are going to cut expenses to putter along for a while in case the market allows them to IPO.
 
-'Big investment in direct sales' was the story for a while, and it led to the most important event in an F-round infra startup's life: [the hortonworks CEO takes over](https://techcrunch.com/2019/05/08/steve-singh-stepping-down-as-docker-ceo/). Hadoop IMO is a total scam where companies that don't need big data tools adopt them and then discover they can't operate hadoop on their own. The people who oversee hadoop commits earn their consulting income from it being difficult to operate, there's a conflict of interest for you.
-
-Other than getting that one spark job working, I'm not sure what a hadoop consultant is going to do to fix the business. Do they even control their codebase anymore? If not, what are their assets?
-
-Docker people probably didn't expect the adoption they got and may have been caught flatfooted, but they raised a ton of money and had years to get their shit together. Compose, swarm and buildkit are all in limbo or have problems. What's left to ship?
+'Big investment in direct sales' was the story for a while, and it led to the most important event in an F-round infra startup's life: [the hortonworks CEO takes over](https://techcrunch.com/2019/05/08/steve-singh-stepping-down-as-docker-ceo/). Other than getting that one spark job working, I'm not sure what a hadoop consultant is going to do to fix this business. I doubt CNCF will let them pull a CDH on the docker tool. Do they even control their codebase anymore? If not, what are their assets?
 
 ## DNS was the missing piece even before their failed cloud offering(s)
 
