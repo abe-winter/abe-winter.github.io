@@ -28,9 +28,9 @@ $200m plus of venture raise plus multiple acquisitions and still nobody is sure 
 
 Lack of DNS integration for docker containers is, was, and has always been annoying on the local machine. I still have to write like 10 lines of wrapper code in every new project to look up IPs for docker names in the local dev environment. My use case, as it is for a lot of people, is database / services in docker, hot reload API in shell.
 
-Docker's strategy for this probably was names inside overlay networks but the hole there is sooner or later things need to be reachable. This is still a pain in kubernetes-land: process, container, pod, deployment, proxy, service, ingress, load balancer is a lot of turtles (even though some of them don't exist physically as a network hop). Had docker created a simple primitive for DNS/routing like they did for container builds, kube would have inherited that simplicity and docker might even have held it's own against the bigger offerings.
+Docker's strategy for this probably was names inside overlay networks but the hole there is sooner or later things need to be reachable from the outside. This is still a pain in kubernetes-land: process, container, pod, deployment, proxy, service, ingress, load balancer is a lot of turtles (even though some of them don't exist physically as a network hop). Had docker created a simple primitive for DNS/routing like they did for container builds, kube would have inherited that simplicity and docker might even have held it's own against the bigger offerings.
 
-(Arguably binpacking is a killer feature too, but IMO DNS is more vital).
+Without that, docker remained a toy I use to run mysql on my laptop and the incumbents (google, I guess) ate all the lunch. Arguably binpacking is a killer feature too, but IMO DNS is more vital.
 
 I think docker's problem was a **missing argument** for where they were going and how to get there. This is hard to detect when you're in it because not everyone in a company understands where it's going at every moment, but if you've been in your career for a few years and don't understand the links or the stops in a company's roadmap, that's a warning signal.
 
