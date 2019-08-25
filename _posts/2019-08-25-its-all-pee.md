@@ -6,11 +6,11 @@ description: This can be a solved problem
 categories: primitives
 ---
 
-In my recent experience, pooling behavior has been the biggest source of uncertainty in the performance of a client library. I'm talking about:
+In my recent experience, pooling behavior has been the biggest source of uncertainty in the performance of a client library, even more than language speed or the capacity of the backend server. I'm talking about:
 
-* whether it will start concurrent connections and how many (too many and too few can both be bad)
-* error and reconnect handling
-* how do you configure pooling
+* Whether it will start concurrent connections at all, and how many (too many and too few can both be bad)
+* Error and reconnect handling
+* Badly-documented configs
 
 My daily driver is nodejs, and I've encountered widely-used client libraries for widely-used services don't do these things the way an experienced programmer would expect. Some client libraries rewrite their pooling between major versions, changing config fields and invalidating docs / stack overflow. (And also invalidation my application logic).
 
