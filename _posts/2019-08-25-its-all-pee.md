@@ -12,18 +12,20 @@ In my recent experience, pooling behavior has been the biggest source of uncerta
 * Error and reconnect handling
 * Badly-documented configs
 
-My daily driver is nodejs, and I've encountered widely-used client libraries for widely-used services don't do these things the way an experienced programmer would expect. Some client libraries rewrite their pooling between major versions, changing config fields and invalidating docs / stack overflow. (And also invalidation my application logic).
+My daily driver is nodejs, and I've encountered widely-used client libraries for widely-used services that don't do these things how you would expect. Some client libraries rewrite their pooling between major versions, changing config fields and invalidating docs / stack overflow. (And also invalidating my application logic).
 
-I think this can be solved by setting an expectation that new languages should ship with a connection pool type in the standard library. 
+New languages should ship with a connection pool type in the standard library, and encourage library devs to use it.
 
 * toc
 {:toc}
 
 ## Performance
 
-If a client lib has obtuse configs you can't trust, or even worse doesn't support pooling at all, you give up a lot. Every language provides a socket primitive. If every language also provided a pool, configuring and operating these would be a skill I can learn once instead of having to read code to make sure every library does what its docs claim.
+If a client lib has obtuse configs you can't trust, or even worse doesn't support pooling at all, your shit will get very real at scale, trust me. Every language provides a socket primitive. If every language also provided a pool, configuring and operating these would be a skill I can learn once instead of having to read code to make sure every library does what its docs claim.
 
-I'm tired of having to ask 'what happens to the connection when a command errors out' or 'how does reconnect backoff work'. I've tailed logs where the default reconnect behavior was so chatty that it overwhelmed my shell. Dollars to donuts it was also overwhelming the thing it was connecting to, causing *other* clients to disconnect and leading to thundering herd.
+The standard lib can also invest in something like coq / TLA to verify the implementation and avoid regressions. Though let me say that I've never been bitten by a legit pooling bug.
+
+I'm tired of having to ask 'what happens to the connection when a command errors' or 'how does reconnect backoff work'. I've tailed logs where the default reconnect behavior was so chatty that it overwhelmed my shell. Dollars to donuts it was also overwhelming the thing it was connecting to, causing *other* clients to disconnect and leading to thundering herd.
 
 ## Monitoring
 
