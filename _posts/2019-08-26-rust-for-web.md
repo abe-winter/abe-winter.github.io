@@ -14,29 +14,29 @@ Bottom line: I'm thinking about using rust as the backend for a small one-person
 
 ## Go has way better libraries
 
-Go stands out as the compromise choice of the modern web and I don't mean that in a bad way. It's fast enough, it's compiled enough (though my understanding is that certain loop operations are effectively untyped / interpreted). A massive amount of research have gone into GC speed and memory efficiency.
+Go stands out as the compromise choice of the modern web and I don't mean that in a bad way. It's fast enough, it's compiled enough (though my understanding is that some collection operations rely on `interface{}` and are effectively untyped / interpreted). A massive amount of research has gone into GC speed and memory efficiency.
 
 I read somewhere that the G team that built it intended it as a competitor to C and it ended up replacing python. Python was known early on for its good library ecosystem and I think go has picked up that torch, especially for backend web.
 
-I think go has better core web hosting libraries than JS / python if you want to do something fancy like oauth. I've never tried to do something in go and been like 'crap my framework doesn't have sessions built in'. Ruby is probably better here (omniauth seemed like the best oauth client library in *any* language when I searched once) but I've never used it.
+I think go has better core web hosting libraries than JS / python if you want to do something mainstream but not ubiquitous like oauth. I've never tried to do something in go and been like 'crap my framework doesn't have sessions built in'. Ruby is probably better here (omniauth seemed like the best oauth client library in *any* language when I searched once) but I've never used it.
 
 ## Python / JS more productive
 
-At this point I've used python as much as I've done anything else in my life. I'm *very* productive in python, and python is a productive language. I've watched learning curves for programmers and non-programmers in python and non-python codebases and everyone can learn it. I've used both python and go for backend web stuff and python is generally more powerful unless you care about speed.
+At this point I've used python as much as I've done anything else in my life. I'm *very* productive in python, and python is a productive language. I've watched learning curves for programmers and non-programmers in python codebases and everyone can learn it. I've used both python and go for backend web stuff and python is generally more powerful unless you care about speed.
 
-I'm less certain about javascript as a productive language. My experience on frontend and backend has been obtuse tooling, language feature and version support that's as spotty as the T-mobile coverage map, more verbosity than an interpreted language can justify, weak standard library and WACKY libraries.
+I'm less certain about javascript as a productive language. My experience on frontend and backend has been obtuse tooling, language features that are badly planned and slowly rolled out, more verbosity than an interpreted language can justify, weak standard library and WACKY 3rd-party ecosystem.
 
 I suspect ruby has really good productivity for web but I've never used it and am uncomfortable with the performance compromise. I suspect also that the moment I have a performance quirk I'll have to break their architecture contract and productivity will go out the window (once again, this isn't experience talking, it's paranoia).
 
 ## JVM is everywhere
 
-I thought seriously about java. New java is a not-bad language and like go, it's a compromise choice in a good way.
+I thought seriously about java. Modern java is a not-bad language and like go, it's a compromise choice in a good way.
 
-But installing java on linux has always made me sad and asked me to make weird choices. Their patent battle against google feels like a louder version of something they've been telling me via EULA since I was a teenager trying to make my applets work. Honestly, it's something I don't want to hear. Thanks but no thanks java.
+But installing java on linux has always made me sad and asked me to make weird choices. Their patent battle against google feels like a louder version of something they've been telling me via EULA since I was a teenager with [netscape navigator](https://www.youtube.com/watch?v=yzPOqVPqQLE) -- they want their clunky tooling to consume my day on a regular basis. No thanks.
 
-Also, while the language is increasingly modern, the libraries are going to have a mix of support for ancient and modern and it was my job for a brief period to upgrade a java dependency without breaking the other dependencies in a big project. Not fun.
+Also, while the language is increasingly modern, the libraries are going to have a mix of support for ancient and modern. It was my job for a brief period to upgrade a java dependency without breaking the other dependencies in a big project. Not fun.
 
-Ruling out java rules out other JVM languages I think as well. I'm also generally not a fan of them, especially scala which I've touched the most.
+Ruling out java rules out other JVM languages I think as well. I'm also generally not a fan, especially scala which I've touched the most. I think the argument for building a language on the JVM is weak. I would have given scala native a go if even basic things had worked (println!) when I touched it last a year ago.
 
 ## C++ has buy-in
 
@@ -73,6 +73,8 @@ I'm willing to believe that these problems are *my* problems. If a book hits you
 I'm ready for fewer surprises. Do I need to scale in an emergency? Will I run out of memory unexpectedly? (Though python is better than java/javascript on memory). This is all less likely in a non-GC, fast language.
 
 Will the JIT be slow the first couple of times? Do I have to worry about whether a function is getting optimized correctly? JS/V8 provides you with NO WAY to answer that question in normal practice. (Send me a link to a working example and I'll correct this). rust means never having to ask that question.
+
+Yes, good JITs can make simple things as fast in interpreted languages as compiled. BUT good C bindings mean that a lot of simple web things are as fast in python as JS. The ability to scale when I want to do something *complex* is worth the other downsides of compiled languages.
 
 Yes, I've been building for insane scale at work, but I'm tired of not having the tools with JS to answer any of my questions. Some of which I wouldn't have to ask with a compiled, non-GC language.
 
