@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Squash merge makes chaining commits hard
+title: Squash merge makes chaining PRs hard
 description: "Get thee behind me, 'request changes' button"
 author: Abe Winter
 ---
