@@ -26,13 +26,13 @@ The ability of ORMs to target multiple DB backends *isn't* an asset. You pay for
 
 New feature support has to travel up multiple layers. Fancy new things like arrays & JSONB took time to filter from the DB to the language DB driver (e.g. psycopg2) to the ORM (e.g. SQLAlchemy).
 
-Some ORMs offer to 'mirror your live DB' into a schema. That's insane to me. It makes any type-checking linting impossible. You have no idea what you're getting. Your test suite will be useless because your local DB probably *is* getting spun up from a schema. If not, then you have another hard problem of doing regular prod dumps to your dev environmen. Yuck.
+Some ORMs offer to 'mirror your live DB' into a schema. That's insane to me. It makes any type-checking or linting impossible. You have no idea what you're getting. Your test suite will be useless because your local DB probably *is* getting spun up from a schema. If not, then you have another hard problem of doing regular prod dumps to your dev environment. Yuck.
 
 ORM-light tools that coerce responses into native structs and allow for type-checking are less offensive to me.
 
 ## ORMs take over connection management and migration
 
-There's always some surprise about the connection or pool type. It's never straightforward, it's always badly documented, it has twice as many layers as necessary to manage bespoke session tracking and table registries. Transactions are undocumented or mysterious.
+There's always some surprise about the connection or pool type. It's never straightforward, it's always badly documented, it has twice as many layers as necessary because it has to manage bespoke session tracking and table registries. Transactions are undocumented or mysterious, autocommit is implied or hidden.
 
 Migration is a hard problem. It's made harder by the fact that our sql migration expertise is fragmented across multiple implementation languages (py, js) when it should be specific to DB engines (mysql, postgres).
 
