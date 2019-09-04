@@ -52,7 +52,7 @@ We can't have nice things until we move our schemas out of our app languages and
 
 ## What am I doing about this
 
-This article is at least 50% out of desire to plug my alpha-stage anti-ORM, [automigrate](https://github.com/abe-winter).
+This article is at least 50% out of desire to plug my alpha-stage anti-ORM, [automigrate](https://github.com/abe-winter/automigrate).
 
 Automigrate starts with `create table` statements in vanilla SQL and can use those to generate:
 
