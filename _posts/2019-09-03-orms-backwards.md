@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ORMs are backwards
-description: Let SQL shine
+description: Not bad just backwards
 author: Abe Winter
 ---
 
@@ -9,7 +9,7 @@ ORMs are something that seem cool until you have to do anything with them, and t
 
 The reason for this is that ORMs are backwards: they force you to design schemas in your implementation language (python, javascript, java) and then export them to SQL 'somehow'. (The 'somehow' is usually a half-baked migration tool). This is bad for a lot of reasons and horrible if you want to access your data from another language.
 
-I think all ORM users have a journey from 'there should be a way to' to 'this is saving me so much work' to 'I have to unwind 30 yards of hose to get my change out'.
+I think all ORM users have a journey from 'there should be a way to' to 'this is saving me so much work' to 'I have to reach into the vending machine to get my change out'.
 
 * toc
 {:toc}
