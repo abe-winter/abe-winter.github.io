@@ -61,4 +61,15 @@ Automigrate starts with `create table` statements in vanilla SQL and can use tho
 
 Schemas and migrations are generally a difficult thing in a new codebase and a problem that teams solve in different ways. My goal is to standardize that, improve my life, and make it easier for people to add new languages to their stack when necessary.
 
+<hr>
+
+## Appendix: things people said online
+
+I got various feedback about this from internet people. Some of it was:
+
+* "Simple CRUD operations are annoying to write without an ORM." I mostly agree with this, especially on the read side, potentially less on the insert / update side.
+* "My ORM *does* use SQL as a source of truth" (from users of various ORMs). If you said this and mean that your class methods translate well to SQL, we're not saying the same thing. If you said this and mean that you can mirror a running DB to a class hierarchy, I'm talking about SQL statements checked into git, not a live DB.
+* "ORMs enable composability." I'm interested in this argument -- in theory you can create a generic RBAC system or something and use it everywhere. In practice clunky join syntax is one of the things that ORMs do that puts ants in my pants, *but* this article is mostly about schema defs and not about querying so I'll say 'no comment'.
+* "Service oriented architectures shouldn't be looking at each other's data directly, so the polyglot use case doesn't matter." I half-agree, but I don't agree in the data processing case. Also, SOA means different things to different people and there are advantages to having a common datastore when you're small.
+
 {% include flatpixel.html tag="smro" %}
