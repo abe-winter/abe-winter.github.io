@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">Posts more than 20 people have read</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {%- if post.top -%}
+        {% include post-index.html %}
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+    <h2 class="post-list-heading">Posts less than 20 people have read</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {%- unless post.noindex or post.top -%}
+        {% include post-index.html %}
+      {%- endunless -%}
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
