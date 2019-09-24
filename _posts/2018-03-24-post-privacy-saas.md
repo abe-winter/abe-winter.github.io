@@ -4,6 +4,7 @@ title: Blueprint for post-post-privacy saas
 description: What I want from my hosts
 author: Abe Winter
 date: 2018-03-24
+noindex: true
 ---
 
 <u>Post-privacy</u> saas is what we have now. SaaS and cloud companies in 2018 disclose so much user data to third parties.

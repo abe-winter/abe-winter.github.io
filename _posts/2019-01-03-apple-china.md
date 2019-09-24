@@ -3,6 +3,7 @@ layout: post
 title: Can AAPL maintain market share in China with a BYO hardware model?
 author: Abe Winter
 date: 2019-01-03
+noindex: true
 ---
 
 I doubt there's any way for apple to keep their profit margins high in china, but if the goal is to preserve or increase their chinese market share, one option is to let chinese integrators sell apple-certified hardware that can run ios.

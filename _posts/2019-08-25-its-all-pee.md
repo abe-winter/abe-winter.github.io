@@ -4,6 +4,7 @@ title: For security and perf, connection pools belong in the std lib
 author: Abe Winter
 description: This can be a solved problem
 categories: primitives
+noindex: true
 ---
 
 In my recent experience, pooling behavior has been the biggest source of uncertainty in the performance of a client library, even more than language speed or the capacity of the backend server. I'm talking about:

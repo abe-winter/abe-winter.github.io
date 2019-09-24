@@ -4,6 +4,7 @@ title: Slack as group mind
 author: Abe Winter
 description: The herd is flat
 date: 2018-07-31
+noindex: true
 ---
 
 1. toc

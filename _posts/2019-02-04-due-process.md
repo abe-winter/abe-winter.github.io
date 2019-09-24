@@ -4,6 +4,7 @@ title: Platforms, identity, and the future of due process
 description: The whole proceeding bears upon its face the most diabolical jesuitism that has ever cursed the world
 author: Abe Winter
 date: 2019-02-04
+noindex: true
 ---
 
 <style>

@@ -6,6 +6,7 @@ description: I see your transparency and raise you radical transparency
 date: 2018-04-15
 categories: read the tos
 redirect_from: /2018/04/15/better/half/fb-better-half.html
+noindex: true
 ---
 
 FB, as an olive branch to concerned users, is permitting people to download their 'own' data from the platform. But this isn't the whole story.

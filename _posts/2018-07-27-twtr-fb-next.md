@@ -3,6 +3,7 @@ layout: post
 title: TWTR/FB have both peaked. Now what?
 author: Abe Winter
 date: 2018-07-27
+noindex: true
 ---
 
 Pretty bad week for twitter/facebook. Audiences down, stock down. My read on the labor / startup / bubble impact of this shock to the valley.

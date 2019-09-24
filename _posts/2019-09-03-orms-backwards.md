@@ -3,6 +3,7 @@ layout: post
 title: ORMs are backwards
 description: Not bad just backwards
 author: Abe Winter
+top: true
 ---
 
 ORMs are something that seem cool until you have to do anything with them, and then they just get in the way. Their promises (backend-agnostic, write type-safe native code, less boilerplate) sometimes have a catch and sometimes are just false.

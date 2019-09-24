@@ -4,6 +4,7 @@ title:  Instead of containerization, give me strong config & deployment primitiv
 date:   2017-04-27 19:08:00 -0400
 categories: blues
 visible: true
+top: true
 ---
 
 ## A modest proposal

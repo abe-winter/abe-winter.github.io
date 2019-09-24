@@ -3,6 +3,7 @@ layout: post
 title: Gmail really wants me to say yes
 description: "Works for me. I'm down. Absolutely."
 author: Abe Winter
+top: true
 ---
 
 Look what's at the bottom of my email. A neat little menu allowing me to reply without typing:

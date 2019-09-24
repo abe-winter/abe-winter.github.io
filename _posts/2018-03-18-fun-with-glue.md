@@ -4,6 +4,7 @@ title: Fun with glue and reliable integration
 description: Something about glue code
 categories: reliable-automation
 date: 2018-03-18
+noindex: true
 ---
 
 This collects some thoughts from using kubernetes and luigi to orchestrate largish systems on various public clouds.

@@ -4,6 +4,7 @@ title: Eggs that lay golden geese
 author: Abe Winter
 description: Diminishing returns is the nature of waterfowl
 date: 2019-05-20
+noindex: true
 ---
 
 Everyone who has a success asks themselves how to repeat it, or failing that, maintain it. If you have a certain kind of career in tech you've seen your share of companies at this stage. Writers, musicians, and athletes struggle with it too, calling it their sophomore slump.

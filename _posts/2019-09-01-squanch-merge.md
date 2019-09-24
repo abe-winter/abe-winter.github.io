@@ -3,6 +3,7 @@ layout: post
 title: Squash merge makes chaining PRs hard
 description: "Get thee behind me, 'request changes' button"
 author: Abe Winter
+noindex: true
 ---
 
 There was a period last year where I was reviewing more code than I wrote and I found myself saying things like:

@@ -4,6 +4,7 @@ title: FOSS must abandon privacy to survive
 description: And set sane norms on data sharing
 author: Abe Winter
 date: 2018-10-01
+noindex: true
 ---
 
 1. toc

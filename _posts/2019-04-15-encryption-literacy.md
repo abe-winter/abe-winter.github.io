@@ -5,6 +5,7 @@ author: Abe Winter
 description: It gets better
 date: 2019-04-15
 categories: scifi
+noindex: true
 ---
 
 I just listened to a [Jim Comey interview](https://www.lawfareblog.com/lawfare-podcast-bonus-edition-james-comey-verify-2019) where he talks about how platforms are going to cooperate with government to execute warrants and it serves the needs of society to follow the middle way here. Do it for the children. (I'm not being snide, I'm summarizing the argument he made).

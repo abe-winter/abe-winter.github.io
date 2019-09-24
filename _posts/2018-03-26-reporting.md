@@ -4,6 +4,7 @@ title: Monitoring is a vampire, reporting is sunlight
 author: Abe Winter
 description: Set to drain
 categories: pituitary-gland
+noindex: true
 ---
 
 An oldie but a goodie: what do you tell a devops person with two alerts queued up? Nothing you haven't already told them twice. Ba-dum ching!

@@ -4,6 +4,7 @@ title:  Patton's sword and the future of work
 date: 2017-05-05
 categories: change
 visible: true
+top: true
 ---
 
 <style>blockquote {font-style:normal; letter-spacing:normal;}</style>
