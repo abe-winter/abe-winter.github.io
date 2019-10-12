@@ -77,6 +77,8 @@ The technological changes involved to really enforce 'you can only use ours' amo
 
 That's the technology. On the legal side, there's no way to ban the use of encryption without unwinding every statute & case protecting individuals against state power.
 
-I get that top cops want to keep my kids safe but so did the [comics code authority](https://en.wikipedia.org/wiki/Comics_Code_Authority) and the [PMRC](https://en.wikipedia.org/wiki/Parental_Advisory). (If you haven't seen Dee Snider [dis Tipper Gore in congress](https://youtu.be/S0Vyr1TylTE?t=1062) you haven't lived. "Ms Gore was looking for sadomasochism and bondage and she found it").
+I get that top cops want to keep my kids safe but so did the [comics code authority](https://en.wikipedia.org/wiki/Comics_Code_Authority) and the [PMRC](https://en.wikipedia.org/wiki/Parental_Advisory). If you haven't seen Dee Snider [dis Tipper Gore in congress](https://youtu.be/S0Vyr1TylTE?t=1062) you haven't lived. "Ms Gore was looking for sadomasochism and bondage and she found it."
+
+[Frank Zappa's take on music ratings](https://youtu.be/hgAF8Vu8G0w?t=249) also fits. "The PMRC proposal is an ill-considered piece of nonsense which fails to deliver any real benefits to children, infringes the civil liberties of people who are not children, and promises to keep the courts busy for years."
 
 {% include flatpixel.html tag="cancel-github" %}
