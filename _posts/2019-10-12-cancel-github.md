@@ -11,12 +11,10 @@ Bill Barr [wrote a letter last week](https://www.buzzfeednews.com/article/ryanma
 If you want to backdoor encryption, here are all the other things you'll have to ban:
 
 * Github, i.e. the right to publish source code without a government audit
-* the ability to run arbitrary software on a device
-* any computer that doesn't run government audit software
+* running arbitrary software on a device, i.e. running any computer without monitoring software
 * steganography, i.e. any technology for hiding a message
-* volume-encryption tools that try to provide plausible deniability for there being an encrypted volume on the device
-* sending any non-backdoored message over a public network
-* non-centralized public networks, i.e. mesh
+* sending any non-backdoored encrypted message over a public network
+* mesh, i.e. non-centralized public networks
 * the [unlicensed radio band](https://www.wi-fi.org/discover-wi-fi/unlicensed-spectrum)
 
 The things you have to ban are fundamental to a software-based economy, and fundamental to my concept of freedom in the 21st century. Ultimately encryption is math. The security apparatus that you'd need to bring to bear to *ban math* is beyond belief.
