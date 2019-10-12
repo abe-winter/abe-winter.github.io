@@ -10,6 +10,15 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">New posts</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {%- if post.new -%}
+        {% include post-index.html %}
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
     <h2 class="post-list-heading">Posts more than 20 people have read</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -22,7 +31,7 @@ layout: default
     <h2 class="post-list-heading">Posts less than 20 people have read</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
-      {%- unless post.noindex or post.top -%}
+      {%- unless post.noindex or post.top or post.new -%}
         {% include post-index.html %}
       {%- endunless -%}
       {%- endfor -%}
