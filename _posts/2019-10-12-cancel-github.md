@@ -17,7 +17,7 @@ If you want to backdoor encryption, here are all the other things you'll have to
 * mesh, i.e. non-centralized public networks
 * the [unlicensed radio band](https://www.wi-fi.org/discover-wi-fi/unlicensed-spectrum)
 
-The things you have to ban are fundamental to a software-based economy, and fundamental to my concept of freedom in the 21st century. Ultimately encryption is math. The security apparatus that you'd need to bring to bear to *ban math* is beyond belief.
+The things you have to ban are fundamental to a software-based economy, and fundamental to my concept of freedom in the 21st century. [Even China hasn't banned github yet](https://www.npr.org/2019/04/10/709490855/github-has-become-a-haven-for-chinas-censored-internet-users). Ultimately encryption is math. The security apparatus that you'd need to bring to bear to *ban math* is beyond belief.
 
 My point isn't just that this is impossible. It's that granting any government the political capital to *try* this is an invitation to create vast new police powers.
 
