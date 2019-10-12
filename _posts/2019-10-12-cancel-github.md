@@ -60,12 +60,15 @@ On child porn: the argument that encryption makes it safer to consume this, and 
 
 ## Every government effort of this kind in the past has failed
 
+(In the US).
+
 * Export restrictions on encryption [were rolled back in the 90s](https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States) because they were no longer enforceable. Can you imagine searching some tourist's alanis morisette jewel case for a windows 95 CD?
 * The [clipper chip](https://en.wikipedia.org/wiki/Clipper_chip#Backlash) met with instant negative backlash from the 90s tech community and never was rolled out
 * FCC sent [mixed signals on DD-WRT](https://arstechnica.com/information-technology/2015/09/fcc-accused-of-locking-down-wi-fi-routers-but-the-truth-is-a-bit-murkier/) and then backpedaled
 * Apple banned [the police tracking app HKmap.live](https://thenextweb.com/security/2019/10/10/apple-bans-app-that-warns-hong-kong-citizens-about-police-activity-again/) in hong kong but [mesh networking is gangbusters](https://www.forbes.com/sites/johnkoetsier/2019/09/02/hong-kong-protestors-using-mesh-messaging-app-china-cant-block-usage-up-3685/) and every platform *but* apple can still install HKmap.live
 * The [NSA bribed RSA](https://www.reuters.com/article/us-usa-security-rsa/exclusive-secret-contract-tied-nsa-and-security-industry-pioneer-idUSBRE9BJ1C220131220) to weaken their algo. This actually worked until snowden, but it wasn't a legislative effort. Does this kind of slimy stuff = 'safe' to you?
 * Senior FBI people were ["definitely not happy"](https://www.techdirt.com/articles/20180327/15444939518/fbi-officials-were-angry-that-iphone-hack-blocked-them-getting-court-to-force-apple-to-break-encryption.shtml) that they cracked the san bernardino phone before they could establish some nasty case law in court
+* The [DMCA case against deCSS](https://en.wikipedia.org/wiki/Universal_City_Studios,_Inc._v._Reimerdes) prevented the dvd encryption keys from being widely spread. They were briefly banned from wikipedia but are now [posted on the page about the controversy](https://en.wikipedia.org/wiki/09_F9_11_02_9D_74_E3_5B_D8_41_56_C5_63_56_88_C0). I think these suits were successful in that they prevented FOSS decryption tech from being distributed with commercial technology, but they didn't prevent the tech from being accessible to criminals & wikipedia users.
 
 ## Backdoors keep failing because they're counter to our values
 
@@ -73,7 +76,7 @@ Backdooring effectively means banning encryption.
 
 The technological changes involved to really enforce 'you can only use ours' amounts to rebuilding the entire internet backbone to be able to decrypt all packets. *And furthermore* you'd have to ban alternative networks and custom chips.
 
-That's the technology. On the legal side, there's no way to ban the use of encryption without unwinding every statute & case protecting individuals against state power.
+That's the technology. On the legal side, there's no way to ban the use of encryption without unwinding every statute & case protecting individuals against state power. This isn't the same as DMCA takedowns, where someone wants their content down. You'd have to ban the building blocks.
 
 I get that top cops want to keep my kids safe but so did the [comics code authority](https://en.wikipedia.org/wiki/Comics_Code_Authority) and the [PMRC](https://en.wikipedia.org/wiki/Parental_Advisory). If you haven't seen Dee Snider [dis Tipper Gore in congress](https://youtu.be/S0Vyr1TylTE?t=1062) you haven't lived. "Ms Gore was looking for sadomasochism and bondage and she found it."
 
