@@ -54,9 +54,9 @@ Tor is used as an example of a technology that doesn't have any applications oth
 
 On the drug front: we're talking about substances some countries have decriminalized in a desperate and reasonable attempt at harm reduction. So while you can make a legal argument against mailing people drugs it's hard to make an unambiguous moral one.
 
-On child porn: the argument that encryption makes it safer to consume this, and therefore creates a market with financial incentives, is one I believe. But the cat is out of the bag. It's *not possible* to ban any software technology among criminals. I believe claims that criminals have organized encrypted communities to commit their crimes.
+On child porn: the argument that encryption makes it safer to consume this, and therefore creates a market with financial incentives, is one I believe. But the cat is out of the bag. It's *not possible* to ban any software technology among criminals.
 
-But organized crime isn't a new phenomenon. This has to be a job for old fashioned police work, because I suspect anyone willing to produce or consume illegal porno is also willing to download an illegal version of tor. 'Target offender organizations' is one of the legs of the [national child exploitation prevention strategy](https://www.justice.gov/psc/file/842411/download#page=90) (2016, p81). Cops have been doing this forever. They'll make it work.
+I believe claims that criminals have organized encrypted communities to commit their crimes. But organized crime isn't a new phenomenon. This has to be a job for old fashioned police work, because I suspect anyone willing to produce or consume illegal porno is also willing to download an illegal version of tor. 'Target offender organizations' is one of the legs of the [national child exploitation prevention strategy](https://www.justice.gov/psc/file/842411/download#page=90) (2016, p81). Cops have been doing this forever. They'll make it work.
 
 ## Every government effort of this kind in the past has failed
 
