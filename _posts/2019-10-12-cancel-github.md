@@ -38,7 +38,7 @@ People are saying 'we can keep the encryption keys safe in a lockbox' but if you
 
 ## Assumptions about centralization that won't hold true
 
-Leaning on facebook to install a backdoor is silly. FB is adding end-to-end encryption because they expect to hemorrhage users when other networks add it. And generally, relying on criminals to use a centralized service is stupid.
+Leaning on facebook to install a backdoor is silly. FB is adding end-to-end encryption because they expect to hemorrhage users when other networks add it. Consumers have been trained to look for SSL on their bank, they'll ask for this too. And generally, relying on criminals to use a centralized service is stupid.
 
 It's highly likely that we'll see hobbyist wifi chips, CPUs and cell phones in the very near future, especially as linux support for most hardware becomes progressively crappier. Will it be cutting edge? *It doesn't have to be*. Cell phones have been 'good enough' since the iphone came out. My ancient Nexus 5 still boots fine.
 
@@ -52,11 +52,11 @@ The current regulation regime for radio [equates enforcement with manufacturer l
 
 Tor is used as an example of a technology that doesn't have any applications other than bad crimes. But there are other ways to investigate these crimes than backdooring encryption. If a child goes missing it gets reported. Law enforcement has done a bunch of effective dark web stings.
 
-On the drug front: we're talking about substances some countries have decriminalized in a desperate, responsible and scientific attempt at harm reduction. So while you can make a legal argument against mailing people drugs it's hard to make a moral one.
+On the drug front: we're talking about substances some countries have decriminalized in a desperate and reasonable attempt at harm reduction. So while you can make a legal argument against mailing people drugs it's hard to make an unambiguous moral one.
 
-On child porn: the argument that encryption makes it safer to consume this, and therefore creates a market with financial incentives, is one I believe. But the cat is out of the bag. It's *not possible* to ban any software technology among criminals. I believe claims that criminals have organized encrypted communities to commit their crimes. But organized crime isn't a new phenomenon. This has to be a job for old fashioned police work, because I suspect anyone willing to produce or consume illegal porno is also willing to download an illegal version of tor.
+On child porn: the argument that encryption makes it safer to consume this, and therefore creates a market with financial incentives, is one I believe. But the cat is out of the bag. It's *not possible* to ban any software technology among criminals. I believe claims that criminals have organized encrypted communities to commit their crimes.
 
-'Target offender organizations' is one of the legs of the [national child exploitation prevention strategy](https://www.justice.gov/psc/file/842411/download#page=90) (2016, p81). Cops have been doing this *for-ever*. They'll make it work.
+But organized crime isn't a new phenomenon. This has to be a job for old fashioned police work, because I suspect anyone willing to produce or consume illegal porno is also willing to download an illegal version of tor. 'Target offender organizations' is one of the legs of the [national child exploitation prevention strategy](https://www.justice.gov/psc/file/842411/download#page=90) (2016, p81). Cops have been doing this forever. They'll make it work.
 
 ## Every government effort of this kind in the past has failed
 
