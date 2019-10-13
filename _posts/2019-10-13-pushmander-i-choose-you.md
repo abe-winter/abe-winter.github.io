@@ -3,6 +3,7 @@ layout: post
 title: Stop gerrymandering my push settings
 description: Respect my authoritah -- or at least my configs
 author: Abe Winter
+new: true
 ---
 
 Tinder added a live entertainment product. Which is fine but they also sent me a push notification about it. 
