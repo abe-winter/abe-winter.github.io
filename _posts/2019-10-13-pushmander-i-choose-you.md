@@ -10,7 +10,7 @@ Tinder added a live entertainment product. Which is fine but they also sent me a
 
 I've left several categories of transactional messages enabled, but **disabled** marketing messages (see screenshots below). But this seems to be a new category. At the moment I can't disable it at all. I'm guessing they'll add a toggle eventually.
 
-I **hate** it when apps ignore my preferences by bucketing new kinds of spam into a new category. This is the push marketing equivalent of waving your hands in front of someone's face and saying 'not touching not touching'. If I'm paying for the ad-free product, this can be legitimately bad for the company in question.
+I **hate** it when apps ignore my preferences by bucketing new kinds of spam into a new category. This is the push marketing equivalent of waving your hands in front of someone's face and saying 'not touching not touching'. If I'm paying for the ad-free product, this may even be legally risky for the company.
 
 ![tinder marketing & transactional notification settings]({{ "/assets/tinder-notifications.png" | absolute_url }})
 
