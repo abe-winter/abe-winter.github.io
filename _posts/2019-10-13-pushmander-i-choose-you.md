@@ -36,6 +36,8 @@ Product managers are incentivized to provide defaults that benefit the company r
 * the defaults increase engagement with the app (though potentially at the cost of burnout, which is harder to attribute)
 * your app is freemium and the less annoying version costs extra
 
-However there's a difference between 'default' and 'mandatory'. Unless there's a powerful business reason and you've done user research, you should allow users to turn things off. At minimum, it's a good way to learn about what your users hate. Absent configs, they'll send you this signal by leaving. Only the crazies will bother to write in before they bail.
+However there's a difference between 'default' and 'mandatory'. Unless there's a powerful business reason and you've done user research, you should allow users to turn things off.
+
+At minimum, it's a good way to learn about what your users hate. Absent configs, they'll send you this signal by leaving. Only the crazies will bother to write in before they bail.
 
 {% include flatpixel.html tag="pushmander" %}
