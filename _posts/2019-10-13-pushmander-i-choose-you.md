@@ -8,7 +8,7 @@ new: true
 
 Tinder added a live entertainment product. Which is fine but they also sent me a push notification about it. 
 
-I've left several categories of transactional messages enabled, but **disabled** marketing messages (see screenshots below). But this seems to be a new category. At the moment I can't disable it at all. I'm guessing they'll add a toggle eventually.
+I've left several categories of transactional messages enabled, but **disabled** marketing messages (see screenshots below). I'm guessing they're considering their live show to be a new category. At the moment I can't disable it at all. I'm guessing they'll add a toggle eventually.
 
 I **hate** it when apps ignore my preferences by bucketing new kinds of spam into a new category. This is the push marketing equivalent of waving your hands in front of someone's face and saying 'not touching not touching'. If I'm paying for the ad-free product, this may even be legally risky for the company.
 
