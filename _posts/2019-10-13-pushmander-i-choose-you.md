@@ -18,13 +18,13 @@ I **hate** it when apps ignore my preferences by bucketing new kinds of spam int
 
 Crossing the transactional / marketing divide is a big no-no in the world of email marketing and should be bad here too, except that we don't have spam filters for pushes. Which is fine because I have the option to uninstall the app, but it's annoying, and leads to bad norms in this space.
 
-The click-through for the push was buggy (on droid, of course) and not only didn't open the new content, but broke page-switching on the app until I backgrounded and reopened. And it seems like tinder has now decorated my public profile with garbage from the new which I'm supposed to be able to turn off but can't (on droid, of course).
+The click-through for the push was buggy (on droid, of course) and not only didn't open the new content, but broke page-switching on the app until I backgrounded and reopened. And it seems like tinder has now decorated my public profile with new garbage which I'm supposed to be able to turn off but can't (on droid, of course).
 
 !["Your critical choices will display inside profile. Manage these preferences in profile settings"]({{ "/assets/tinder-critical-choices.jpg" | absolute_url }})
 
-This isn't an unusual story for an app. My guess is most product people at a tech company have shipped something half-baked in their day. Heck, Boeing shipped a buggy *airplane*, probably to make a delivery date, and those things are really dangerous.
+This isn't an unusual story. My guess is most product people at app companies have shipped something half-baked in their day. Heck, Boeing shipped a buggy *airplane*, probably to make a delivery date, and those things are really dangerous.
 
-I don't mean to call out tinder. Every app is doing this. My android device which is at this point many years old randomly turned on news notifications a few weeks ago and I had to learn how to turn them off.
+I'm not just calling out tinder. Every app is doing this. My android device, many years old now, randomly turned on news notifications a few weeks ago and I had to learn how to turn them off. Maybe give me a setting for 'new settings default to off'.
 
 I liked this ["Your change probably isn't for the better"](https://gist.github.com/sleepyfox/a4d311ffcdc4fd908ec97d1c245e57dc) article that I read a while ago. Specifically for push, if I've ever visited your settings page and disabled anything, I probably don't want to be interrupted by your new thing.
 
