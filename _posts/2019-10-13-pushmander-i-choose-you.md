@@ -22,7 +22,7 @@ The click-through for the push was buggy (on droid, of course) and not only didn
 
 !["Your critical choices will display inside profile. Manage these preferences in profile settings"]({{ "/assets/tinder-critical-choices.jpg" | absolute_url }})
 
-This isn't an unusual story for an app. My guess is most product people at a tech company have shipped something like this in the past. Heck, Boeing shipped a buggy *airplane*, probably to make a delivery date, and those things are really dangerous.
+This isn't an unusual story for an app. My guess is most product people at a tech company have shipped something half-baked in their day. Heck, Boeing shipped a buggy *airplane*, probably to make a delivery date, and those things are really dangerous.
 
 I don't mean to call out tinder. Every app is doing this. My android device which is at this point many years old randomly turned on news notifications a few weeks ago and I had to learn how to turn them off.
 
