@@ -3,7 +3,6 @@ layout: post
 title: Good luck backdooring encryption without banning github
 description: And math I guess
 author: Abe Winter
-new: true
 ---
 
 Bill Barr [wrote a letter last week](https://www.buzzfeednews.com/article/ryanmac/bill-barr-facebook-letter-halt-encryption) begging facebook not to install end-to-end encryption. The letter doesn't say the word backdoor but FB's response does.
