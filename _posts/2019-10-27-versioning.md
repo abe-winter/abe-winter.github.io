@@ -3,6 +3,7 @@ layout: post
 title: Version numbers are meaningless and horrible and so is xcode
 description: The upgrade treadmill is bad for all market participants except one
 author: Abe Winter
+new: true
 ---
 
 1. toc
