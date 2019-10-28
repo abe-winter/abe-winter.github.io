@@ -40,7 +40,7 @@ By comparison, you can download android studio from a website, it's less than 1G
 
 Whole-version upgrades like this are big, scary, bad for consumers and bad for developers. All else being equal, upgrades are risky and bad generally. They can be expensive. And apple is the only party benefiting doing them so often, because after enough of them apple gets to sell me a new laptop.
 
-The most important users of a platform are developers; once they replatform, even if only in their hearts, it's only a matter of time before the users follow. This is one of the ways that apple beat windows in the corporate market -- developers switch to mac because it was closer to linux, and eventually the business side followed.
+The most important users of a platform are developers; once they replatform, even if only in their hearts, it's only a matter of time before the users follow. This is one of the ways that apple beat windows in the corporate market -- developers switched to mac because it was closer to linux, and eventually the business side followed.
 
 ## Cadence, innovation & incentives
 
@@ -60,7 +60,7 @@ The same thing happened with unions in detroit. They didn't understand how times
 
 In apple's case, they need to control everything about their tools because nobody else is aligned with them. Every action is potentially threatening to their hegemony. Many authoritarian systems have this problem -- it's why the soviet union's centrally planned economy failed.
 
-Having an incentive & power together means that you have to oppose all change, because any effective change will lead to a shakeup.
+Unaligned incentives + absolute power = you have to oppose all change, because any effective change will lead to a shakeup.
 
 ## Economically speaking, maintenance is agriculture
 
