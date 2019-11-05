@@ -9,7 +9,7 @@ new: true
 
 I spent like 30 minutes today today figuring out whether a 'firebase app distribution' email that I got was real.
 
-The email was from a https://appdistribution.firebase.dev domain, came from a crashlytics.com email, and required me to auth with google oauth to turn it on. Just confirming that an oauth link is on google.com is hard on a mobile device.
+The email was from a https://appdistribution.firebase.dev domain, came from a crashlytics.com email, and required me to auth with google oauth to turn it on. Just confirming that an oauth link is on google.com (vs googIe.com or any other weird combination) is hard on a mobile device. And these links are long and you have to scroll horizontally in the smaller-than-the-diameter-of-my-index-finger address bar.
 
 Firebase spiced up the batch by putting the link on firebase.dev, a domain that [according to whois.com](https://www.whois.com/whois/firebase.dev) is owned by:
 
