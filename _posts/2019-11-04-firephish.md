@@ -4,7 +4,7 @@ title: Firebase app distribution teaches people to get phished
 description: More domains is not always better
 keywords: phans
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 I spent like 30 minutes today today figuring out whether a 'firebase app distribution' email that I got was real.
