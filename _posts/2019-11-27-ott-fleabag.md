@@ -8,7 +8,7 @@ new: true
 
 If you live under a rock you may not know that apple and disney are sniffing at the buns of netflix and amazon's prime video by launching their own streaming channels and making / buying / taking back their own content.
 
-If you haven't been living under a rock, or your rock doesn't have an ad-blocker installed, you've been bathed in these tasteful reinterpretations of the classics:
+If you haven't been living under a rock, or your rock doesn't have an ad-blocker installed, your poor eyes have been washed in tasteful reinterpretations of the classics like this one:
 
 ![NFLX seuss ad](/assets/ott-nflx-binge.png)
 
@@ -30,7 +30,7 @@ I just want to pay for things.
 
 Being a market participant lets me keep my power and reward the behaviors I like. Subscribing to something is giving my power away; it's good until it isn't.
 
-The simplest example of this is cable fees -- they [hide fees](https://arstechnica.com/tech-policy/2017/08/comcast-fails-to-get-hidden-fee-class-action-suit-thrown-out-of-court/), play games with expiring promotional pricing, and [24% of fees are 'company-imposed' i.e. made up to deceive you](https://www.consumerreports.org/fees-billing/cable-company-fees-add-to-tv-bill/).
+The simplest example of this is cable fees -- they [spring fees on you later](https://arstechnica.com/tech-policy/2017/08/comcast-fails-to-get-hidden-fee-class-action-suit-thrown-out-of-court/), play games with expiring promotional pricing, and [24% of fees are made up anyway](https://www.consumerreports.org/fees-billing/cable-company-fees-add-to-tv-bill/). I think some state AG sued them because buyers lost their credit score over these surprises.
 
 I heard [an interview with the founder of the Surgery Center of Oklahoma](https://www.econtalk.org/keith-smith-on-free-market-health-care/), a clinic that doesn't take insurance. He claimed that his outcomes were fine and his prices were much lower, and various other badness like long lines could be avoided.
 
