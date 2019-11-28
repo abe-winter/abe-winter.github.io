@@ -52,6 +52,6 @@ A lot of businesses are trying to turn themselves into platforms with subscripti
 
 As a consumer, you should avoid these if you can afford to. We've lived with a broken health insurance system for more than a generation and it's not even good for doctors -- the only people benefiting from it are the ones who live inside the walls, in the invisible parts of the system, inventing prices.
 
-OTT is the platform of the hour -- don't subscribe. Dump it if you have it. Help it to die.
+Subscription-based OTT is the platform of the hour -- don't subscribe. Dump it if you have it. Help it to die.
 
 {% include flatpixel.html tag="ott-fleabag" %}
