@@ -30,7 +30,9 @@ I just want to pay for things.
 
 Being a market participant lets me keep my power and reward the behaviors I like. Subscribing to something is giving my power away; it's good until it isn't.
 
-The simplest example of this is cable fees -- they [spring fees on you later](https://arstechnica.com/tech-policy/2017/08/comcast-fails-to-get-hidden-fee-class-action-suit-thrown-out-of-court/), play games with expiring promotional pricing, and [24% of fees are made up anyway](https://www.consumerreports.org/fees-billing/cable-company-fees-add-to-tv-bill/). I think some state AG sued them because buyers lost their credit score over these surprises.
+The simplest example of this is cable fees -- they [spring fees on you later](https://arstechnica.com/tech-policy/2017/08/comcast-fails-to-get-hidden-fee-class-action-suit-thrown-out-of-court/), play games with expiring promotional pricing, and [24% of fees are made up anyway](https://www.consumerreports.org/fees-billing/cable-company-fees-add-to-tv-bill/). The deal goes from sweet to sour the moment your locked in. And it can be [very hard to escape](https://soundcloud.com/ryan-block-10/comcastic-service). I think some state AG sued them because buyers lost their credit score over these surprises.
+
+This is how OTT is going to be once the herd clears.
 
 I heard [an interview with the founder of the Surgery Center of Oklahoma](https://www.econtalk.org/keith-smith-on-free-market-health-care/), a clinic that doesn't take insurance. He claimed that his outcomes were fine and his prices were much lower, and various other badness like long lines could be avoided.
 
