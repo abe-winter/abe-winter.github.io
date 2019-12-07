@@ -3,7 +3,7 @@ layout: post
 title: The OTT wars mean you can't even buy amazon content from amazon
 description: The first one is free
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 If you live under a rock you may not know that apple and disney are sniffing at the buns of netflix and amazon's prime video by launching their own streaming channels and making / buying / taking back their own content.
