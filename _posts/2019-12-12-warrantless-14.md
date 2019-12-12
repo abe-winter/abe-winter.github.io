@@ -51,3 +51,5 @@ The argument for privacy against the government has always been corruption / tyr
 Every platform user is living in an authoritarian state if you believe that platforms are state-like entities. 
 
 Legislators who don't get the importance of consumer privacy are on the wrong side of history and will lose their seats. Even the AARP crowd is super-sensitive to fraud online -- they're a major target.
+
+{% include flatpixel.html tag="warrantless-14" %}
