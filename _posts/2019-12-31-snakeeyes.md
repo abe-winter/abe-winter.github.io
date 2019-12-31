@@ -11,14 +11,14 @@ I'm not one of those luddites who thinks we shouldn't run our container workload
 
 ## How to split
 
-* Binpacking containers to hosts.
+1. Binpacking containers to hosts.
 	- This is both the runtime that takes care of that plus an API / database of where things are and the rules engine.
 	- Autoscaling can live as an auxiliary system on top of this -- it doesn't need to be built in. Autoscaling has a lot of logic quirks and edge cases, it's too new, it should be BYO
-* Routing system
+1. Routing system
 	- i.e. what's currently in kube service / ingress
 	- plus the vendor-specific glue that integrates with cloud resources like load balances and letsencrypt
 
-There's other stuff that should be moved / changed. The yaml config language is in a perpetual state of staleness and impedance mismatch and IMO should be thrown in the trash. Cron doesn't belong in there-- it can talk to the binpacking system but doesn't belong inside.
+The third thing is everything else. The yaml config language is in a perpetual state of staleness and impedance mismatch and IMO should be thrown in the trash. Cron doesn't belong in there -- it can talk to the binpacking system but doesn't belong inside.
 
 Storage management has always been weird in the cloud. EBS makes a network store appear to be a disk and it's convenient and backed-up but you're basically amortizing performance for convenience. It kills me that hosted DBs are running on EBS disks. My point is that for kube, it's not a huge advantage to have the orchestration layer mount network drives for you. This can happen in a general plugin system, not a storage-specific plugin system.
 
