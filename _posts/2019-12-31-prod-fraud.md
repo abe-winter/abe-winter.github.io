@@ -76,7 +76,7 @@ Platforms are using stats like this internally to identify 'coordinated inauthen
 
 I worked on a (tiny, defunct) product called [trustgator](https://github.com/abe-winter/trustgator) that used trust graphs to contextualize comments on a reddit-like interface. This isn't the only one of these or the best, but I hope a major platform adopts something like this so that users can get more information about who they're listening to.
 
-## It's up to consumers
+## It's up to consumers & designers
 
 Fake news and fake nikes have this in common: they're happening on a platform that benefits from fraud, but isn't doing the deed themselves.
 
@@ -85,5 +85,7 @@ I watched Gaslight, the 50s movie that named the trope. She stayed crazy until s
 Consumers, I think, feel pretty gaslit about various digital products. Is facebook listening to our conversations? It's really hard to prove what's going on, even to ourselves, so we rewrite our memories and go on with our lives.
 
 I pay for everything I possibly can because when I pay for something it creates a paper trail and clear promise to deliver. I avoid free products like the plague. I hope more people take this route.
+
+Until consumers get with the program, product managers & designers of free or social products, it's up to you: you're going to have a fraud problem after you launch, so plan for it and design the mitigations now. Hard-to-spam, hard-to-game products are the future.
 
 {% include flatpixel.html tag="prod-fraud" %}
