@@ -56,7 +56,7 @@ Prices can increase at any time:
 
 The agreement is tolerant of their mistakes but not mine:
 
-> Our acceptance of premium payments is not an indictation that coverage is in force
+> Our acceptance of premium payments is not an indication that coverage is in force
 
 > if you do not receive an invoice for any reason, you must still pay the required premium by the applicable due date
 
@@ -76,7 +76,9 @@ Their friendly motto is 'everyone benefits' (it has what looks like an asterisk 
 
 > To succeed, an offering must create value for all entities involved in the exchange -- target customers, the company, and its collaborators.
 
-The reason this can be so crappy for me is that I'm not really a stakeholder. My ex-job isn't really even a stakeholder. Justworks, the PEO that contracts to wageworks to provide COBRA, *may* be one. How am I not a stakeholder you ask? I have neither of the two levers that consumers use to get better service from companies: exit and voice. I've already exited, in that I've been fired or quit my company by the time I'm getting cobra. And I'm not making a new purchase decision, and can't take my COBRA business elsewhere, so I don't have a voice.
+The reason this can be so crappy for me is that I'm not really a stakeholder. My ex-employer isn't really even a stakeholder. Justworks, the PEO that contracts to wageworks to provide COBRA, *may* be one.
+
+How am I not a stakeholder, you ask? I have neither of the two levers that consumers use to get better service from companies: exit and voice. I've already exited, in that I've been fired or quit my company by the time I'm getting cobra. And I'm not making a new purchase decision, and can't take my COBRA business elsewhere, so I don't have a voice.
 
 The fact that you can only sign up for health insurance at randomly chosen dates per year is icing on the cake and further reduces my power here. The system is strangely design to empower opaque bureaucracy. This is the sharp end of a very, long, stick.
 
@@ -84,7 +86,7 @@ I listened to [an interview with the director of an oklahoma surgery center](htt
 
 I think the ability to easily pay for routine health issues out of pocket enables price setting mechanisms but also restores quality and dignity to healthcare. Here's $100, you now owe me X.
 
-This site wins my bad UX award because it masters but also transcends bad usability. It's not just hard to navigate: it uses bullying and uncertainty to create existential dread about a life or death service. It's a distraction hiding inside another distraction -- health insurance itself is confusing, complex and variably applicable. By adding a layer of pain on top of that, it directs my attention to the beautiful (in this case ugly) assistant, like a malicious stage magician or (wait for it) some sort of evil wizard.
+This site wins my bad UX award because its bad usability transcends UX and goes to value. It's not just hard to navigate: it uses bullying and uncertainty to create existential dread about a life or death service. It's a distraction hiding inside another distraction -- health insurance itself is confusing, complex and variably applicable. By adding a layer of pain on top of that, it directs my attention to the beautiful assistant (or in this case beautifuly ugly UX), like a malicious stage magician or (wait for it) some sort of evil wizard.
 
 ## Left-hand right-hand
 
