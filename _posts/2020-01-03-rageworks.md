@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yer a wizard wageworks! Bad UX in practice
+title: Yer a wizard wageworks! Bad UX indicates a broken value chain
 description: Game recognizes game
 keywords: uxfail
 author: Abe Winter
