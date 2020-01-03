@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yer a wizard wageworks!
+title: Yer a wizard wageworks! Bad UX in practice
 description: Game recognizes game
 keywords: uxfail
 author: Abe Winter
