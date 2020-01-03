@@ -72,7 +72,9 @@ Despite the numerous assurances that wageworks may change or remove my insurance
 
 ![everyone benefits](/assets/wageworks-everyone-benefits.png)
 
-Their friendly motto is 'everyone benefits' (it has what looks like an asterisk next to it, so T&C may apply). It reminds me of a product marketing line I read recently which says that successful products to provide value for *all* stakeholders in the chain.
+Their friendly motto is 'everyone benefits' (it has what looks like an asterisk next to it, so T&C may apply). It reminds me of [this shutdown post](https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/) from today which quotes a marketing textbook saying:
+
+> To succeed, an offering must create value for all entities involved in the exchange -- target customers, the company, and its collaborators.
 
 The reason this can be so crappy for me is that I'm not really a stakeholder. My ex-job isn't really even a stakeholder. Justworks, the PEO that contracts to wageworks to provide COBRA, *may* be one. How am I not a stakeholder you ask? I have neither of the two levers that consumers use to get better service from companies: exit and voice. I've already exited, in that I've been fired or quit my company by the time I'm getting cobra. And I'm not making a new purchase decision, and can't take my COBRA business elsewhere, so I don't have a voice.
 
