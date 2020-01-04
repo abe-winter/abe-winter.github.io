@@ -4,7 +4,7 @@ title: Yer a wizard wageworks! Bad UX indicates a broken value chain
 description: Game recognizes game
 keywords: uxfail
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 It's 2020 and harry potter is both on broadway and in the NY historical society for some wtf-styled reason, but to me, the best evil wizard of the year so far is the wageworks COBRA election form.
