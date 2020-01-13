@@ -2,7 +2,7 @@
 layout: post
 title: The internet runs on (dumb) contracts
 description: Consumer docusign could be huge
-new: true
+noindex: true
 ---
 
 Think of all the random crap you sign that's life-or-death important for the company to have on file, and to be an enforceable contract: privacy disclosures or arbitration agreements, the former gaining steam as CCPA joins its european cousin. Or life-or-death for you: health insurance, for example.
