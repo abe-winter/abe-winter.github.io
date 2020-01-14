@@ -3,7 +3,7 @@ layout: post
 title: Stripe formed an LLC faster than my bank could execute a wire transfer
 description: Big banks lack the DNA to build self-serve
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 I made two major financial moves in the last 4 weeks:
@@ -82,8 +82,5 @@ Visa the credit card company apparently bought banking oauth provider Plaid whil
 Eventually this will reverse -- fintechs will buy legacy banks for pennies on the dollar. In a few years, a bank will basically be a taxi medallion: a bundle of dissatisfied customers on their way out + the valuable regulatory right to operate as a bank.
 
 Want to buy a medallion?
-
-## Footnotes
-{:.no_toc}
 
 {% include flatpixel.html tag="self-serve" %}
