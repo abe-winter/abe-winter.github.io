@@ -10,7 +10,7 @@ I made two major financial moves in the last 4 weeks:
 
 **Move 1**: I formed an LLC using stripe's automation. Excluding waiting for the EIN, the process took two or three days. There were a few recoverable bugs and zero large surprises. I talked to zero people on the phone. There's a pleasing flowchart that tracks your progress.
 
-![atlas application flowchart](/assets/atlas-application.png)
+![atlas application flowchart]({{ "/assets/atlas-application.png" | absolute_url }})
 
 **Move 2**: Naively trying to fund a new brokerage account from my checking account. This triggered a chain reaction of fraud alerts and errors that spread like a tropical fever from my checking account to my credit card to various things attached to said card, including stuff I need for my business.
 
@@ -67,7 +67,7 @@ Today, depositing my physical check at a physical branch, I asked how long it wo
 
 To gaslight me, chase has started backdating cancelation notices for the initial payments. This payment wasn't marked returned until a week after the date in the screenshot. Feast your eyes:
 
-![backdated returned payment](/assets/backdated-payment.png)
+![backdated returned payment]({{ "/assets/backdated-payment.png" | absolute_url }})
 
 Maybe this is chase's attempt to build a [bitemporal database](https://en.wikipedia.org/wiki/Bitemporal_database#Bitemporal_Modelling) but more likely this is them covering their butt at my expense so they can change history if I dispute anything.
 
@@ -97,7 +97,7 @@ The pieces of information that you have to give to identify yourself vary from c
 
 Also the clearest google result for the random texas number they called from is [this tweet](https://twitter.com/jstackhouse/status/652132359286882305):
 
-![tweet about phish-like citi source #](/assets/citi-fraud-tweet.png)
+![tweet about phish-like citi source #]({{ "/assets/citi-fraud-tweet.png" | absolute_url }})
 
 My real point is that better self-serve flows allow a lot of this to go away.
 
