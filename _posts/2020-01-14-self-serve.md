@@ -14,7 +14,7 @@ I made two major financial moves in the last 4 weeks:
 
 **Move 1**: I formed an LLC using Stripe's automation. Excluding waiting for the EIN, the process took two or three days. There were a few recoverable bugs and zero large surprises. I talked to zero people on the phone. There's a pleasing flowchart that tracks your progress.
 
-**Move 2**: Naively trying to fund a new brokerage account from my checking account. This triggered a chain reaction of fraud alerts and errors that spread like a tropical fever from my checking account to my credit card to various attached to said card, including stuff I need for my business.
+**Move 2**: Naively trying to fund a new brokerage account from my checking account. This triggered a chain reaction of fraud alerts and errors that spread like a tropical fever from my checking account to my credit card to various things attached to said card, including stuff I need for my business.
 
 If Stripe's values are self-serve, transparency, and good docs, the banks' values are a syrupy blend of opaque rules, utter deafness to my time value, and hold music.
 
@@ -35,9 +35,9 @@ I had a lot of time to stew while I was listening to fuzzy hold music. (Why is t
 
 One of my on-hold activities was to read about citi's executive leadership team. There's nothing resembling the CTO or head of product at a real tech company. Their CEO for global consumer banking came up through commercial banking. The one tech person is described as a 'head of enterprise infrastructure', doesn't have a C title, and came out of their institutional clients group.
 
-This is a room full of people who are used to selling products that are too big to fail i.e. can afford to mostly suck.
+This is a room full of people who are used to selling products that are too big to fail i.e. can afford to mostly suck. Every interaction I had with citi this weekend sucked, and I suspect this is true for every person or business unfortunate enough to do business with them.
 
-This wide gap between stripe-quality customer service and the war crime version practiced by citi would, in any industry other than healthcare or banking, cause them to rapidly get left in the dust.
+This wide gap between stripe-quality customer service and the war crime version practiced by citi would, in any industry other than healthcare or banking, cause citi to rapidly get left in the dust.
 
 There must be many others like me. If you sum up the hours of wasted life, inept banks are committing mass murder. Better self-serve really matters. I'll be undwinding this crisis for weeks.
 
@@ -53,11 +53,11 @@ Neither account signaled any kind of error status. Think about this. Something i
 
 In the system that the call center agents had access to, something was wrong but nobody knew quite what. The chase operators told me a few times that 'something is weird about these payments' but they couldn't tell me what. WTF.
 
-'Banking isn't exactly real-time', explained a chase agent this evening. She said it to justify why in order to pay my card now I have to go to a chase branch, hand someone a physical check, wait for it to appear in my checking account, then call chase, who will then call citi, likely while I hold the line.
+'Banking isn't exactly real-time', explained a chase agent this evening. She said it to justify why in order to pay my card now I have to go to a chase branch, hand someone a physical check, wait for the charge to land in my checking account, then call chase, who will then call citi, likely while I hold the line with bated breath.
 
 ## Phone trees & password roullette
 
-In part because I deeply despise my cell phone, the yubikey is the possession that gives me the most delight. I giggle when I plug it in. I take it out and look at it sometimes, tipping the gold USB contacts towards the light, muttering about how it was a birthday present. One day someone will win it from me in a riddle contest.
+In part because I deeply despise my cell phone and therefore SMS 2FA, the yubikey is the possession that gives me the most delight. I savor the click when I plug it in. I take it out and look at it sometimes, tipping the gold USB contacts towards the light, muttering about how it was a birthday present. One day someone will win it from me in a riddle contest.
 
 Neither of the banks I've been dealing with support FIDO / U2F. Not that it would matter because to get anything done, you have to call them.
 
