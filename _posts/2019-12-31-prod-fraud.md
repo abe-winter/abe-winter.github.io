@@ -2,7 +2,7 @@
 layout: post
 title: The future of product is fraud
 description: "Preventing it, I mean"
-new: true
+noindex: true
 author: Abe Winter
 ---
 
