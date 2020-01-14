@@ -6,10 +6,6 @@ author: Abe Winter
 new: true
 ---
 
-> Catastrophe is always just around the corner[^complex]
-
-[^complex]: [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
-
 I made two major financial moves in the last 4 weeks:
 
 **Move 1**: I formed an LLC using Stripe's automation. Excluding waiting for the EIN, the process took two or three days. There were a few recoverable bugs and zero large surprises. I talked to zero people on the phone. There's a pleasing flowchart that tracks your progress.
@@ -28,8 +24,6 @@ Interacting with stripe and the old banks simultaneously made the difference her
 {:toc}
 
 ## Legacy finance has no self-serve DNA
-
-> Human operators have dual roles, as producers & as defenders against failure[^complex]
 
 I had a lot of time to stew while I was listening to fuzzy hold music. (Why is the audio quality so bad! At one point citi conferenced me through their system to an operator for my brokerage, and the third party was clearer than the citi agent! Ugh).
 
@@ -73,13 +67,11 @@ Also citi sent me an unencrypted email. WTF.
 
 ## Y kant citi hire
 
-> Change introduces new forms of failure.[^complex]
-
 It's 2020 now. The new millennium has come of age. The talent for doing usable web 2.0 isn't cheap but it's affordable. But they don't want to work at a bank. I worked at a bank in 2012. I quit after 2 weeks when I discovered how much it sucked. They were so dysfunctional they threatened to sue to keep me (wtf). Months later, Sandy closed our office and the team kind of dissolved.
 
 If citi had access to 40 devs and 10 senior PMs from stripe, could they be better? If they bought stripe, could they be better? I doubt it. I think citi has a combination of legitimate legacy processes, people who are incentivized to lie about legacy processes to maintain their political power, and stale rules that nobody remembers the reason for. This combo is toxic to real producers.
 
-I've met star managers who can toe the risk / reward line of refactoring legacy stuff. I've never technically been inside citi, but I got a pretty good map of their bowels from being shat on. I've deduced via colonoscopy that the leadership at citi would mob that star and drive them to failure. Their political survival depends on it.
+I've met star managers who can toe the risk / reward line of refactoring legacy stuff. I've never technically been inside citi, but I got a pretty good map of their bowels from being shat on. Extrapolating from politicized workplaces in my past, I suspect the leadership at citi would mob that star and drive them to failure. Their political survival depends on it.
 
 Their survival as a company, however, may depend on allowing such a person to succeed. It will be interesting to see how dinosaur organizational cultures like citi evolve as actual tech cos begin to steal their lunch money.
 
