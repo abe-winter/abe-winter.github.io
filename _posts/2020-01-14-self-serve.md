@@ -83,6 +83,10 @@ I've met star managers who can toe the risk / reward line of refactoring legacy 
 
 Their survival as a company, however, may depend on allowing such a person to succeed. It will be interesting to see how dinosaur organizational cultures like citi evolve as actual tech cos begin to steal their lunch money.
 
+Visa the credit card company apparently bought banking oauth provider Plaid while I was writing this. Blockbuster had a chance to buy netflix when it was just a DVD mailer, but BB never would have let it become the mass producer of shitty marvel spinoffs. Somebody this will reverse -- fintechs will buy legacy banks for pennies on the dollar. In a few years, a bank will basically be a taxi medallion -- a bundle of dissatisfied customers on their way out + the valuable regulatory right to operate as a bank.
+
+Want to buy a medallion?
+
 ## Footnotes
 {:.no_toc}
 
