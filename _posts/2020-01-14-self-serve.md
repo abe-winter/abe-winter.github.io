@@ -87,7 +87,7 @@ I'm not proposing replacing people with robots -- I'm proposing taking a system 
 
 I think that the health insurance industry benefits from opaque information and rules, and is able to reject and delay payments by having complex reimbursement standards that they can interpret at will. I'm not sure what the banks get from behaving this way.
 
-## Phone trees & password roullette
+## Phone trees & password roulette
 
 In part because I deeply despise my cell phone and therefore SMS 2FA, the yubikey is the possession that gives me the most delight. I savor the click when I plug it in. I take it out and look at it sometimes, tipping the gold USB contacts towards the light, muttering about how it was a birthday present. One day someone will win it from me in a riddle contest.
 
