@@ -2,7 +2,7 @@
 layout: post
 title: Backdoored encryption will end open protocols and enthrone existing platforms
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 One the face of it, 'let's not backdoor encryption' is the one thing that FB and I agree on. In private, I suspect FB and AG Bill Barr are actually on the same page, though like all platforms FB benefits from appearing to defend consumers against all threats. Even if private messaging is secure in FB, they'll still own the envelope data i.e. know who talks to who. Law enforcement & FB have a common interest in keeping the social graph open for business even if contents go away.
