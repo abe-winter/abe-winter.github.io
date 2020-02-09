@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solo founders, surveys and sane product decisions
+title: Surveys help solo founders make sane product decisions
 description: Don't shoot the albatross, follow it south
 author: Abe Winter
 new: true
