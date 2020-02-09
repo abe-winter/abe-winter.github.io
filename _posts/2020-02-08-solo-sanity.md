@@ -9,20 +9,23 @@ new: true
 The good thing about building something on your own is also the bad thing -- you don't have to make sense to anybody else.
 If your thing is pie in the sky and you believe in it, or like it, you get to invest your energy with nobody to clip your wings.
 
-If the 'something' is a product that other people are supposed to pay money for, incubating alone in your basement will invariably lead to a fly-to-close-to-the-sun moment where your wax melts.
+If the 'something' is a product that other people are supposed to pay money for, incubating alone in your basement will invariably lead to a too-close-to-the-sun moment where you lose your wax.
 You'll launch and you'll realize that awesome thing you were working on was actually a macaroni painting.
 It's embarrassing.
 
 This will be true even if you started with a real need that's costing you real money at your day job.
-You'll end up with Edward Scissorhands, a creation that makes cool ice sculptures but is off-putting to consumers and ultimately impractical.
+You'll end up with Edward Scissorhands, a creation that makes cool ice sculptures but is off-putting to consumers and ultimately not an effective barber.
 
 1. toc
 {:toc}
 
 ## Freshness
 
-'Keeping thinking fresh' is a critical need in invention because ...
-. Brute forcing it is counterproductive: more drafts with no new information from the outside can erode the good information you started with.
+Fresh thinking is a critical need in product development because nothing is made of just one idea, and your first take is seldom right.
+Product-minded founders will say that execution is more than just a good idea.
+Another version of this is that good products contain many good ideas, and integrating them seamlessly requires good process.
+
+But brute-forcing iteration is counterproductive: more drafts with no new information from the outside can erode the single idea you started with.
 It's the same with fiction -- 'fresh eyes' is a critical resource that can't be squandered and can't be rushed.
 
 There's a perception that taste is a limiting reactant for invention and I think that's right, but taste is based on information.
@@ -111,7 +114,7 @@ I read some strategy book that says 'good strategy is simple'.
 I think good plans also let you query any part of the spec and get a simple answer for why it needs to be there.
 
 For me this was a hard concept to accept.
-I have cultural baggage that is anti-why that I'm working hard to unlearn.
+I have cultural baggage that is anti simple explanations that I'm working hard to unlearn.
 I think people who have worked at the bottom of large companies have trouble understanding this because they're operating within a system of irreducible complexity[^complexity] where asking 'why' is considered politically hostile.
 Schools, or at least non-elite schools, also imprint anti-why behavior.
 
@@ -119,14 +122,16 @@ Schools, or at least non-elite schools, also imprint anti-why behavior.
 
 'Ours is not to question why, ours is but to do and die' is the crimean war cavalry version of this.
 
-I haven't spent much time in large organizations, but my small-org experience has taught me that solving problems and advocating for solutions are separate skills, and the latter is rarer.
-It's also easier to do in a culture that's used to everyone questioning things that don't make sense.
-My ex-Bridgewater friends claim that their culture of rationality in decision-making has real value.
-(All I really know about Ray Dalio is that I heard his goop podcast interview, which was nuts).
+I haven't spent much time in large organizations, but my small-org experience has taught me that solving problems and successfully advocating for change are separate skills, and the latter is rarer.
+This is why people often fix things at night or over the weekend -- the forces of darkness resist this work during billable hours.
 
 (People have been forwarding around this farnam street newsletter, [excerpted here](http://www.lev.vc/fires/), about solving visible problems vs avoiding them, which is kind of on this topic).
 
-But if you take nothing else from this post, trust me that while group decisions are 30% fresh, solo decisions are 0% fresh.
+In theory iterative, rational change is easier in a culture that's used to everyone questioning things that don't make sense.
+My Bridgewater friends claim that their culture of rationality in decision-making has real value.
+All I really know about Ray Dalio is his goop podcast interview, which struck me as nuts.
+
+If you take nothing else from this post, trust me that while group decisions are 30% fresh, solo decisions are 0% fresh.
 If you're a solo founder, you need an external source of truth to support your iterative creativity.
 Consider surveys.
 
