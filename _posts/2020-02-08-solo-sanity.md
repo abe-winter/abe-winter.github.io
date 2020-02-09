@@ -56,7 +56,7 @@ I've heard this feedback from everyone who goes through a 'solo project period'.
 You start out and you're like 'I can work 10 hours a day and just crank', and you end up bouncing off the walls.
 
 Those pesky others at work were preventing you from working on things that aren't ready to start yet.
-The gates they were putting up were systemic and real.
+The gates they were putting up were guarding a cliff, or at least a rabbit-hole.
 
 Surveys have a similar effect of forcing you to wait for spec and reality to align before you start building.
 
@@ -66,13 +66,14 @@ Getting 10 results in under an hour is enough to understand broad trends, though
 1-hour turnaround means I can do three round-trips in a day and have time in between to work on other stuff.
 
 That means you can afford to suck on the first one.
-Questions that don't have a clear winner are often bad questions that don't move you forward, but will give you hints from write-ins or deeper thinking about the topic.
-Bad surveys, if you accept that they failed, will spawn good surveys that are narrower and make sense to your panel.
+Questions that don't have a clear winner are often bad questions that don't solve your problem, and unfold into new questions that give you more angles on the problem.
+Bad surveys, if you accept that they failed, will spawn good surveys as your gradually explore your space.
 
 **Write-ins are thoughtful and informative**.
 Especially when you're surveying friends and family, because you can follow up and ask what they mean.
 Write-ins have taught me more about the competitive space for my products than any other kind of research.
-They also uncover hidden correlations -- cases where a majority are dissatisfied with a product, and a minority are supplementing it with another product, giving you an opportunity for vertical integration.
+
+Write-ins also expose valuable trends that you can exploit -- for example, cases where a majority are dissatisfied with a product, and a minority are supplementing it with another product, giving you an opportunity to build a hybrid product that solves the entire user need.
 
 **Plausibly viable MVPs**.
 When you're in a vacuum, you'll make decisions based on what's good for you, not as a user but as a developer.
@@ -94,15 +95,16 @@ Separating goals from how you get to them is one definition of strategy, and mat
 Good strategy is an argument.
 Surveys force you to construct these good arguments so you don't suffer from JP2's idolatry and false absolutes.
 
-**Easier to pitch than a pitch**.
+**Easier to discuss than a pitch**.
 Specs from your brain are like vacation photos -- people will sit politely until they can escape.
 But surveys are work product, they're juicy secrets, you can whisper them and people will lean in to hear.
 Survey results are a better conversation because you're interpreting the answers together rather than fencing over the binary question of whether your one idea is right.
 
 **Better than ads early-on**.
-Ads to a landing page in theory let you validate an idea, but surveys let you ask 'why not'.
+Driving traffic to a landing page in theory lets you validate *whether* an idea is good, but surveys let you ask 'why not'.
 Both have their place, and all experimentation is good probably, but surveys are 10x quicker to build and give you more information when the answer is 'no'.
-Improv is all about the 'yes and', surveys give you a 'no but' which is the listening version of that.
+
+Creative writers love the 'yes and' from improv; surveys give you a 'no but' which is a tool for creative listening.
 
 This could be my marketing naivete at work, but keyword ads to drive traffic to a prototype is something that hasn't worked well for me.
 I talked to someone this week who said interest-based advertising works better for this because you're targeting people rather than existing search traffic.
@@ -134,6 +136,8 @@ All I really know about Ray Dalio is his goop podcast interview, which struck me
 If you take nothing else from this post, trust me that while group decisions are 30% fresh, solo decisions are 0% fresh.
 If you're a solo founder, you need an external source of truth to support your iterative creativity.
 Consider surveys.
+
+🍅🍅🍅
 
 ## Notes
 {:.no_toc}
