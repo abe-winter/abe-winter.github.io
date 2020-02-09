@@ -135,7 +135,6 @@ All I really know about Ray Dalio is his goop podcast interview, which struck me
 
 If you take nothing else from this post, trust me that while group decisions are 30% fresh, solo decisions are 0% fresh.
 If you're a solo founder, you need an external source of truth to support your iterative creativity.
-Consider surveys.
 
 🍅🍅🍅
 
