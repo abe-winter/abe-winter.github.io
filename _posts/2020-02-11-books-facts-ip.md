@@ -86,7 +86,7 @@ If I'd published a non-fiction book in the last 100 years I'd put $10 right now 
 
 Google will force us to create a new format for information by removing the profitability from the existing one.
 
-It's not like they didn't tell us they were doing this. Their mission statement was to 'free the world's information'. Small wonder they don't understand privacy. In this case we're talking about information that's protected by IP rights. When you free something that belongs to someone it's czlled stealing.
+It's not like they didn't tell us they were doing this. Their mission statement was to 'free the world's information'. Small wonder they don't understand privacy. In this case we're talking about information that's protected by IP rights. When you free something that belongs to someone it's called stealing.
 
 Stealing is evil, of course, and [evil has only been on the menu since 2018](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393). So no surprise on the slow start.
 
