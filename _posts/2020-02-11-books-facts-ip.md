@@ -94,9 +94,13 @@ Stealing is evil, of course, and [evil has only been on the menu since 2018](htt
 
 There's a [thread about this](https://news.ycombinator.com/item?id=22301512) on HN. Arguments I liked in there:
 
-**Publishing a summary doesn't violate copyright**. Agree, but publishing *every* possible summary of a book might. And releasing an expert system based on a book is more like 'every summary' than a single summary.
+**Publishing a summary doesn't violate copyright**.
+Probably right, but publishing *every* possible summary of a book doesn't have case law and is much more like a substituitable good.
+And releasing an expert system based on a book is more like 'every summary' than a single summary.
 
-In my opinion this is like G's problem with yelp / genius infoboxes -- scraping an entire site and preventing you from clicking through. I'm not a lawyer or an expert on IP law, so I don't know if there's case law for yelp v google on US soil. [Genius watermarked their lyrics so the apostrophes read out 'red handed' in morse code](https://www.wired.com/story/what-the-google-genius-copyright-dispute-is-really-about/).
+In my opinion this is like G's problem with yelp / genius infoboxes -- scraping an entire site and deterring you from clicking through.
+I'm not a lawyer or an expert on IP law, so I don't know if there's case law for yelp v google on US soil.
+Also [Genius watermarked their lyrics so the apostrophes read out 'red handed' in morse code](https://www.wired.com/story/what-the-google-genius-copyright-dispute-is-really-about/).
 
 **Airbnb uses ML successfully to rank search results**. From [this comment](https://news.ycombinator.com/item?id=22304652). I think the person was trying to say that FB & G are using ML effectively, but they just posted this paper on [ML-based ranking at airbnb](https://arxiv.org/abs/1810.09591). Re-sharing here because I liked the paper, draw your own conclusions about the rest.
 
