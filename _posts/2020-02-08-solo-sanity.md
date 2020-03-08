@@ -3,7 +3,7 @@ layout: post
 title: Surveys help solo founders make sane product decisions
 description: Don't shoot the albatross, follow it south
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 The good thing about building something on your own is also the bad thing -- you don't have to make sense to anybody else.

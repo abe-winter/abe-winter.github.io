@@ -3,7 +3,7 @@ layout: post
 title: Stripe can make automatic LLCs but a wire transfer from citi nearly ended me
 description: Big banks lack the DNA to build self-serve
 author: Abe Winter
-new: true
+top: true
 ---
 
 I made two major financial moves in the last 4 weeks:

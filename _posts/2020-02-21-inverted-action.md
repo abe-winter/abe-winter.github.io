@@ -3,7 +3,7 @@ layout: post
 title: Platforms invert collective action problems
 description: Enjoy it while it lasts
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 1. toc

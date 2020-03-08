@@ -3,7 +3,7 @@ layout: post
 title: The coming IP war over facts derived from books
 description: Facts are friends not food
 author: Abe Winter
-new: true
+top: true
 ---
 
 * toc
