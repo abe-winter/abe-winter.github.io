@@ -2,7 +2,7 @@
 layout: post
 title: "Terms of service readthrough: Substack"
 description: Not signing
-keywords: tos
+categories: tos
 author: Abe Winter
 new: true
 ---
