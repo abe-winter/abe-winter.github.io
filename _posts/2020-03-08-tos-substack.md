@@ -62,7 +62,7 @@ Period? This is too broad.
 
 ---
 
-7(a) has me warrant that my content doesn't 'infringe, violate, or misappropriate any law, statute, ordinance or regulation'. This doesn't restrict the jurisdiction so I could be in violation of this by defaming a head of state in one of the [various countries that still prohibit this](https://en.wikipedia.org/wiki/Lese_majeste#Current_laws).
+7(a) has me warrant that my content doesn't 'infringe, violate, or misappropriate any law, statute, ordinance or regulation'. This doesn't restrict the jurisdiction so I could be in violation of this by defaming a head of state in one of the [various countries that still prohibit this](https://en.wikipedia.org/wiki/Lese_majeste#Current_laws). Or like [reuters criminal defamation stuff](https://uk.reuters.com/article/uk-myanmar-reuters/myanmar-army-sues-reuters-for-criminal-defamation-police-idUKKBN20W1ZO) happening this very minute in southeast asia.
 
 ---
 
