@@ -3,7 +3,7 @@ layout: post
 title: Global warming, predictive catastrophe, and this month
 description: The international communist conspiracy to sap and impurify all of our precious bodily fluids
 author: Abe Winter
-new: true
+noindex: true
 categories: precious fluids
 ---
 
