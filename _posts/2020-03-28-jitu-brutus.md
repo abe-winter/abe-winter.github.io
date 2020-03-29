@@ -7,7 +7,7 @@ new: true
 ---
 
 I mean the world has worse problems,
-but lockdown for me = thinking back on 2 hard years of high-performance (well) server-side JS,
+but lockdown for me = thinking back on 2 hard years of high-performance (cough) server-side JS,
 and my relationship with javascript as a tool.
 
 Performance work in 2020 can be as much about caching and smart RPC design as about straight-line performance of a function.
