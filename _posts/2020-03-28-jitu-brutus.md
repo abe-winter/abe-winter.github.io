@@ -122,3 +122,5 @@ I'm thinking more about the role of expertise in society and trying to emit less
 * I've shipped projects in various language interop tools, including cython, C extensions to python, and a java plugin for react native
 * I wrote a working [parser / interpreter](https://github.com/abe-winter/pg13-py) for a programming language
 * I went to college for this (not that that means much)
+
+{% include flatpixel.html tag="jitu-brutus" %}
