@@ -46,7 +46,7 @@ But JIT languages make it difficult to use microbenchmarking to predict the perf
 for a few reasons:
 
 * benchmarks (which run the same function with the same inputs 1 zillion times in a row) are very friendly to the jitter
-* the function your testing may be called with different inputs in prod. In JS, even the order of keys in an object can confuse the JIT typer
+* the function you're testing may be called with different inputs in prod. In JS, even the order of keys in an object can confuse the JIT typer
 * if you benchmark a JIT/native function and your prod setup ends up using interpreted code, you've learned nothing
 
 Not being able to know how long anything takes in reality leads to voodoo and gymnastics.
