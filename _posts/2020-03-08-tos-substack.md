@@ -4,7 +4,7 @@ title: "Terms of service readthrough: Substack"
 description: Not signing
 categories: tos
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 **I'm not a lawyer. This isn't legal advice. Seriously.**
