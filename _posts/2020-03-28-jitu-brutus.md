@@ -123,12 +123,19 @@ I'm thinking more about the role of expertise in society and trying to emit less
 * I wrote a working [parser / interpreter](https://github.com/abe-winter/pg13-py) for a programming language
 * I went to college for this (not that that means much)
 
-## Feedback
+## Appendix: Feedback
 
 Useful responses to this I've seen online:
 
 * This is V8-centric, and there's no way to do what I'm asking portably for JS in e.g. safari
 * This is JS-centric, and various non-JS JIT languages have some of the features I want, including C#, oracle's graal project, and some flavor of lisp
 * `--trace-deopt` and other flags in nodejs provide some of this information at runtime
+
+Apparently someone [translated this to French](https://programmation.developpez.com/actu/298850/La-compilation-a-la-volee-just-in-time-ne-serait-pas-ergonomique-selon-Abe-Winter-qui-propose-des-ameliorations/) with extra comments & diagrams. Various phrases from this article sound much better in French, and I'm questioning English as the default language of this blog.
+
+* choisissez votre poison
+* l’optimisation des chemins à chaud
+* Les benchmarks mentent
+* And my favorite: J’accuse le JIT
 
 {% include flatpixel.html tag="jitu-brutus" %}
