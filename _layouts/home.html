@@ -7,6 +7,8 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <p class="rss-subscribe">Subscribe via <a href="https://tinyletter.com/abe-winter">📬 email</a> or <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
@@ -37,7 +39,7 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
+  <p class="rss-subscribe">Subscribe via <a href="https://tinyletter.com/abe-winter">📬 email</a> or <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
 
 </div>
