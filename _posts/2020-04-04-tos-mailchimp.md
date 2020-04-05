@@ -43,6 +43,19 @@ I'm reading this through a gray overlay ('veil of ignorance'? I'm going to start
 * toc
 {:toc}
 
+## General takeaways
+
+On the assumption you won't read past this intro section, here are the highlights:
+
+* agreement includes by reference *THEIR ENTIRE KNOWLEDGE BASE*. This is (sorry for pun) bananas
+* lots of browsewrap / 'change at any time' language
+* as far as I saw, no mandatory arbitration clause. good work mailchimp!
+* copyright policy / fair use / hate speech stuff for content is annoying but less painful than substack
+* I may have violated their bandwidth policy by downloading their TOS
+* chimp in logo is called freddie, don't put your logo on freddie
+* 'zombie apocalypse' joke in force majeure clause, we are not amused
+* 'at any time and from time to time' will be the name of my TOS-themed album
+
 ## Main TOS
 
 Section 1.6. To use the service, you must not be 'listed on any US gov't list of restricted persons'. First you don't need to say 'list' twice. Second, 'restricted' has a lot of meanings. Certain federal employees are restricted from various activities, for example. At various times most Americans have been restricted from traveling to certain companies, Cuba, for example. Hmm. So far I've learned *nobody* can use this shit. Maybe I'm reading this too broadly but 'any' is a pretty broad word.
