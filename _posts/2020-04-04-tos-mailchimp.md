@@ -164,7 +164,7 @@ Uhhh, since when do emails have URLs? 'When reporting a claim of copyright infri
 
 ## Brand assets
 
-'Mailchimp is one word, spelled with a big M and a little c. It used to have a big M and a big C, but the times have changed.'
+'Mailchimp is one word, spelled with a big M and a little c. It used to have a big M and a big C, but the times have changed.' There's a 'big M little C' joke here that I'll stay away from.
 
 I shit you not, this is followed by a page of pictures of the word 'mailchimp' with a lowercase M. I altered this one but you get the point:
 
