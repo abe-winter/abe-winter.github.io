@@ -90,7 +90,7 @@ Section 17. 'We also may suspend or terminate ... if we determine ... that you a
 
 I wonder if this blog post counts as hate speech.
 
-Section 18. 'If you think anyone is violating any of these Terms, please notify us immediately.' I do think someone somewhere must be violating these terms. Also this sentence isn't specificto people who have signed the terms. I'm not sure why I need to tell MC. Yes I'm nitpicking, but this is further evidence that the author of this network of verbose nonsense is not dwelling in reality. 'If you think anyone has posted material that violates any protected marks or copyrights, then you can notify us'. WHY??!?!?!?
+Section 18. 'If you think anyone is violating any of these Terms, please notify us immediately.' I do think someone somewhere must be violating these terms. Also this sentence isn't specific to people who have signed the terms. I'm not sure why I need to tell MC. Yes I'm nitpicking, but this is further evidence that the author of this network of verbose nonsense is not dwelling in reality. 'If you think anyone has posted material that violates any protected marks or copyrights, then you can notify us'. WHY??!?!?!?
 
 Section 19. 'You may only use our bandwidth for your Content and Campaigns.' A term which I'm violating by downloading this heap of wishes and puppydog kisses masquerading as browsewrap.
 
@@ -198,7 +198,7 @@ Ah, but can apparently be turned off:
 
 ## That's it
 
-That only took 2.5 hours of my life, not including the linked google stuff (which is *full of links*). I found one typo and duly noted them.
+That only took 2.5 hours of my life, not including the linked google stuff (which is *full of links*). I found one typo and duly notified them.
 
 If you hate long contracts, tell your member of congress to support legislation banning consumer contracts over 1000 words.
 
