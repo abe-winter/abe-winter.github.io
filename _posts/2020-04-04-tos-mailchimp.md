@@ -166,7 +166,9 @@ Uhhh, since when do emails have URLs? 'When reporting a claim of copyright infri
 
 'Mailchimp is one word, spelled with a big M and a little c. It used to have a big M and a big C, but the times have changed.'
 
-I shit you not, this is followed by a page of pictures of the word 'mailchimp' with a lowercase M.
+I shit you not, this is followed by a page of pictures of the word 'mailchimp' with a lowercase M. I altered this one but you get the point:
+
+![freddie fire eyes](/assets/freddie-fire.png)
 
 'We always pair our company name with the Freddie icon. And Freddie's always winking because he has a great attitude.' (1) the tone continues to grate. (2) I've read the word mailchimp like a hundred times tonight and it is *not* always paired with the Freddie icon. This statement is false. Under section 33 severability, it may be removed or edited.
 
@@ -174,7 +176,7 @@ I shit you not, this is followed by a page of pictures of the word 'mailchimp' w
 
 'Provide plenty of space around the Mailchimp logo and Freddie. Make them big, make them small, just give them the chance to breathe and not feel cluttered.'
 
-'Please don't ... Alter these files in any way.' Am I ever tempted.
+'Please don't ... Alter these files in any way.' Too late fools.
 
 ## Privacy policy
 
