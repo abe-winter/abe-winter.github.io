@@ -83,4 +83,13 @@ There's an entire field of moral behavior that comes from sharing scarce resourc
 
 Hopefully we'll learn how to be fair, and to make hard decisions with many stakeholders in public, and we'll get out of this mostly in one piece.
 
+## People who can prevent disaster
+
+* Not Nancy Pelosi or Mitt Romney, or at least not by themselves -- they shot their shot
+* Not Elon Musk or Bill Gates; at best they can be technocrats and mobilize resources, but they can't solve the politics
+* Not Joe Biden, unles we want to turn into Venezuela
+* Not state governors: they're behaving as they are because they think they have to, for some combination of the sake of their states, the national balance of power, and their personal political careers. They've set their thing in motion and can't stop on a dime.
+* Maybe Mike Pence: he's the only person in the executive branch who's hard to fire. I suspect he's already doing everything he's doing. But like everyone close to this crisis, his primary goal is to not get frozen out of the room because at that point he can no longer help at all.
+* Maybe the legislature, acting with uncharacteristic foresight and a single voice. Senate republicans think impeachment would be the end of their party. I think it guarantees them a victory in November with (almost) anyone they choose to run.
+
 {% include flatpixel.html tag="new-mutiny" %}
