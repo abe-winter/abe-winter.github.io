@@ -3,7 +3,6 @@ layout: post
 title: JITs are un-ergonomic
 author: Abe Winter
 description: "I lift my LAMP beside the github door. Keep ancient Fortran your storied numeric libs cries she. Give me your interpreted, your slow, the wretched refuse of your (insert pun for 'teeming shore')."
-new: true
 ---
 
 I mean the world has worse problems,
