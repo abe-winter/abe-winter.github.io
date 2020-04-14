@@ -60,6 +60,12 @@ These are grouped but otherwise in no particular order.
 * States investing in local production capacity to maintain supply chain (rather than relying on cross-state networks to fill gaps in international supply chains; subtle difference)
 * States develop institutions to gap-fill non-performing federal institutions (leads to jurisdictional squabbles)
 
+### Side-taking
+
+* Leaders of other countries or international institutions taking sides in arguments between states & the federal government (serious if on scientific issues, *very* serious if on political issues)
+* High-profile firings for loyalty reasons rather than performance, resignations for moral reasons (both have been happening for years now). In particular, firing of key technocrats who poll high in public trust
+* Rioting over important policy questions (esp reopening timeline or $ aid), especially if used as a proxy war between state & feds via side-taking, especially if armed forces are used to dispel riots, *especially* if other armed forces are sent in to defend. Farfetched? It's happened: Orval Faubus (yes real person) used his executive power to mobilize his state's National Guard. The president saw his Guard units and raised him the 101st Airborne (after the mayor of Little Rock asked the president to assist). The Guard units were federalized. Faubus still won reelection for governor. The president's orders to the guard began: "Our mission is to enforce the orders of the federal courts". Checks and balances are a good thing.
+
 ### Military stuff
 
 * Breakdowns in civil-military relations, or command and control. Desertion, insubordination. This is more impactful at higher levels. Statements by retired generals feature in here as well.
@@ -67,11 +73,6 @@ These are grouped but otherwise in no particular order.
 * States refusing entry to federal agents or soldiers
 * States enlisting armed forces from their local population who are not subject to federal chain of command
 * Actual shots fired
-
-### Other
-
-* Leaders of other countries or international institutions taking sides in arguments between states & the federal government (serious if on scientific issues, *very* serious if on political issues)
-* High-profile firings for loyalty reasons rather than performance, resignations for moral reasons (both have been happening for years now). In particular, firing of key technocrats who poll high in public trust
 
 ## Communication and leadership
 
@@ -91,5 +92,6 @@ Hopefully we'll learn how to be fair, and to make hard decisions with many stake
 * Not state governors: they're behaving as they are because they think they have to, for some combination of the sake of their states, the national balance of power, and their personal political careers. They've set their thing in motion and can't stop on a dime.
 * Maybe Mike Pence: he's the only person in the executive branch who's hard to fire. I suspect he's already doing everything he's doing. But like everyone close to this crisis, his primary goal is to not get frozen out of the room because at that point he can no longer help at all.
 * Maybe the legislature, acting with uncharacteristic foresight and a single voice. Senate republicans think impeachment would be the end of their party. I think it guarantees them a victory in November with (almost) anyone they choose to run.
+* *The press*. Who have as a body decided that enough is enough, and they're going to bring their full selves to work, no more swallowing bullshit. They're willing now to sacrifice their long-term likability in order to bend public opinion to reality. Will the rolls of 2020's victims include journalistic detachment? That's tomorrow's problem.
 
 {% include flatpixel.html tag="new-mutiny" %}
