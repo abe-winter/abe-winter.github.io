@@ -29,16 +29,6 @@ I think Andrew Cuomo is very aware of this possiblity. His public speaking doesn
 
 To my ear, he's avoiding a fight because it will lead to consequences -- either the feds withholding resources from the states or something worse.
 
-## Large questions
-
-* Where do states get troops and weapons? Police, national guard, enlistment, turning of military bases
-* Is there any scenario where one player employs 'strategic arms' (nukes, ICBMs, even bomber runs) against another? I think no.
-* Does either player employ force directly against civilians? (Other than elected officials; in some scenarios arresting a governor will be a goal of the federal government)
-* What are political outcomes (president steps down, president cedes power to the states in a move that creates precedent but no new laws, president gains power to remove governors, governor becomes absolute executive in own territory)
-* Is the slow trend of consolidation of power by the federal government accelerated or reversed?
-* How do you punish a state for rebellion? Taxes?
-* How does command and control degrade? What are the faultlines along which alliances dissolve and re-form?
-
 ## Events to watch for
 
 These are grouped but otherwise in no particular order.
@@ -76,7 +66,7 @@ These are grouped but otherwise in no particular order.
 
 ## Communication and leadership
 
-At all levels there seems to be zero coordation between different levels of leadership, especially when it comes to sharing equipment or limited supplies. I think we're getting better. NY area hospitals have [some kind of command center now](https://www.governor.ny.gov/news/amid-ongoing-covid-19-pandemic-governor-cuomo-announces-statewide-public-private-hospital-plan), and the states are coordinating. But when leaders unncessarily blindside their team, and the team fails to execute, it's usually the leader's fault. I mean this at all levels.
+At all levels there seems (from my vantage on the outside) to be zero coordation between different levels of leadership, especially when it comes to sharing equipment or limited supplies. I think we're getting better. NY area hospitals have [some kind of command center now](https://www.governor.ny.gov/news/amid-ongoing-covid-19-pandemic-governor-cuomo-announces-statewide-public-private-hospital-plan), and the states are coordinating. But when leaders unncessarily blindside their team, and the team fails to execute, it's usually the leader's fault. I mean this at all levels.
 
 I think american leaders haven't personally experienced a scarcity situation in their lifetime -- for some, not within the living memory of their family.
 
@@ -90,7 +80,7 @@ Hopefully we'll learn how to be fair, and to make hard decisions with many stake
 * Not Elon Musk or Bill Gates; at best they can be technocrats and mobilize resources, but they can't solve the politics
 * Not Joe Biden, unless we want to turn into Venezuela
 * Not state governors: they're behaving as they are because they think they have to, for some combination of the sake of their states, the national balance of power, and their personal political careers. They've set their thing in motion and can't stop on a dime.
-* Maybe Mike Pence: he's the only person in the executive branch who's hard to fire. I suspect he's already doing everything he's doing. But like everyone close to this crisis, his primary goal is to not get frozen out of the room because at that point he can no longer help at all.
+* Maybe Mike Pence: he's the only person in the executive branch who's hard to fire. I suspect he's already doing everything he can do. Like everyone close to this crisis, his primary goal is to not get frozen out of the room because at that point he can no longer help at all.
 * Maybe the legislature, acting with uncharacteristic foresight and a single voice. Senate republicans think impeachment would be the end of their party. I think it guarantees them a victory in November with (almost) anyone they choose to run.
 * *The press*. Who have as a body decided that enough is enough, and they're going to bring their full selves to work, no more swallowing bullshit. They're willing now to sacrifice their long-term likability in order to bend public opinion to reality. Will the rolls of 2020's victims include journalistic detachment? That's tomorrow's problem.
 
