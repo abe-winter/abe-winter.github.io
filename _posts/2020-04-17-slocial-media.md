@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social media, Slack, and spam
+title: Social media, Slack and spam
 author: Abe Winter
 description: And are you addicted to your offline friends?
 new: true
@@ -51,9 +51,9 @@ It lets me increase my Dunbar's number (number of people you can 'know at once')
 ## Spam is irrelevant and hard to ignore
 
 For me, neverending family group texts that begin with someone finding a photo in an old album and notify randomly at night are *pure spam*.
-If muting these means makes me a psychopath, so be it.
-I don't want to live in a society that ignores my needs to this degree.
+If muting these makes me a psychopath, so be it.
 Texting is for timely & emergency communication (I tell everyone) (and am universally ignored).
+We live in a society.
 
 My point is that the definition of spam is different for everyone.
 
@@ -82,18 +82,17 @@ But we're agreed that emoji replies are cool.
 ## If it doesn't spark joy get rid of it
 
 I think at least some of Slack's penetration is because it feels like social media.
-By doubling down on actual social media features they could create actual user value, rather than the junkie short-term high their product provides at present.
+By doubling down on actual social media features they could create actual user value, instead of the junkie short-term high their product provides at present.
 
 We're in the information economy now.
 Especially at large companies, you need to be informed and convinced about things all the time so you can work within the company's strategy(ies).
 And you need to find collaborators, and meet new people over time.
-But you also need to hunker down and do your own work; reduce the cost of communicating all the time.
+But you also need to hunker down and do your own work, vs engaging in non-stop costly communication.
 
 Non-missable spam channels obstruct all this.
 
 You also need to *like what you're doing*.
 The reason I write so much about Slack is that it makes me hate my job(s) *and* it makes me bad at them.
-Exchanging like-minded ideas with like-minded people can be a filter bubble but it's also how we find joy in work.
 
 Let's move 'staying informed and connected' to a platform that doesn't ruin our days,
 move reachability to a platform more like pagerduty that has urgency, escalation and backpressure,
