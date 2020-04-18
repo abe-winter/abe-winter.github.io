@@ -4,6 +4,7 @@ title: Something like civil war is a few bad rolls away
 description: Civil blood, civil hands, etc
 categories: ancient grudge
 author: Abe Winter
+new: true
 ---
 
 * toc
@@ -36,7 +37,7 @@ These are grouped but otherwise in no particular order.
 
 * States close their borders to other states that aren't quarantining, the feds get involved, and the states refuse to budge, saying it's a life or death issue
 * States unify against the federal govt, either commercially (buying consortiums) or worse, in some way that smacks of control of territory
-* The federal govt tries to remove a governor for resisting an order, either via twitter (bad) or tanks (very bad)
+* The federal govt tries to remove a governor or state legislature for resisting an order, either via twitter (bad) or tanks (very bad)
 * Any player ignores the power of the courts
 * States interfering in immigration policy on their borders for humanitarian or quarantine reasons
 * Using taxes, witholding aid, or other means to punish states for disobedience. May have already happened pre-crisis: the [SALT deduction was capped at $10k in 2017](https://taxfoundation.org/final-tax-cuts-and-jobs-act-details-analysis/), and while the [house voted to temporarily repeal this in December](https://thehill.com/policy/finance/475352-house-votes-to-temporarily-repeal-trump-salt-deduction-cap), I'm not sure what came of this bill
@@ -48,6 +49,7 @@ These are grouped but otherwise in no particular order.
 * States doing blockade-running to maintain their supply chain. (May have already happened with the Patriots jet bringing masks to Boston)
 * States investing in local production capacity to maintain supply chain (rather than relying on cross-state networks to fill gaps in international supply chains; subtle difference)
 * States develop institutions to gap-fill non-performing federal institutions (leads to jurisdictional squabbles)
+* States demand $ compensation from feds for emergency actions states took on their own. Could be lawsuits, legislative, mass tax withholding, protests. Throwing of tea into harbors.
 
 ### Side-taking
 
