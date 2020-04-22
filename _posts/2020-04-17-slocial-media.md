@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social media, Slack and spam
+title: Slack is almost social media
 author: Abe Winter
 description: And are you addicted to your offline friends?
 new: true
