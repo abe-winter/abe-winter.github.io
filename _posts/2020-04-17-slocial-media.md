@@ -3,7 +3,7 @@ layout: post
 title: Slack is almost social media
 author: Abe Winter
 description: And are you addicted to your offline friends?
-new: true
+noindex: true
 ---
 
 > Disclaimer: I own slack stock.
