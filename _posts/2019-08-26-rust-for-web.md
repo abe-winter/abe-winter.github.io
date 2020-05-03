@@ -3,10 +3,12 @@ layout: post
 title: Picking rust for web
 description: "I'm trading in my chevy for a cadillac ac ac ac ac ac"
 categories: wisdom
+noindex: true
 ---
 
-**note: I actually tried writing a web backend in rust and there were hiccups.**
-Don't treat this article as advice, I'll link to a follow up when I have time to write one.
+> **Note**: I actually tried writing a web backend in rust and there were hiccups.<br>
+> Don't treat this article as advice.<br>
+> I'll link to a follow up when I have time to write one.
 
 I've been staring at this [energy efficiency across programming languages](https://thenewstack.io/which-programming-languages-use-the-least-electricity/) table for days. It can't be right (why is typescript so much worse than javascript?) but a lot of it tracks with things I've observed from using these languages IRL. Also this [web framework benchmarks](https://github.com/the-benchmarker/web-frameworks#full-table-1) project.
 
