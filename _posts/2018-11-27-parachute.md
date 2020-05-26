@@ -4,6 +4,7 @@ title: Soft skills for parachuting into a codebase in crisis
 description: These guys are the best and they specialize in the ridiculous
 author: Abe Winter
 date: 2018-11-27
+noindex: true
 ---
 
 <style>

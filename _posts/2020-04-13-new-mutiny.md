@@ -4,7 +4,7 @@ title: Something like civil war is a few bad rolls away
 description: Civil blood, civil hands, etc
 categories: ancient grudge
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 * toc

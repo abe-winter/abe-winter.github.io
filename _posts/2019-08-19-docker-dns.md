@@ -3,6 +3,7 @@ layout: post
 title: Docker failed because it didn't launch with DNS
 description: "Beware the missing 'then what'"
 author: Abe Winter
+noindex: true
 ---
 
 This article is about a specific hole in docker's strategy and holy strategies in general.

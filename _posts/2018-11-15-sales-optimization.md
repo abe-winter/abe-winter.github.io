@@ -3,6 +3,7 @@ title: Sales does more optimization than product
 author: Abe Winter
 layout: post
 date: 2018-11-15
+noindex: true
 ---
 
 ## Drinks
