@@ -43,6 +43,21 @@ I'm saying 'norm' not 'rule' because these norms don't have to come from the gov
 Police haven't been willing to publish sane scripts for these situations; whoever does so will have a lot of power to shape the boundaries.
 
 If you're an agency that employs law enforcement officers and someone asks 'are there limits to your authority' and you say 'not really', you're creating a 'norm vacuum'.
-I think that private groups like the ACLU can disrupt this agency self-assigned absolute power by filling the norm vacuum with tools like panic buttons and arrest scripts.
+
+Private groups like the ACLU will be able to **disrupt** this agency's self-assigned absolute power.
+They'll fill the norm vacuum with tools like panic buttons and arrest scripts.
+
+## Legal take
+
+(I'm not a lawyer).
+
+The law depends heavily on precedent and the concept of a 'reasonable person'.
+If the ACLU (or whoever) builds a vast library of precendent through civilian panic cameras,
+and derives from it a script which reasonable people follow,
+we've checked both boxes.
+
+The goal here is to use technology to restore government (small G) 'by the people' in these ubiquitous, stressful, unsafe administrative interactions.
+Enlightened despot Joseph II was all in on 'government for the people but not by them'.
+Maybe we can be past that now.
 
 {% include flatpixel.html tag="norm-wizards" %}
