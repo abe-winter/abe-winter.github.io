@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech and the future of policing
+title: Tech / future police
 description: "There are four of us, we're one team"
 categories: dont panic
 author: Abrrrham Winter
@@ -17,39 +17,39 @@ Zoom way way out and the impact of technology on anything is to:
 * Make new things possible
 * Make existing things cheaper
 
-'Lowering the cost of policing' is not necessarily increasing fairness which means it could go very wrong.
+'Lowering the cost of policing' is not necessarily increasing fairness which means it will go wrong before it goes right. New tech has been better at increasing capabilities than improving governance.
 
 * toc
 {:toc}
 
 ## Robocop(s)
 
-Policing is generally about wandering around physical on streets or catching someone on a camera so you can pick them up later.
-Robots are getting pretty good at both of these tasks.
-
-They're also getting more common.
-Fast forward two years and it will be hard to snap a photo in an urban center without some kind of robot doing a chore in the background.
-Delivery rovers on streets, quadrupeds roaming hospitals, quadcopters delivering medical supplies or just stuff, volvo SUVs with LIDAR towers -- these are all real now.
+Delivery rovers, quadrupeds roaming hospitals, quadcopters delivering medical supplies, volvo SUVs with LIDAR towers -- these are all real now somewhere.
 5 years ago they weren't.
-In a year or two they're be ubiquitous.
 
-Worth pointing out though that none of these robots are *armed* today.
+None of these robots are *armed* today.
 Police robots may not be armed either, especially not at first.
 I can imagine 'patrol rovers' wandering around to render aid in various ways --
 helping someone carry their groceries across the street, stand by and record if someone is in a fight or getting mugged.
 
-Over time these bots may gain arrest powers even if they're not armed;
+Over time these bots may gain legal arrest powers even if they're not armed;
 they can stop you and demand you wait for a human, and they can chase, or sensor networks can track you if you flee.
-Over time, on the branch of history that we seem to be on, they may be armed.
-The weapons system doesn't need to be automated; at the point where it wants to use it, the robot can tag in a person to remote-control.
+Over time, on the branch of history that we seem to be on, they may acquire nonlethal weapons or more.
 
-I can imagine also a 'personal robocop' --
-a taser or armed robot you have on your person that needs to be remotely unlocked by a human 911 operator.
-Better, I guess, than having people carry around weapons that *aren't* locked.
+I can imagine also a 'personal robocop' for civilians --
+a taser or small armed drone you have on your person that needs to be remotely unlocked by a human 911 operator.
+Automating the unlock decision is an interesting area as well.
+Dangerous if unfair, but with the potential to create a database of 'use of force events' that leads to better transparency and norms.
+
+Having people carry around locked weapons is better, I guess, than having people carry around weapons that *aren't* locked.
 But it's not that simple --
 it creates arms races between attackers and defenders, it creates opportunities for malware to unlock or trigger 'personal guard bots',
 or fool them into attacking the wrong targets.
 It means more total weapons.
+
+'Personal robocop' works for actual police too; one human patroller with robot backup.
+They can be specialized robots like K-9 (for finding drugs / explosives / people), or just extra muscle (for helping carry stuff as well as for violence).
+General Dynamics wanted the big dog robot to do this for military, acting as a 'mule' to carry stuff over rough terrain, but it ran off a lawnmower engine which was too loud.
 
 I'll bet good money on a legislative debate over 'remote arrest powers' in the next 5 years.
 We've already had something similar in the SCOTUS case on GPS trackers --
