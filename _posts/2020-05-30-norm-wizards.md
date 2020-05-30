@@ -2,7 +2,7 @@
 layout: post
 title: Panic buttons and norm wizards
 categories: norm vacuum
-description:
+description: Nature, in fact, abhors a lot of things
 new: true
 ---
 
