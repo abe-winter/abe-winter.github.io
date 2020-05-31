@@ -4,7 +4,7 @@ title: Tech / future police
 description: "There are four of us, we're one team"
 categories: dont panic
 author: Abrrrham Winter
-new: true
+noindex: true
 ---
 
 Not in any way inspired by anything happening in the news this week, I gathered up my notes about how technology will change policing.
