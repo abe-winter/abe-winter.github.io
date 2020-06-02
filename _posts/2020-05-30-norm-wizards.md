@@ -14,8 +14,6 @@ Criminals and non-criminals have different reasons to want this but both probabl
 protection from surveillance and enforcement of norms.
 This article is about norms; camouflage is more the realm of CV experts = not my area.
 
-(This is an excerpt from a longer article on [technology & future policing]({% post_url 2020-05-29-police-tech %})).
-
 * toc
 {:toc}
 
