@@ -4,6 +4,7 @@ title: The Dictator's Army and charismatic founders
 description: "Too bad they can't both lose"
 author: Abe Winter
 categories: book review
+new: true
 ---
 
 In the middle of an actual, like, actual workplace coup with secret meetings, purges, puppetmasters, frame-ups, leak investigations, and (rumored) slack DM surveillance, I was listening to the bombshell podcast and heard about this book about coup-proofing, and how it ruins teams.
