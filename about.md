@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About / 📬 subscribe
 permalink: /about/
 ---
 
@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi!
 
-I used to be a platform and scalability programmer but now I'm doing marketing research for a new thing, watch this space for details.
+I used to be a platform and scalability programmer but in 2020 I'm building 4 products and doomscrolling a lot.
 
 Among other qualifications, I've created over 150 situationally appropriate custom emoji, some of which are still in use today.
 
