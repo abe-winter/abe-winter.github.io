@@ -302,7 +302,7 @@ The information barriers weren't restricted to coordinated military action. Even
 [^upthechain]: Woods, L354
 
 The obstacles to horizontal vs vertical communication may seem like different problems.
-Based on my real-life coup experience, I think they're not --
+Based on my up-close coup, I think they're not --
 they're both failures of delegation, or failures of imagination around how middle managers can work together to achieve the company's strategy.
 Which often means the strategy is bad or senior leaders don't understand it.
 In my experience, when leadership believes that the rank & file aren't executing on their strategy, the fish is rotting from the head down.
