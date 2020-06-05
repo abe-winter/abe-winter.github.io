@@ -231,7 +231,7 @@ Here's the inverse of this, from a more professional leader, Leslie Groves of th
 
 > It was important that the officers whom we selected command the respect of persons already in the project ... the scientists were most critical of anyone whose mental alertness did not equal or excel theirs. Slowness of comprehension or inability to keep all the pertinent facts in mind, once they were explained, was fatal[^slowness]
 
-[^slowness]: Leslie Groves, [Now It Can Be Told](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A9780306801891), p 373
+[^slowness]: Leslie Groves, [Now It Can Be Told](https://www.worldcat.org/search?qt=wikipedia&q=isbn%3A9780306801891), p 373. If you're looking for a 5000 word article about this book [somebody wrote one]({% post_url 2018-05-09-alsos %}). It's basically the same outline as this one with opposite conclusions.
 
 The combination of bad people and bad practices in the org meant that the Iraqi army couldn't make use of serious resource advantages:
 
