@@ -140,7 +140,7 @@ Senior technocrats have a surprising amount of power when they align their story
 [^blame]: Talmadge, L4,331
 
 Because his leadership style was in conflict with their technical skills.
-He punished losses in ways that prevented ground commanders from requesting the resources they needed to win, creating a losing cycle:
+He punished losses in ways that deterred ground commanders from requesting backup, creating a losing cycle:
 
 > Saddam put great pressure on Iraqi commanders on the ground to avoid losses, which led them not to report failures. Withholding losses from reports and thus not receiving reinforcements or other support left commanders in impossible combat conditions. However, this was better than reporting their failures and suffering execution.[^pressure]
 
@@ -170,17 +170,19 @@ When the Brett Crozier stuff was breaking (Navy captain who brought his ship to 
 
 Good systems have disobedience built in.
 In service animals, it's called [intelligent disobedience](https://en.wikipedia.org/wiki/Intelligent_disobedience) and it keeps people from confusing a staircase with a cliff.
-That article also talks about 'Blink think choice voice', a safety mnemonic to guide them through disobeying a creepy adult.
+That article also talks about 'Blink think choice voice', a safety mnemonic to guide children through disobeying a creepy adult.
 Young workplaces are in my experience bad at enabling disobedience, but also sorely need it.
 
-Disobedience is useless without high quality people who have both domain skills and enough court sense to act selflessly some of the time.
+But channels for disobedience are useless without high quality people who have both domain skills and enough court sense to act selflessly some of the time.
 More on high quality people in the next section.
 
 ## Promotion, punishment and people quality
 
-Serious organizations are serious about promotion, and will seek to fill the org chart with competent people who can deal with authority and responsibility.
+Serious organizations are serious about promotion, and will seek to pack the org chart with competent people who can deal with authority and responsibility.
 At small companies experiencing management scuffles, promotion and hiring can be more about filling power vacuums and isolating enemies.
-Autocrats promote the wrong people because when your goals are selfish, the only form of 'competence' you recognize is loyalty.
+I once watched a manager hire his worst frat buddy to run a division in order to de-power his cofounder, and for the next six months the cofounder had to do the frat buddy's homework and then explain it to him.
+
+Autocrats promote badly because when your goals are selfish or illogical, the only form of 'competence' you recognize is loyalty.
 Here's how the Iraqi military approached that in the 80s:
 
 > Before the executions were stopped, anyone who carried out an execution was promoted by Saddam.[^execution]
@@ -199,11 +201,7 @@ Here's how the Iraqi military approached that in the 80s:
 
 The Iranians had their own version of this: the invasion of a swampy peninsula called Al-Faw was their only successful offensive campaign, and could have been the turning point of the war, but *they didn't know they'd won*.
 Both Iran & Iraq thought they lost the battle.
-Iran, whose revolutionary religious leadership had been conducting a years-long purge of their legacy military, used the apparent loss as an opportunity to clean house of their few competent leaders.
-
-> Khomeini removed from command a Shah-era officer named General Ali Seyyed Shirazi, the architect of the al-Faw operation.[^architect]
-
-[^architect]: Talmadge, L4,311
+Iran, whose revolutionary religious leadership had been conducting a years-long purge of their legacy military, used the apparent loss as an opportunity to clean house of their few remaining professionals.
 
 Part of the problem:
 some important middle managers in the Al-Faw operation died in a plane crash on their way back to Tehran[^plane-crash].
@@ -211,11 +209,12 @@ If aviation had been safer back then, the course of the war and the history of I
 
 [^plane-crash]: Talmadge, L3,989
 
-I don't intend this as a glorification of war or victory; merely in terms of lives spent, ending the war would have been a win.
+I don't mean to canonize war or victory; but merely in terms of lives spent, ending the war would have been a win.
 Just improving leadership would have been a win --
 the Iranians' main tactic before and after Al-Faw was to overwhelm Iraqi positions with their untrained, martyrdom-motivated revolutionary infantry (more on this in the 'ideology' section below).
 
-Saddam was an early practitioner of my favorite hiring trick, the fine art known as 'culture fit'. His "belief that Bedouin tribal courage and loyalty were the most important attributes of successful military leadership"[^bedouin] led to situations like this one:
+Saddam was an early practitioner of my favorite hiring trick, the fine art of 'culture fit'.
+His "belief that Bedouin tribal courage and loyalty were the most important attributes of successful military leadership"[^bedouin] led to situations like this one:
 
 [^bedouin]: Woods, L341
 
@@ -242,7 +241,8 @@ The combination of bad people and bad practices in the org meant that the Iraqi 
 
 Don't list your advantages on paper and assume you can hire just anyone to use them.
 Talmadge cites the same weaknesses in the South Vietnamese army:
-training focused more on political indoctrination than their weapons meant that units couldn't 'combine arms' (i.e. coordinate, more on that below), and often were unfamiliar with the precise capabilities of their weapons.
+training focused more on political indoctrination than their weapons meant that units couldn't 'combine arms' (i.e. coordinate, more on that below).
+The south was generally worse than the north at basic weapon competencies.
 
 Big companies have this same training gap -- you spend your whole first week on 'training' that was put together by HR, is mostly political indoctrination, and had nothing to do with your real job.
 All these armies had 'HR' functions, in the form of political operatives embedded in combat units with unclear authority and chain of command.
@@ -306,7 +306,7 @@ Based on my real-life coup experience, I think they're not --
 they're both failures of delegation, or failures of imagination around how middle managers can work together to achieve the company's strategy.
 Which often means the strategy is bad or senior leaders don't understand it.
 In my experience, when leadership believes that the rank & file aren't executing on their strategy, the fish is rotting from the head down.
-(A fun chinese phrase I learned this year which is probably banned there).
+(A fun chinese phrase I learned this year).
 
 As a result:
 
@@ -318,7 +318,7 @@ Coordination requires information to flow freely.
 It's telling that these communication failures lead to failures of coordination.
 Bad coordination is the calling card of bad teams.
 
-It's rare to see pure anger at work now I think (in my particular filter bubble at least).
+It's rare to see pure anger in the office now I think (in my particular filter bubble at least).
 I saw it twice at my short stint in a big bank:
 once for trying to talk to someone in a different silo of the bank,
 and once for honestly answering a numeric question from my boss's boss's boss when my boss's boss was out of town.
@@ -329,14 +329,16 @@ When you start to control information it becomes your whole job.
 ## Planning and strategy suffer when argument = dissent
 
 Obedience has a weird place in modern culture.
-I think our main metaphors for management are still Taylorism (the guy who brought math to the assembly line) and the popular portrayal of 'military orders'.
+I think our main metaphors for management are still Taylorism (the guy who brought math to the assembly line) and the popular portrayal of military orders as 'do or die'.
+And possibly the portrayal of 'respect for authority' in The West Wing, the TV show that taught my generation how to lick boots ('good evening mr president').
+
 If these were ever right, they aren't now, but a million mini despots still think obedience matters at work.
 
 One way to look at autocrats is as leaders who don't know their main role is communication.
 Or that if they're the 'decider', that's a part time job and it comes after hearing all the options to decide between.
 At best you're a tie breaker.
 
-Intolerance for dissent = intolerance for information, which is deadly.
+Intolerance of argument = intolerance for information, and for plans, and is deadly.
 It also means a lack of understanding of what arguments looks or sounds like.
 Corollary: if the senior person in a room can't run a meeting, it doesn't matter who else can.
 
@@ -402,7 +404,8 @@ If the purpose of the meeting is to get subordinates to commit to a 100% success
 Strategies either embrace uncertainty or they're at the mercy of it.
 Eat not from the tree lest ye die.
 
-The alternative is workplaces that only allow 'heroic' nights & weekends action because the organized framework for decision-making is immune to argument,
+The alternative to good strategy is workplaces that only allow 'heroic' nights & weekends action, because all work time converges to fluffing;
+where the organized framework for decision-making is immune to argument,
 resistant to the work of identifying problems,
 and can't abandon whims for plans even in the face of repeated failures.
 
@@ -430,8 +433,8 @@ and 'you're being compensated in equity that will evaporate if you deign to leav
 are statements that frequently go hand in hand.
 
 IMO these claims both translate to 'I like being in charge',
-and constitute a sort of test -- if you don't think it's ludicrous to be paid less to take more risk,
-you probably won't argue against other illogical plans and alert our adults that we need supervision.
+and are a personality test -- if you don't think it's ludicrous to be paid less to take more risk,
+you probably won't argue against other illogical plans and alert our adults that we need one of those toddler walking ropes.
 
 The Iranians' main tactic was a human wave, costly in lives, that overwhelmed Iraqi minefields and positions, as much by absorbing damage as by firing their weapons.
 They generally failed to follow up with other kinds of forces once their infantry had cleared the way.
@@ -474,8 +477,8 @@ This is brave but not particularly effective from the org's perspective.
 ## Bad how
 
 I thought a lot about [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) as I was reading this book.
-It deals with 'bad' leaders -- but 'incompetence' and 'malice' are both synonyms for 'bad'.
-Saddam fought his way to the top; I'm not sure I'd call him 'competent' or 'expert' but certainly talented in his chosen profession.
+The book deals with 'bad leaders', but 'incompetence' and 'malice' are both synonyms for 'bad'.
+Saddam fought his way to the top; I'm not sure I'd call him 'competent' or 'expert', but certainly talented in his chosen profession.
 
 He also kind of embraced evil. This sounds dark, right:
 
