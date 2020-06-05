@@ -14,7 +14,7 @@ The book (Caitlin Talmadge / [The Dictator's Army](https://www.cornellpress.corn
 Saddam Hussein's 8-year failed invasion of Iran, and South Vietnam's final defense against the North.
 This article is about private sector leadership lessons I took from the book.
 
-Writing about private sector leadership on the eve of a plausible military coup seems like peeing into the ocean, but it's this or doomscrolling so here we are.
+Writing about private sector leadership on the eve of a plausible military coup seems like peeing into the ocean, but it's this or doomscrolling and holding in your pee can kill you.
 
 Most management books are aspirational and map out success.
 This one is about repeated failure, despite great funding, first-mover advantage and better equipment, through repeated mistakes, and in the public eye.
@@ -38,7 +38,7 @@ an absolute ruler who governs without restraint by the law.
 See also 'frondeur'.
 
 John Stuart Mill thinks absolutism is the right way to govern 'barbarians' if it's 'for their improvement'.
-By inference, if you're not hiring barbarians who need improvement, consider a lightweight leadership style.
+By inference, if you're not hiring barbarians who need improvement, consider a lighter-weight leadership style.
 
 When growing teams take on more complex goals but don't update their management, they encounter pathologies of delegation --
 senior leadership who isn't sure how to solve problems using middle managers, who give them the wrong length leash.
@@ -56,7 +56,7 @@ Here's what that looked like in Iraq:
 [^educate]: Woods, L359
 
 Technocratic middle managers were spending most of their energy undoing their leader's bad decisions, rather than fighting and winning.
-There's a spectrum between 'own worst enemy' and 'annoying bandwidth bottleneck', but new managers generally are on it.
+There's a spectrum between 'own worst enemy' and 'annoying bandwidth bottleneck', but new managers generally are on it somewhere.
 
 Over-centralization of authority sends a message that people shouldn't act on their own, which paralyzes your org.
 Note that I'm not arguing against hierarchical authority or a clear chain of command, but rather against authority all concentrating at the top, making it impossible for middle managers to do their jobs.
