@@ -16,9 +16,9 @@ This article is about private sector leadership lessons I took from the book.
 
 Writing about private sector leadership on the eve of a plausible military coup seems like peeing into the ocean, but it's this or doomscrolling so here we are.
 
-Most business books are aspirational and map out success.
+Most management books are aspirational and map out success.
 This one is about repeated failure, despite great funding, first-mover advantage and better equipment, through repeated mistakes, and in the public eye.
-I have an ego, but I don't bring it to work, which means I fully accept that Talmadge is using military disasters as a metaphor for my career.
+Nothing that I would know anything about cough.
 
 Startups sub 30 people have a hard time accessing experienced hires who combine domain skill and the ability to work on a team.
 There are real reasons for this, and some boil down to something like Saddam's coup fears.
@@ -35,6 +35,7 @@ It sometimes gets me through the week.
 'Despot' also means bronze age feudal landowners or the heir apparent of Byzantium, but we haven't had those for a while.
 Adaptive reuse of the term in revolutionary France gave the term its modern meaning:
 an absolute ruler who governs without restraint by the law.
+See also 'frondeur'.
 
 John Stuart Mill thinks absolutism is the right way to govern 'barbarians' if it's 'for their improvement'.
 By inference, if you're not hiring barbarians who need improvement, consider a lightweight leadership style.
@@ -54,9 +55,8 @@ Here's what that looked like in Iraq:
 
 [^educate]: Woods, L359
 
-Technocratic middle managers were spending most of their energy undoing and preventing their leader's bad decisions, rather than fighting and winning.
-There's a lot of daylight between 'own worst enemy' and 'annoying bandwidth bottleneck', but new managers generally have delegation issues to some degree.
-Even when Saddam accepted that he was the problem, he was unable to delegate and remained a decision bottleneck.
+Technocratic middle managers were spending most of their energy undoing their leader's bad decisions, rather than fighting and winning.
+There's a spectrum between 'own worst enemy' and 'annoying bandwidth bottleneck', but new managers generally are on it.
 
 Over-centralization of authority sends a message that people shouldn't act on their own, which paralyzes your org.
 Note that I'm not arguing against hierarchical authority or a clear chain of command, but rather against authority all concentrating at the top, making it impossible for middle managers to do their jobs.
@@ -67,7 +67,7 @@ In Vietnam:
 [^detailed]: Talmadge, [The Dictator's Army](https://www.cornellpress.cornell.edu/book/9781501700293/the-dictators-army), kindle L1,301
 
 Centralization also hamstrings the flexibility of a large team to adapt to new information.
-These leaders, often lacking domain skill or up-to-date information, are best at 'do nothing without asking me' orders that trap middle managers in bad positions.
+Top leaders, often lacking domain skill or up-to-date information, are best at 'do nothing without asking me' orders that trap middle managers in bad positions.
 In one case:
 
 > Because Saddam had decreed that units were not allowed to cede any ground, the Iraqi defense was poorly coordinated and ineffective, eventually inducing panic.[^panic] ...
@@ -87,8 +87,8 @@ In one case in Vietnam, President Thieu's personal intervention not only disrupt
 
 Unaccountable, illogical plans from inexpert leaders create hills to die on, in some cases literally.
 They also come through unusual channels (because hands-on leaders prioritize fast action).
-This often makes coordination and preparation impossible for middle managers.
-In one case, a general:
+Unusual channels = coordination and preparation impossible for middle managers.
+In one case in South Vietnam, a general:
 
 > personally interceded at all levels, sometimes going so far as to personally issue orders by radio to individual brigade commanders without notifying the division operations center. Both Giai and his division advisers often learned of new orders only as they were being carried out.[^all-levels]
 
@@ -101,12 +101,12 @@ From an internal document, they valued:
 
 [^unanimity]: Talmadge, L2,745
 
-After the american revolution George III was having a conversation with his american portraitist Benjamin West and heard that Washington was going to resign his commission and 'return to his farm'.
-The King was like 'ha pull the other one', recognizing that giving up power is very hard, and saying something like '*if* he does it I take back everything I said about the guy.'
+After the American revolution, George III was having a conversation with his American portraitist Benjamin West; he heard Washington was going to resign his commission and 'return to his farm'.
+The King was like 'ha pull the other one', recognizing that giving up power is very hard, and said something like '*if* he does it I take back everything I said about the guy.'
 
 ## Managing up can be a moral imperative
 
-I mean, if you're not living under a rock this year, you probably have your own laundry list of examples.
+I mean, if you've lived not under a rock in the last 6 months, you know what I'm talking about.
 
 Middle managers are frequently in situations where their domain skills are better than senior leadership --
 either because they're technocrats with domain skills,
@@ -121,14 +121,14 @@ We give up because we're tired, but that's not all of it:
 We stop arguing because when a leader experiences argument as dissent, their reactions are unpredictable and poison the team.
 
 The way around this way of thinking is to
-(1) make very sure that you're right when you pick a fight with upper management,
+(1) make very sure that you're very right when you pick a fight with your boss,
 (2) fight for better delegation, not just a correct decision this one time.
 And (3) remember that if you succeed, things get permanently better; these are hard fights but companies need them to grow.
 
-Middle managers are often the only people who have the authority and connections to fight these fights.
+Middle managers are the only people who have the authority and connections to fight these fights.
 That's why they leak, that's why they manage up.
 The organization will fail if we don't.
-Employees depend on companies to put food on the table; you do have a moral obligation to help your employer not fail (if you can) (barring unforeseen circumstances like if [you've looked at these caps recently](https://www.youtube.com/watch?v=hn1VxaMEjRU)).
+Employees depend on companies to put food on the table; you do have a moral obligation to help your employer not fail (if you can) (barring circumstances like if [you've looked at these caps recently](https://www.youtube.com/watch?v=hn1VxaMEjRU)).
 
 I saw a [JAMA article](https://twitter.com/FutureDocs/status/938173926953443328) about 'professional silence' by doctors.
 Silence is not golden when an important argument is being suppressed.
