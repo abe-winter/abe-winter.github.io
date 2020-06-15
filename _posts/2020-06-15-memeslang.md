@@ -2,9 +2,9 @@
 layout: post
 title: Memes, slang & search resistance
 author: Abe Winter
-description: Checked to see why Tappan Zee is trending in case he died
+description: why is noam chomsky trending
 keywords: slang
-categories: chomsky approved
+categories: iconoclasm
 new: true
 ---
 
@@ -55,12 +55,12 @@ Stretching definitions here, the computer vision camo that they print on T-shirt
 it combines garish style, political statement, and theoretical invisibility to mainstream surveillance.
 (Theoretical because does dazzle makeup really still fool software?).
 
-For outsiders, memes are hard to decode by web search.
+For outsiders, memes are hard to 'look up' or search.
 Their meanings shift quickly, meaning that you can only keep up by being an insider.
-The reliance on images makes them harder to index
-And they're used in the context of other insider language, which makes it hard to learn one just by seeing it used.
+The reliance on images makes them harder to index.
+And they're introduced in the context of other insider language, which makes it hard to learn one just by seeing it used.
 
-Before I was a twitter user, whenever a web search ended with know your meme my eyes turned off;
+Before I was a twitter user, whenever a web search ended with knowyourmeme my eyes turned off;
 I didn't want to read a history of meaning changes for a 'cursed' sonic the hedgehog drawing to understand someone's one-liner.
 ('cursed' as used online is another new word for me).
 KYM didn't feel like a dictionary and so my brain turned off.
@@ -72,7 +72,7 @@ I'm interested in the study of 'language shifts', the way that natural languages
 
 The largest body of work here is on Proto-Indo-European, the hypothetical ancestor language of some indian and european language families.
 This research began as scholarly hunches in the 1500s and blossomed into dictionaries and concordia by the early 1800s.
-Grimm's law (yup same one) identified patterns in the sound shifts between the languages, and that allowed the next generation of philologists to begin reconstructing PIE's original form.
+Grimm's law (yup like the show) identified patterns in the sound shifts between the languages, and that allowed the next generation of philologists to begin reconstructing PIE's original form.
 
 We think the spread of PIE was driven by invading / migrating elites.
 Slang is typically the opposite; it's a language shift created as a response to being driven underground.
@@ -90,25 +90,27 @@ using homonyms and rhymes to reuse an existing emoji for a new purpose,
 creating representations for things based on what's in the news ('canadian flag' for 'weed').
 
 Custom emoji sets demonstrate a lot of the patterns by which words evolve in spoken languages.
-My point in bringing this up is that successful social networks enable playful uses of language --
-this (1) creates a sunk cost that incentivizes insiders to stay, (2) strengthens communities to outside disruption and (3) probably improves communication.
+My point in bringing this up is that successful social networks enable playful uses of language.
+That (1) creates a sunk cost that incentivizes insiders to stay, (2) strengthens communities against outside disruption and (3) probably improves communication.
 
 I hope someone writes a PhD about this.
 
 ## Will future social leave room for slang?
 
-8chan is horrible and violent (I suspect, never having used it).
-Twitter has a horrible underbelly (I suspect, having used it but seen only the good side).
+8chan is chaotic and, sometimes, dangerous (I suspect, never having used it).
+Twitter has a dirty underbelly (I suspect, having used it but seen only the good side).
 
 My sense of twitter is that highly public speech by high-reputation experts / celebs is coexisting with semipublic coded speech.
 
-I read this [bellingcat post about shitposting](https://www.bellingcat.com/news/rest-of-world/2019/03/15/shitposting-inspirational-terrorism-and-the-christchurch-mosque-massacre/) (trigger warning: it details terrorist recruitment and is disturbing), another word that I heard but didn't understand before this year.
+I read this [bellingcat post about shitposting](https://www.bellingcat.com/news/rest-of-world/2019/03/15/shitposting-inspirational-terrorism-and-the-christchurch-mosque-massacre/),
+another word that I heard but didn't understand before this year.
+(Trigger warning: it details terrorist recruitment and is disturbing).
 The article describes shitposting as a form of noise that distracts and derails outsiders.
 It rejects not arguments but *argument*, rejecting the public square as a place for debate, replacing debate with pollution.
 
 The subject of the article is believed to be one of the people arrested for the Christchurch shootings in New Zealand.
 He left behind a manifesto.
-Bellingcat claims shitpost-style speech in his docs were trying to "distract attention from his more honest points and draw the attention of his real audience".
+Bellingcat claims shitpost-style speech in his docs tries to "distract attention from his more honest points and draw the attention of his real audience".
 This is powerful because you can recruit in the open without getting caught planning a crime.
 
 Anyone building a social platform has to find balance on this issue.
