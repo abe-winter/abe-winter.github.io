@@ -10,16 +10,16 @@ redirect_from: /chomsky/approved/2020/06/15/memeslang.html
 ---
 
 I'm new to twitter and not yet fluent --
-my rookie attempts to make jokes, be heard, and join conversations have pretty much flopped.
+my rookie attempts to land jokes and join conversations are flopping less, but flopping still.
 Even reading comprehension was hard at first.
 It was weeks before I could interpret tone.
 
-I've started picking up words and phrases that my younger friends use that I never understood before,
-and am now gradually learning through context.
+I'm picking up words and phrases that my younger friends use that I never understood before
+because I never heard them in context.
 ('Slide into DMs' for example).
 
 This weekend I didn't check it for like 1 day and noam chomsky was everywhere when I got back, and it took research to figure out what happened.
-Yes it was like 1 minute of research but I wouldn't have known how to do it 2 months ago --
+Yes it was 1 minute of research but I wouldn't have known how to do it 2 months ago --
 searching doesn't help because the first result is always 'checked to see why X is trending in case they died'.
 And it would have been more than one minute if I'd been away for longer, because meanings fade and shift.
 
