@@ -14,8 +14,8 @@ This weekend I didn't check twitter for *one day* and when I got back, noam chom
 It took research to figure out what happened.
 Yes it was 1 minute of research but I wouldn't have known how to do it 2 months ago --
 searching doesn't help because the first result is always 'checked to see why X is trending in case they died'.
-And it would have been more than one minute if I'd been away for longer, because meanings fade and shift,
-becoming more inscrutable the longer you're away.
+And it would have taken more if I'd been away for longer, because meanings compound self-referentially,
+becoming more inscrutable with time and use.
 
 I'm new to twitter and not yet fluent --
 I'm picking up words and phrases that my younger friends use in meatspace that I never understood before
