@@ -31,7 +31,7 @@ I'm not the [first person to write about this](https://www.schneier.com/blog/arc
 
 in order to backdoor, you have to distribute the law enforcement secret key to every switch & router in the land.
 
-You *can't* just use a technology to prove that the packet is encrypted without actually encrypting it. Because what if your packet contents are in turn encrypted with another key? The network switch will have to decrypt the packet and check that the contents seem benign according to some lookup table.
+You *can't* just use a technology to prove that the packet is encrypted without actually decrypting it. Because what if your packet contents are in turn encrypted with another key? The network switch will have to decrypt the packet and check that the contents seem benign according to some lookup table.
 
 People are saying 'we can keep the encryption keys safe in a lockbox' but if you're going to do packet inspection then every backbone switch will need its own lockbox.
 

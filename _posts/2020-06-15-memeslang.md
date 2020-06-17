@@ -9,7 +9,7 @@ new: true
 redirect_from: /chomsky/approved/2020/06/15/memeslang.html
 ---
 
-This weekend I didn't check twitter for *one day* and when I got back, noam chomsky was everywhere.
+This weekend I didn't check twitter enough and when I got back, everyone was saying noam chomsky and I didn't understand.
 
 It took research to figure out what happened.
 Yes it was 1 minute of research but I wouldn't have known how to do it 2 months ago --
