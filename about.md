@@ -18,5 +18,9 @@ I'm trying to find a theme for this blog -- I think it's about the 'information 
 * law and norms including privacy
 * non-money forms of wealth
 * institutional interactions
+* labor, employment and automation
+* leadership, decisionmaking, waste and failure (and corruption in here somewhere)
+* systems, their taken-for-granted invisible consequences, and whether they're intentional
+* unrelated to all of the above, my bread and butter, rants about bad software tooling
 
 Need a speaker on SOA, cloud or realtime perf? Hit me up, it's awinter.public@gmail.com.
