@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your client (or boss) didn't hear your recommendation
+title: You don't get to say 'I told you so' unless you told them so every time
 description: All the jagged parts of my life have come together to form a complete and mystical whole
 author: Abe Winter
 keywords: told you so
