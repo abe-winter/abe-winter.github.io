@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warrantless encryption isn't a 4th amendment issue, it's a 1st amendment issue
+title: Warrant-proof encryption isn't a 4th amendment issue, it's a 1st amendment issue
 description: "Encryption is privacy incarnate -- don't ban it"
 top: true
 ---
