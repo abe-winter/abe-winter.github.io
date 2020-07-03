@@ -58,6 +58,7 @@ This phrase doesn't belong in the policies for a publishing platform.
 
 6 says:
 > You will provide Substack with all requested data or information about you and your Publisher Newsletters
+
 Period? This is too broad.
 
 ---
