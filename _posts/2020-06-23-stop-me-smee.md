@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You don't get to say 'I told you so' unless you told them so every time
+title: "The use of 'I told you so' in advising gigs"
 description: All the jagged parts of my life have come together to form a complete and mystical whole
 author: Abe Winter
 keywords: told you so
