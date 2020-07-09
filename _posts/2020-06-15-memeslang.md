@@ -5,7 +5,6 @@ author: Abe Winter
 description: why is noam chomsky trending
 keywords: slang
 categories: iconoclasm
-new: true
 redirect_from: /chomsky/approved/2020/06/15/memeslang.html
 ---
 
