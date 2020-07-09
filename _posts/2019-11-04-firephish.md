@@ -9,7 +9,7 @@ noindex: true
 
 I spent like 30 minutes today today figuring out whether a 'firebase app distribution' email that I got was real.
 
-The email linked to a https://appdistribution.firebase.dev domain, came from an @crashlytics.com email, and required me to auth with google oauth (i.e. enter my gmail password). Just confirming that an oauth link is on google.com (vs googIe.com or any other weird combination) is hard on a mobile device. And these links are long and you have to scroll horizontally in the smaller-than-the-diameter-of-my-index-finger address bar.
+The email linked to a https://appdistribution.firebase.dev domain, came from an @crashlytics.com email, and required me to auth with google oauth (i.e. enter my gmail password). Just confirming that an oauth link is on google.com (vs `googIe.com` or any other weird combination) is hard on a mobile device. And these links are long and you have to scroll horizontally in the smaller-than-the-diameter-of-my-index-finger address bar.
 
 Firebase spiced up the batch by putting the link on firebase.dev, a domain that [according to whois.com](https://www.whois.com/whois/firebase.dev) is owned by:
 
@@ -52,7 +52,7 @@ Domains are linked to certs. This stuff matters. When a company has multiple dom
 
 Developer ergonomics matters. The ability to deploy to your team without making them jump through hoops saves time and money.
 
-Google is apparently not great with these tools and apple is actively hostile. At least they [bought testflight](https://www.macworld.com/article/2875441/apple-will-shut-down-original-testflight-beta-testing-platform-in-february.html). Remember when [they revoked facebook's private cert](https://arstechnica.com/gadgets/2019/01/facebook-and-google-offered-gift-cards-for-root-level-access-to-ios-users-data/)? Yes, short term this a way to maintain control of your platform, but 
+Google is apparently not great with these tools and apple is actively hostile. At least they [bought testflight](https://www.macworld.com/article/2875441/apple-will-shut-down-original-testflight-beta-testing-platform-in-february.html). Remember when [they revoked facebook's private cert](https://arstechnica.com/gadgets/2019/01/facebook-and-google-offered-gift-cards-for-root-level-access-to-ios-users-data/)? Yes, short term this a way to maintain control of your platform, but long term this clears the way for a non-grabby linux phone to dominate the market.
 
 As a progammer who seldom touches mobile, I feel slimed every time I do. The tools are **so bad** and the only explanations I can think of are incompetence, malice or a powerful 'not invented here' culture.
 
