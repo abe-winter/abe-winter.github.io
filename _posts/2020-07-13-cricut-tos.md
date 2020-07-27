@@ -2,7 +2,7 @@
 layout: post
 title: Cricut TOS readthrough
 categories: tos
-new: true
+noindex: true
 ---
 
 This is part of a

@@ -13,6 +13,9 @@ This is part of a series where I read TOS thoroughly before buying products and 
 
 This article is my notes from my readthrough of [Substack's Publisher Agreement](https://substack.com/pa). Substack is an email newsletter manager. Their publisher agreement doc links to their TOS and Privacy Policy which I didn't read because the PA already gave me the sick.
 
+* toc
+{:toc}
+
 ## Readthrough
 
 2(a) prevents me from contracting separately with my customers to cut Substack out of the deal, which is standard for marketplace providers.
