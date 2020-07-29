@@ -3,7 +3,7 @@ layout: post
 title: Panic buttons and norm wizards
 categories: norm vacuum
 description: Nature, in fact, abhors a lot of things
-new: true
+noindex: true
 ---
 
 Tech lowers costs.
