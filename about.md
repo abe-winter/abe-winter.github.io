@@ -8,16 +8,25 @@ permalink: /about/
 
 Greetings & welcome.
 
-## This blog
+## Me / this blog
 
-Doesn't exactly have a theme, but I think it's about broken engineering management + the ever-unfolding 'information economy' (a term I cannot fully define).
+Mostly I'm trying to read more and the writing I do here gives me an excuse.
+
+I'm also helping midsized web companies build backend stacks under load,
+and also building a SaaS to help companies promote fairly.
+(If you want to talk about / try that product, I'd love to hear from you).
+
+If you love or hate something that I've written here,
+let me know on twitter or email (scroll down).
+Ideally all fan mail will include a book or article recommendation.
 
 ## My consultancy
 
-If the content here hasn't turned you off, you should hire me! I'm a scaling consultant which means that:
+You should hire me! I'm a scaling consultant which means that:
 
 * if your app or website backend is failing with traffic
 * or you need to lower your cloud bill
-* or your developer processes are slowing down development
+* or your systems are slowing down your developers
 
-I can probably help. Hit me up, it's awinter.public@gmail.com.
+I can probably help.
+Hit me up, it's awinter.public@gmail.com.
