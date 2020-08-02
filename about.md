@@ -6,21 +6,18 @@ permalink: /about/
 
 <p class="rss-subscribe">Subscribe via <a href="https://tinyletter.com/abe-winter">📬 email</a> or <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
 
-Hi!
+Greetings & welcome.
 
-I used to be a platform and scalability programmer but in 2020 I'm building 4 products and doomscrolling a lot.
+## This blog
 
-Among other qualifications, I've created over 150 situationally appropriate custom emoji, some of which are still in use today.
+Doesn't exactly have a theme, but I think it's about broken engineering management + the ever-unfolding 'information economy' (a term I cannot fully define).
 
-I'm trying to find a theme for this blog -- I think it's about the 'information economy', a term that I can't (yet) define but I know it touches on:
+## My consultancy
 
-* networks of expertise
-* law and norms including privacy
-* non-money forms of wealth
-* institutional interactions
-* labor, employment and automation
-* leadership, decisionmaking, waste and failure (and corruption in here somewhere)
-* systems, their taken-for-granted invisible consequences, and whether they're intentional
-* unrelated to all of the above, my bread and butter, rants about bad software tooling
+If the content here hasn't turned you off, you should hire me! I'm a scaling consultant which means that:
 
-Need a speaker on SOA, cloud or realtime perf? Hit me up, it's awinter.public@gmail.com.
+* if your app or website backend is failing with traffic
+* or you need to lower your cloud bill
+* or your developer processes are slowing down development
+
+I can probably help. Hit me up, it's awinter.public@gmail.com.
