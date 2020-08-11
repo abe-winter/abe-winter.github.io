@@ -4,7 +4,7 @@ title: Mesh twitter for election week
 description: Yes this means you, yes this means now
 author: Abe Winter
 categories: yes-now
-new: true
+noindex: true
 ---
 
 1. toc
@@ -12,11 +12,11 @@ new: true
 
 ## Yes this means you, yes this means now
 
+The institutions that regulate elections in the US are ancient and under attack from all sides.
+This includes everything from districting to polling places to the post office.
 I think we should build a decentralized, Twitter-like platform to make election experts 'uncancelable' in case of a dispute in the US elections this fall.
 The rest of this article is about how,
 but this intro section is about why.
-
-Here's what's been rattling around in my head this week:
 
 First, I saw historian Timothy Snyder's [lecture about how free societies become un-free](https://www.c-span.org/video/?424912-2/timothy-snyder-discusses-on-tyranny).
 He has a book about this and it's short, probably shorter than the talk.
@@ -29,7 +29,7 @@ The paper is about a tabletop simulation they ran with a group of experts to gam
 One of the conclusions is that because of a larger-than-normal amount of mail-in voting, the vote may not be decided in one night.
 There may be a lot of uncertainty.
 
-And third, Belarus saw police violence against protestors and opposition candidates after a disputed election this week.
+And third, Belarus used police violence against protestors and opposition candidates after a disputed election this week.
 The weird thing about it for me is I'm not thinking 'this wouldn't happen in America', but rather 'this looks a lot like Portland'.
 
 FWIW, here's what our state dept [wrote about Belarus](https://www.state.gov/presidential-elections-in-belarus/):
@@ -43,7 +43,7 @@ In Belarus, the protesters are using out-of-band or mesh networking apps to stay
 ![tweet about mesh services used by belarusian protesters]({{ "/assets/belarus-mesh.png" | absolute_url }})
 
 This article is about whether and how to build similar networks here.
-In the case of a disputed election, we may need them -- not even to organize protests, but for finding a collectively palatable truth.
+In the case of a disputed election, we may need them -- not even to organize protests, but for finding a palatable collective truth.
 
 ## Which mesh
 
@@ -52,7 +52,7 @@ I don't have the technical depth to answer this, but can at least raise some bro
 **Does it need to survive an internet outage?**
 It seems like in Belarus this week, the outages have been site-specific rather than the internet going down entirely.
 If we expect decentralized social apps to continue working, mesh networking may be overkill.
-Example: fediverse apps like mastodon doesn't rely on centralized anything, but as I understand it it runs over the internet.
+Example: Fediverse apps like Mastodon don't rely on centralized application servers, but still run over the internet.
 
 **Should it run on nonstandard hardware?**
 This is a major tradeoff.
@@ -154,14 +154,11 @@ If local wifi or bluetooth is the transport, these things can be jammed, but if 
 
 There needs to be a legal armor for resilient networks to be truly resilient.
 I would start with commitments of support from infrastructure companies (ISPs and OS vendors),
-and then have a consortium of them seek a declaratory judgement 
+and then have a consortium of them seek a declaratory judgement.
 
 A declaratory judgement is a declaration by the courts that is 'preventative' in that it allows a court to affirm the rights of the litigant.
-
 I'm not a lawyer and my sense is that standing in declaratory judgement suits is not simple,
-but given that TikTok is being taken off the air without an elaborated reason,
-and given that the courts have been steady in rejecting executive action on shaky procedure,
-I think there's some hope here.
+but no harm in trying.
 
 ## What will this take
 
