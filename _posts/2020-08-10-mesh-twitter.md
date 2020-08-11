@@ -53,6 +53,7 @@ I don't have the technical depth to answer this, but can at least raise some bro
 It seems like in Belarus this week, the outages have been site-specific rather than the internet going down entirely.
 If we expect decentralized social apps to continue working, running a physical mesh would be overkill.
 Example: BitTorrent runs over the internet but uses ad-hoc discovery and network toplogy.
+Or [Scuttlebutt](https://boingboing.net/2017/04/07/bug-in-tech-for-antipreppers.html) is a distributed messaging platform that has some cryptographic verification features built in and can use physical handoffs to route around network problems.
 
 **Should it run on nonstandard hardware?**
 This is a major tradeoff.
