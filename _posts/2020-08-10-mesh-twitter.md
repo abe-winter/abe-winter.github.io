@@ -39,6 +39,7 @@ FWIW, here's what our state dept [wrote about Belarus](https://www.state.gov/pre
 Yup.
 
 In Belarus, the protesters are using out-of-band or mesh networking apps to stay in touch as the state blocks access to social media ([source tweet](https://twitter.com/franakviacorka/status/1292840766369390595)).
+(Update: they [blocked internet entirely](https://www.wired.com/story/belarus-internet-outage-election/) Sunday night, after some possible per-site blocks, and are dubiously blaming it on an external DDOS attack).
 
 ![tweet about mesh services used by belarusian protesters]({{ "/assets/belarus-mesh.png" | absolute_url }})
 
