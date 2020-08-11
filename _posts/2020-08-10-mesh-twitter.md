@@ -51,8 +51,10 @@ I don't have the technical depth to answer this, but can at least raise some bro
 
 **Does it need to survive an internet outage?**
 It seems like in Belarus this week, the outages have been site-specific rather than the internet going down entirely.
-If we expect decentralized social apps to continue working, mesh networking may be overkill.
+If we expect decentralized social apps to continue working, running a physical mesh would be overkill.
 Example: BitTorrent runs over the internet but uses ad-hoc discovery and network toplogy.
+[IPFS](https://ipfs.io/) is designed to serve arbitrary content in a distributed way.
+If the internet is expected to stay up, IPFS + Mastodon might be the way to do this.
 
 **Should it run on nonstandard hardware?**
 This is a major tradeoff.
