@@ -4,7 +4,7 @@ title: Mesh twitter for election week
 description: Yes this means you, yes this means now
 author: Abe Winter
 categories: yes-now
-noindex: true
+new: true
 ---
 
 1. toc
@@ -52,7 +52,7 @@ I don't have the technical depth to answer this, but can at least raise some bro
 **Does it need to survive an internet outage?**
 It seems like in Belarus this week, the outages have been site-specific rather than the internet going down entirely.
 If we expect decentralized social apps to continue working, mesh networking may be overkill.
-Example: Fediverse apps like Mastodon don't rely on centralized application servers, but still run over the internet.
+Example: BitTorrent runs over the internet but uses ad-hoc discovery and network toplogy.
 
 **Should it run on nonstandard hardware?**
 This is a major tradeoff.
