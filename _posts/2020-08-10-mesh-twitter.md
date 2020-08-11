@@ -55,6 +55,8 @@ If we expect decentralized social apps to continue working, running a physical m
 Example: BitTorrent runs over the internet but uses ad-hoc discovery and network toplogy.
 Or [Scuttlebutt](https://boingboing.net/2017/04/07/bug-in-tech-for-antipreppers.html) is a distributed messaging platform that has some cryptographic verification features built in and can use physical handoffs to route around network problems.
 
+My sense is that [Fediverse / ActivityPub](https://docs.joinmastodon.org/) has some cross-node mention and access control features, but doesn't use a distributed topology for content delivery, i.e. can be blocked by taking down one site.
+
 **Should it run on nonstandard hardware?**
 This is a major tradeoff.
 As I understand the space, the mesh network tools with longer range use the wifi chip rather than bluetooth.
