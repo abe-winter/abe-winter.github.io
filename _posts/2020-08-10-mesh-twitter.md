@@ -12,7 +12,7 @@ new: true
 
 ## Yes this means you, yes this means now
 
-I think we should build a decentralized, Twitter-like platform to make election experts 'uncancellable' in case of a dispute in the US elections this fall.
+I think we should build a decentralized, Twitter-like platform to make election experts 'uncancelable' in case of a dispute in the US elections this fall.
 The rest of this article is about how,
 but this intro section is about why.
 
@@ -62,6 +62,7 @@ Asking people to flash their phones is impossible for Apple hardware, and probab
 
 There are hardware options like GoTenna and random single-board computers with big antennas,
 but is there enough of a stock of these?
+And I think some of them only have proprietary messaging protocols, they can't run arbitrary traffic.
 
 Another option is to collect all of people's old linksys routers and flash those;
 it's a reasonable guess that some % of households has one or more spare wifi boxes.
@@ -102,7 +103,7 @@ In a provocatively titled [Twitter George Soros and Porn](https://themargins.sub
 
 Confession time:
 I joined twitter this March to get faster information about covid.
-And now, 5 months later, I 1000% agree with this author -- it takes a while to understand how to read any single author or community.
+And now, 5 months later, I 1000% agree with this newsletter -- it takes a while to understand how to read an account or community.
 
 And also that Twitter isn't vetted.
 Nobody claims that it is, but we all have experiences where we realize exactly what that means.
@@ -121,7 +122,8 @@ It also means that there may be only 10 cyber-security experts on the thing, and
 Readers can build their personal conclusions based on the spread.
 Also, they can check each other if they publish information before all the facts are available.
 
-The goal of trust is more rapid consensus, at the cost of not being able to verify every claim or interpretation yourself.
+The goal of trust in general is more rapid consensus, at the cost of not being able to verify every claim or interpretation yourself.
+Putting together groups of experts can give you a middle ground where you pick from a menu of expert opinions.
 
 ## Truth-finding vs organizing for action
 
