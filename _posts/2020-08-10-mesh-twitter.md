@@ -4,7 +4,7 @@ title: Mesh twitter for election week
 description: Yes this means you, yes this means now
 author: Abe Winter
 categories: yes-now
-new: true
+noindex: true
 ---
 
 1. toc
