@@ -189,9 +189,6 @@ not 'how will you vote' but 'how did you vote'.
 It's bad that we need this but frankly it's bad that we don't already have it.
 Reliable systems have backups.
 
-Another option is to get independent observers.
-They can be UN, or just retired officials with mixed party alignment.
-You'd want them in the Post Office if there are lots of mail-in ballots, in polling places.
-If we have a last-minute pandemic or security lockdown, they would assess whether it's necessary.
+The [UN has been invited](https://www.osce.org/odihr/elections/usa/457582) to observe the 2020 US election.
 
 {% include flatpixel.html %}
