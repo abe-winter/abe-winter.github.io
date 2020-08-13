@@ -190,5 +190,7 @@ It's bad that we need this but frankly it's bad that we don't already have it.
 Reliable systems have backups.
 
 The [UN has been invited](https://www.osce.org/odihr/elections/usa/457582) to observe the 2020 US election.
+They're hiring a 'new voting technologies analyst'.
+I wonder if an old voting technologies analyst would be more appropriate given how much may hinge on the Post Office this year.
 
 {% include flatpixel.html %}
