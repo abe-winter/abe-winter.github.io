@@ -2,7 +2,7 @@
 layout: post
 title: Boilerplate generators are full-stack plugins
 author: Abe Winter
-description: War with the spartans will come and with it a great loimos
+description: "The drink originated in Butte in the 1890s as a Sean O'Farrell, served to miners at end-of-shift"
 keywords: shit, repo
 new: true
 ---
