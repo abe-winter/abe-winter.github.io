@@ -2,7 +2,7 @@
 layout: post
 title: Boilerplate generators are full-stack plugins
 author: Abe Winter
-description:
+description: War with the spartans will come and with it a great loimos
 keywords: shit, repo
 new: true
 ---
