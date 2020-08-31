@@ -105,9 +105,10 @@ After the American revolution, George III was having a conversation with his Ame
 The King was like 'ha pull the other one', recognizing that giving up power is very hard, and said something like '*if* he does it I take back everything I said about the guy.'
 The point is that accepting the limits to authority is hard, but also critical for good leaders.
 
-## Managing up as moral imperative
+## Managing up
 
-I mean, if you've lived not under a rock in the last 6 months, you know what I'm talking about.
+One of the lessons of 2020 is probably that sometimes the only person in the room who can stop a bad outcome is a middle manager,
+and often they can only do it by managing up, not through direct action.
 
 Middle managers are frequently in situations where their domain skills are better than senior leadership --
 either because they're technocrats with domain skills,
@@ -178,11 +179,11 @@ Startups can be paradoxically more authoritarian than well-run large companies.
 Channels for disobedience are useless without high quality people who have both domain skills and enough court sense to act selflessly some of the time.
 More on high quality people in the next section.
 
-## Promotion and demotion
+## Demotions, temporary and permanent
 
 Serious organizations are serious about promotion, and will seek to pack the org chart with competent people who can deal with authority and responsibility.
 At small companies experiencing management scuffles, promotion and hiring can be more about filling power vacuums and isolating enemies.
-I once watched a manager hire his worst frat buddy to run a division in order to de-power his cofounder, and for the next six months the cofounder had to do the frat buddy's homework and then explain it to him.
+I once watched a manager hire his worst frat buddy to run a division in order to de-power his cofounder, and for the next six months the cofounder had to do the frat buddy's homework.
 
 Autocrats promote badly because when your goals are selfish or illogical, the only form of 'competence' you recognize is loyalty.
 Here's how the Iraqi military approached that in the 80s:
