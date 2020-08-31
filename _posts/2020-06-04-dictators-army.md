@@ -32,13 +32,17 @@ It sometimes gets me through the week.
 
 ## Despots meddle
 
+> Despotism is a legitimate mode of government in dealing with barbarians, provided the end be their improvement, and the means justified by actually effecting that end.
+
+> Liberty, as a principle, has no application to any state of things anterior to the time when mankind have become capable of being improved by free and equal discussion.
+> -- JS Mill
+
+By inference, if you're not hiring barbarians and / or they don't need improvement, or your team is capable of discussion, consider a lighter-weight leadership style.
+
 'Despot' also means bronze age feudal landowners or the heir apparent of Byzantium, but we haven't had those for a while.
 Adaptive reuse of the term in revolutionary France gave the term its modern meaning:
 an absolute ruler who governs without restraint by the law.
 See also 'frondeur'.
-
-John Stuart Mill thinks absolutism is the right way to govern 'barbarians' if it's 'for their improvement'.
-By inference, if you're not hiring barbarians who need improvement, consider a lighter-weight leadership style.
 
 When growing teams take on more complex goals but don't update their management, they encounter pathologies of delegation --
 senior leadership who isn't sure how to solve problems using middle managers, who give them the wrong length leash.
