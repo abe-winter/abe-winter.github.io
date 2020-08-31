@@ -103,8 +103,9 @@ From an internal document, they valued:
 
 After the American revolution, George III was having a conversation with his American portraitist Benjamin West; he heard Washington was going to resign his commission and 'return to his farm'.
 The King was like 'ha pull the other one', recognizing that giving up power is very hard, and said something like '*if* he does it I take back everything I said about the guy.'
+The point is that accepting the limits to authority is hard, but also critical for good leaders.
 
-## Managing up can be a moral imperative
+## Managing up as moral imperative
 
 I mean, if you've lived not under a rock in the last 6 months, you know what I'm talking about.
 
@@ -172,11 +173,12 @@ Good systems have disobedience built in.
 In service animals, it's called [intelligent disobedience](https://en.wikipedia.org/wiki/Intelligent_disobedience) and it keeps people from confusing a staircase with a cliff.
 That article also talks about 'Blink think choice voice', a safety mnemonic to guide children through disobeying a creepy adult.
 Young workplaces are in my experience bad at enabling disobedience, but also sorely need it.
+Startups can be paradoxically more authoritarian than well-run large companies.
 
-But channels for disobedience are useless without high quality people who have both domain skills and enough court sense to act selflessly some of the time.
+Channels for disobedience are useless without high quality people who have both domain skills and enough court sense to act selflessly some of the time.
 More on high quality people in the next section.
 
-## Promotion, punishment and people quality
+## Promotion and demotion
 
 Serious organizations are serious about promotion, and will seek to pack the org chart with competent people who can deal with authority and responsibility.
 At small companies experiencing management scuffles, promotion and hiring can be more about filling power vacuums and isolating enemies.
@@ -205,11 +207,11 @@ Iran, whose revolutionary religious leadership had been conducting a years-long 
 
 Part of the problem:
 some important middle managers in the Al-Faw operation died in a plane crash on their way back to Tehran[^plane-crash].
-If aviation had been safer back then, the course of the war and the history of Iran and the middle east might have been different.
+If aviation had been safer back then, the course of the war and the history of the region might taken a different path.
 
 [^plane-crash]: Talmadge, L3,989
 
-I don't mean to canonize war or victory; but merely in terms of lives spent, ending the war would have been a win.
+I don't mean to canonize war or victory; but merely in terms of lives spent, ending the war early would have been a win.
 Just improving leadership would have been a win --
 the Iranians' main tactic before and after Al-Faw was to overwhelm Iraqi positions with their untrained, martyrdom-motivated revolutionary infantry (more on this in the 'ideology' section below).
 
@@ -246,14 +248,15 @@ The south was generally worse than the north at basic weapon competencies.
 
 Big companies have this same training gap -- you spend your whole first week on 'training' that was put together by HR, is mostly political indoctrination, and had nothing to do with your real job.
 All these armies had 'HR' functions, in the form of political operatives embedded in combat units with unclear authority and chain of command.
-When senior leaders don't take responsibility for education and promotion, HR gains power by colonizing the vacuum.
+When senior leaders don't take responsibility for education and promotion, 'glue' silos like HR are tempted to seize power by colonizing the vacuum.
 
 I heard an interview with James Stavridis, a senior leader in the US Navy, who observed that promotion structures in his department have
 "pretty good filters along the way"[^filters]
 and get you
 "literally 1 in 1000 from the beginning tranche of people who come in"[^thousand].
 
-The host was asking about "esteemed institutions that still allow bad leaders to emerge"[^esteemed], and I'm not sure Stavridis had a satisfying answer,
+The host was asking about the problem of "esteemed institutions that still allow bad leaders to emerge"[^esteemed].
+I'm not sure Stavridis had a satisfying answer,
 but my point is that the Navy thinks carefully about recruitment and advancement as a tool for building cultures,
 and that organizations are built of people, and big teams get the behavior that middle managers allow.
 
@@ -264,7 +267,7 @@ Startups could afford a little deep state action.
 [^thousand]: Stavridis, 21:00
 [^esteemed]: Stavridis, 48:40
 
-## Information barriers prevent coordinated execution
+## Combined arms
 
 Here's how fancy things got in the coup I witnessed:
 One time an internal leader was purged, and I had an informal exit convo with them in a conference room.
@@ -288,12 +291,12 @@ The Iraqis took 8 years to get to that point, for coup reasons and to avoid prov
 
 [^filtered]: Talmadge, L4,200
 
-> [a ground commander] requested air support after he came under attack, but because his request had to be routed through Baghdad due to restrictions on army–air force communication,[^baghdad]
+> [a ground commander] requested air support after he came under attack, but ... his request had to be routed through Baghdad due to restrictions on army–air force communication,[^baghdad]
 
 [^baghdad]: Talmadge, L4,326
 
 Classic management bandwidth bottleneck.
-Classic failure to decentralize.
+Classic failure to delegate and decentralize.
 
 The information barriers weren't restricted to coordinated military action. Even upwards-only information updates were perceived as dangerous.
 
@@ -326,7 +329,7 @@ and once for honestly answering a numeric question from my boss's boss's boss wh
 This kind of siege mentality erodes the value provided by working in teams.
 When you start to control information it becomes your whole job.
 
-## Planning and strategy suffer when argument = dissent
+## Some people out there don't *have* maps
 
 Obedience has a weird place in modern culture.
 I think our main metaphors for management are still Taylorism (the guy who brought math to the assembly line) and the popular portrayal of military orders as 'do or die'.
@@ -402,14 +405,14 @@ and promise unrealistic results in exchange for the rubber stamp.
 In real strategy planning, everybody in the room has to understand that this is a risk reward calculation with contingencies and limited resources.
 If the purpose of the meeting is to get subordinates to commit to a 100% successful, short-deadline plan, you'll never come up with a viable strategy.
 Strategies either embrace uncertainty or they're at the mercy of it.
-Eat not from the tree lest ye die.
+'Eat not from the tree of knowledge lest ye die' is a bad rule to give your experts.
 
-The alternative to good strategy is workplaces that only allow 'heroic' nights & weekends action, because all work time converges to fluffing;
+The alternative to good strategy is workplaces that only allow 'heroic' nights & weekends action, because all work time converges to fluffing activities;
 where the organized framework for decision-making is immune to argument,
 resistant to the work of identifying problems,
 and can't abandon whims for plans even in the face of repeated failures.
 
-## Ideology and the butcher's bill
+## The butcher's bill
 
 My understanding of ideology is totally different after reading this book.
 Here's a zany observation:
@@ -434,7 +437,7 @@ are statements that frequently go hand in hand.
 
 IMO these claims both translate to 'I like being in charge',
 and are a personality test -- if you don't think it's ludicrous to be paid less to take more risk,
-you probably won't argue against other illogical plans and alert our adults that we need one of those toddler walking ropes.
+you probably won't argue against other illogical plans and alert the adults on our board that we need one of those toddler walking ropes.
 
 The Iranians' main tactic was a human wave, costly in lives, that overwhelmed Iraqi minefields and positions, as much by absorbing damage as by firing their weapons.
 They generally failed to follow up with other kinds of forces once their infantry had cleared the way.
@@ -458,7 +461,7 @@ It also couldn't last. Bad arguments can't stand up to continued public failure:
 
 I don't mean to make light of real sacrifices in war by comparing it to soft-hands private sector work.
 But bad management is bad management.
-It repeats its mistakes, and it starves out competence in your organization:
+It repeats its mistakes and it starves out competence in your organization:
 
 > an army cannot propagandize its way to competence in basic tactics and complex operations[^propagandize]
 
@@ -474,10 +477,10 @@ I once asked my favorite recruiter how to spin a bad placement, and his advice w
 Absent authority and good planning, people ship work through sacrificing their free time and risking their social standing.
 This is brave but not particularly effective from the org's perspective.
 
-## Bad how
+## Professional silence
 
 I thought a lot about [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) as I was reading this book.
-The book deals with 'bad leaders', but 'incompetence' and 'malice' are both synonyms for 'bad'.
+The book deals with bad leaders, but 'incompetence' and 'malice' are both synonyms for 'bad'.
 Saddam fought his way to the top; I'm not sure I'd call him 'competent' or 'expert', but certainly talented in his chosen profession.
 
 He also kind of embraced evil. This sounds dark, right:
