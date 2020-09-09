@@ -109,4 +109,21 @@ Should platforms be allowed to sherlock somebody?
 Currently, under the law, you can't patent most businesses, and so the answer is yes.
 Imagine if it weren't.
 
+## Did Dropbox win?
+
+Last point -- did Dropbox's competitive strategy succeed?
+I found stats on wikipedia and [this random site](https://expandedramblings.com/index.php/dropbox-statistics/) and have no idea if they're right, or current, but using numbers between 2018 and 2020:
+
+|| Dropbox | Google drive
+---|---|---
+Total users | 600 million | 1 billion
+Paying users | 10 million | 1 million?
+Teams | 400k | 1 million?
+
+It seems like they're within 2x.
+There are two big questions I don't have enough information to answer:
+
+1. Is Google drive operating at a loss?
+1. In a new antitrust regime when Google isn't allowed to bundle Drive, and consumers are forced to research 'best storage' and install something, which way do these numbers bend?
+
 {% include flatpixel.html %}
