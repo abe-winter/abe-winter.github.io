@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Abe Winter
 email: awinter.public@gmail.com
-description: I'm a NYC-based cloud cost consultant also building ladder.wiki
+description: I'm a NYC-based cloud cost consultant also building Soshcal
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abe-winter.github.io"
 twitter_username: abewinter2

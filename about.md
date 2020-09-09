@@ -13,8 +13,7 @@ Greetings & welcome.
 Mostly I'm trying to read more and the writing I do here gives me an excuse.
 
 I'm also helping midsized web companies build backend stacks under load,
-and also building a SaaS to help companies promote fairly.
-(If you want to talk about / try that product, I'd love to hear from you).
+and also building a pre-launch consumer product.
 
 If you love or hate something that I've written here,
 let me know on twitter or email (scroll down).
