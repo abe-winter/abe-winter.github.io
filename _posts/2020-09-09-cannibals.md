@@ -86,6 +86,7 @@ that are bigger than a feature, and maybe have a network attached to them that t
 'Bigger than a feature' is a point here too.
 Platform features are inherently low-attention; they can't be hard to use, they're build to be ignored, and they have good reasons not to become complex.
 When on the other hand you have a thing someone *installed on purpose*, you have more leeway to innovate.
+A [cloud rando on twitter](https://twitter.com/film_girl/status/1245771681823477760) twists the Jobs line above and says 'you need to be building a product, not a feature'.
 
 ## Role of antitrust
 
