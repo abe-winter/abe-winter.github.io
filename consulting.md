@@ -49,3 +49,5 @@ I've helped companies:
 * Improve system-scale tests to make releases safer. This means integration testing but also load testing where necessary.
 * Communicate better between frontend and backend teams, using tools and types
 * Deploy faster and more safely with CI, canaries and zero-downtime approaches
+
+{% include flatpixel.html %}
