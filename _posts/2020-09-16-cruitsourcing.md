@@ -1,8 +1,8 @@
 ---
 layout: post
 title: I want to outsource technical interviews
-author:
-description:
+author: Abe Winter
+description: Not the whole process, just the interviews
 new: true
 ---
 
@@ -26,6 +26,15 @@ What follows is my argument that you should.
 
 ## Information quality is higher
 
+If outsourcing means that we send over a list of questions and get back a list of answers,
+it requires us to be more accountable about what information we're collecting from the interview.
+
+I enjoy reading triplebyte blogposts just like you, but I'm leery of claims that there's any science to interviewing.
+But if we're forced to write down interview questions ahead of time, suddenly you have a well-coded dataset that gives us a shot at clean stats.
+
+Companies are still providing the questions in my fever-dream here;
+if the test centers worked off a limited menu of whiteboard problems, it would be pretty gameable.
+
 My cokehead boss when I worked at a bank used to drag me to interviews and be like 'come on, you're going to learn how to interview'.
 (The implied ending of that sentence, like most of his sentences, was 'from me').
 
@@ -36,24 +45,15 @@ It just changes the learning process from 'conducting an interrogation' to 'craf
 If you want to train your people to have interpersonal skills, put them on the sales floor;
 if you want them to learn interviewing, focus on the information at play.
 
-I enjoy reading triplebyte blogposts just like you, but I'm leery of claims that there's any science to interviewing.
-But if we're forced to write down interview questions ahead of time, suddenly you have a well-coded dataset that gives us a shot at clean stats.
-
-Companies are still providing the questions in my fever-dream here;
-if the test centers worked off a limited menu of whiteboard problems, it would be pretty gameable.
-
 ## It's cheaper
 
-When you pay them as money instead of time, the costs of hiring become very clear.
+When you pay money instead of time, the costs of hiring become very clear.
 This is good news because now you can price out tradeoffs: maybe you bring in consultants.
 Maybe you take a shot on someone 'okay' rather than running more interviews.
 
 Standard test centers create possibilities for sharing information across companies.
 There are downsides to this (see 'fairness' section below), but benefits too.
-The information can belong to the candidates, like medical records, saving them time and saving future companies money.
-
-It can also save on travel costs for flying someone out.
-(If it's ever safe to fly again).
+The information can belong to the candidates, like medical records, saving them time and saving future interviewers money.
 
 ## It's less stressful
 
@@ -74,7 +74,7 @@ The team conducting the interview panicked a little when I ditched.
 
 Would third party interviewing eliminate bad bias?
 I don't know.
-Outsourcing the interview step doesn't mean I won't interact with someone on the team, even if just a voice call or a text chat, before hiring them.
+Outsourcing the interview step doesn't mean I won't interact with someone on the team, even if just a voice call or a text chat, before getting hired.
 And you can detect a lot in a conversation.
 
 Reduction of stress could matter;
@@ -86,21 +86,24 @@ People have bad days.
 The questions may be the wrong questions.
 At minimum, results should expire.
 
-As a hiring manager, I'm going to want to know about their background, even if it's anonymized like 'big 5 tech co doing X job', 'college with X rank'.
+As a hiring manager, I'm going to want to know about the candidate's background, even if it's anonymized like 'big 5 tech co doing X job', 'college with X rank'.
 I certainly want to check out their github if they've done OSS work.
 I maybe want to see them code, even if something short.
 
 I don't think 'fully blind hiring' is better in all ways, but am open to the argument that it's fairer and worth some sacrifices to give it a shot.
+Fairness has to be balanced against effectiveness; if my blind hires end up not lasting, that's a bad outcome.
+But it's something we should try.
+Maybe they'll be better than candidates sourced through the normal on-site process.
 
-## Don't outsource the whole process though
+## Maybe don't outsource the whole process
 
 There are benefits to meeting each other.
 If I'm not getting the job, I learn a lot about the company from the interaction.
 If I am, I get to vet.
 
 On-sites let you show off stupid human tricks.
-One time I did a coding section by touch-typing python, maintaining a conversation while I did it, and mostly maintaining eye contact.
-Proving nothing other than that I'm a good typist, but I'm pretty sure it got me the offer.
+One time I touch-typed a coding section, carrying on a conversation while I did it.
+All I proving is that I'm a good typist, but I'm pretty sure it got me the offer.
 
 Interviewing sucks on both sides but is a form of networking and can be fun;
 we should streamline it but not neuter it completely.
