@@ -3,7 +3,7 @@ layout: post
 title: I want to outsource technical interviews
 author: Abe Winter
 description: Not the whole process, just the interviews
-new: true
+noindex: true
 ---
 
 You know who mostly outsources admissions testing? **Colleges**.
