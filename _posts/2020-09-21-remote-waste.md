@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talking with non-programmers about remote work and waste
-new: true
+noindex: true
 author: Abe Winter
 categories: vastus
 description: Waste not want not

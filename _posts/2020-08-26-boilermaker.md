@@ -4,7 +4,7 @@ title: Boilerplate generators are full-stack plugins
 author: Abe Winter
 description: "The drink originated in Butte in the 1890s as a Sean O'Farrell, served to miners at end-of-shift"
 keywords: shit, repo
-new: true
+noindex: true
 ---
 
 The question of opinionated web frameworks is divisive and has surely ruined its share of family dinners.

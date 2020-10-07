@@ -4,7 +4,7 @@ title: Bad cache design can be a thorn as you grow
 description: "This is the man, a lion's doctor"
 categories: cloud cost
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 Have had interesting conversations with a bunch of friends in the last few months about their
