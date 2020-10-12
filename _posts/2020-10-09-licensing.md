@@ -74,7 +74,7 @@ more flexible licensing regimes can be a win.
 One example is states that allow dental hygienists to run their own practice (vs working under the supervision of a dentist) experiencing [economic wins](https://www.nber.org/digest/jun11/w16560.html),
 as well as presumably cheaper prices for the consumer.
 
-The [Washington State Practice of Law Board](https://www.abajournal.com/news/article/Board_members_quit_blast_Washington_State_Bar_in_fight_over_UPL) summarily all quit in 2015 in a fight with the state bar association over 'legal technicians', a non-lawyer role that was supposed to make legal help cheaper.
+The Washington State Practice of Law Board [summarily all quit](https://www.abajournal.com/news/article/Board_members_quit_blast_Washington_State_Bar_in_fight_over_UPL) in 2015 in a fight with the state bar association over 'legal technicians', a non-lawyer role that was supposed to make legal help cheaper.
 It's not good news that they quit, but it's good news that this kind of innovation is being discussed.
 
 We can do better.
