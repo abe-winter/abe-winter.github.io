@@ -33,11 +33,15 @@ Their citation of precedent will be comprehensive and meticulous.
 
 The vast increase in available legal attention would let google own the field of play.
 When computers first started playing starcraft, I heard people say 'their strategy is sometimes questionable but their tactics are overwhelming'.
-Basically that allowed to operate at full speed, the AI was unbeatable because it could manage more troops and make reasonable decisions a zillion times a second.
+Basically that allowed to operate at full speed, the AI was unbeatable because it could manage more units and make reasonable decisions a zillion times a second.
 
 An example of what this means in practice --
 goog could mount a specific and impassioned argument for exclusion of every single discovery item.
 When the court rules that's not allowed, it could instantly switch to a clustering strategy and still have the advantage.
+
+If the court chooses to restrict the volume of filings and arguments, the system can use likelihood of arguments and an internal profit pool map to decide which elements of the business to protect with its limited ammunition.
+And it can access a complex strategy in real time in court to defend its arguments.
+The plaintiff will go down in history as the Garry Kasparov of regulatory litigation.
 
 ## This is google's last gift to humanity
 
