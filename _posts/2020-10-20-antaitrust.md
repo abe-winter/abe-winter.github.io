@@ -3,7 +3,7 @@ layout: post
 title: Goog should run their antitrust case by AI
 description: It would be such a good ad.
 author: Abe Winter
-new: true
+new: noindex
 ---
 
 It would be such a good ad.
