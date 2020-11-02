@@ -9,11 +9,10 @@ permalink: /about/
 Mostly I'm trying to read more and the writing I do here gives me an excuse.
 
 I'm also helping midsized web companies build backend stacks under load,
-and also building a pre-launch consumer product.
+and also building [wait.chat](https://wait.chat), a hybrid inbox for async teams.
 
 If you love or hate something that I've written here,
-let me know on twitter or email (scroll down).
-Ideally all fan mail will include a book or article recommendation.
+let me know on twitter or email.
 
 Few enough people read this blog. If you read + like it, I want to hear your thoughts.
 Hit me up, it's awinter.public@gmail.com.

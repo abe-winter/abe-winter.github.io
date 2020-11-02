@@ -5,7 +5,7 @@ description: Feature cannibalism as a startup model
 author: Abe Winter
 categories: unfeaturization
 keywords: feature cannibalism
-new: true
+new: noindex
 ---
 
 When Dropbox got big, Apple and Google giggled and smacked their lips and said 'fuck them we're going to in-house this'.

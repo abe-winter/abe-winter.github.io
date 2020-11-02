@@ -2,7 +2,7 @@
 layout: post
 title: "Professional licensing isn't a solved problem"
 author: Abe Winter
-new: true
+noindex: true
 description: You don't have to put on the red light
 ---
 
