@@ -124,7 +124,8 @@ Perception by T or his base that online social platforms are unfair to them or d
 Not sure what that looks like or whether it succeeds.
 
 **The spoils system**.
-T signed an executive order very recently increasing the number of jobs in the federal government which are appointed rather than .
+T signed an executive order very recently increasing the number of jobs in the federal government which are appointed / at-will rather than hired competitively on the market.
+(Recent bribe, swindle and steal podcast covers this topic in detail if you're interested).
 If B takes the white house, he'll have a choice whether to revoke it or not.
 (Or to appoint his people and *then* revoke it).
 Appointments are subject to congressional advice and consent so it may be too much work to remake the civil service.
