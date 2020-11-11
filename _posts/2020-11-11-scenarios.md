@@ -26,7 +26,8 @@ This is just me thinking about what might happen and what happens after that.
 **Standard of evidence for electoral fraud**.
 Given the serious consequences of disputing an election,
 and given that the court transcripts I've seen are all some judge saying 'have you seen fraud? your law license is mine if you lie',
-we may 
+we may decide as a society to develop a clearer rule for what is an unsubstantiated claim in these cases.
+
 Could be a bright line rule developed by the courts.
 If by legislation, this happens after the current crisis is resolved.
 
