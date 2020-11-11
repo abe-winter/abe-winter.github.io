@@ -83,6 +83,10 @@ No opinion on which way they decide or whether a case even gets up to them.
 If they side with T without a strong merits argument, the court vastly amplifies their power and leeway.
 If they rule against T, with or without merits, republican voters and insiders rethink their long-term strategy re the courts.
 
+**Recounts**.
+Seems like state elections boards / SOSes are enforcing their rules fairly.
+That said, avoid sore-loserism when it's costly and dangerous.
+
 ## Misc scenarios
 
 **Extended standoff**.
@@ -138,6 +142,11 @@ There are a zillion public officials who may be judged by history to have interf
 **Self-pardon**.
 Plausible.
 No case law, may not stick.
+
+**Tucker Carlson**.
+He seems to be the bellwether for the beliefs of the republican base.
+Most recently he's pointing in the direction of 'not enough documented fraud to change the result, but if we're going to die for our country we need a reliable system with zero fraud'.
+That line will evolve as he both leads and follows his viewers.
 
 ## Armed services
 
