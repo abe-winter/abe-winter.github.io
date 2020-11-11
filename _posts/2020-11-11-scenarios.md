@@ -46,7 +46,7 @@ which is status-quo-destroying and benefits neither major party.
 **Georgia runoffs**.
 The current disputes appear to be about the presidential election but none of the court challenges are plausible.
 They're getting thrown out.
-Maybe the RNC strategy here isn't 'appease trump' or 'coup via courts' but rather 'groundwork for georgia'.
+Maybe the RNC strategy here isn't 'appease T' or 'coup via courts' but rather 'groundwork for georgia'.
 
 Georgia has 2 senate runoffs in january which will decide control of the senate.
 If the flurry of effort in december contributes to a senate victory in january, that's a successful strategy by the republicans.
