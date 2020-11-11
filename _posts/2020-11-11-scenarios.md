@@ -202,4 +202,12 @@ I wonder if this devolves to two sides believing something really hard,
 and the side that believes the hardest, and most convincingly,
 wins.
 
+However this crisis of succession shakes out, when it's over, it will feel like waking up from a dream.
+Many of our beliefs, and particularly our beliefs about what other people believe and how our system works, will evaporate.
+Speaking truth to power gets a lot easier when the power is gone.
+
+If you think you know how you'll feel next year, with a potential effective covid vaccine and some kind of change in leadership,
+write it down and set a 3-month reminder.
+Email me when the alarm goes off.
+
 {% include flatpixel.html %}
