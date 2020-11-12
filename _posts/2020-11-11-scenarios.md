@@ -4,7 +4,7 @@ title: Scenarios for a soft coup
 author: Abe Winter
 description:
 categories: future shock
-new: true
+noindex: true
 ---
 
 I'm trying to think more about the future and 'intercept trends' in my professional life, and the habit has bled over to my personal / political life.
