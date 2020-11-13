@@ -64,7 +64,7 @@ Or it could lead to a hot or cold secession scenario.
 But I don't think anybody's in a hurry yet to fire bullets.
 
 **Appointing new electors**.
-I've heard rumblings that Lindsey Graham wants this, then tried to watch the video and could catch where he says that.
+I've heard rumblings that Lindsey Graham wants this, then tried to watch the video and couldn't catch where he says that.
 At worst he's saying 'we do this on condition of widespread fraud', not 'do it no matter what'.
 I don't see it happening.
 It would be such a crisis of legitimacy to ignore tha popular vote.
