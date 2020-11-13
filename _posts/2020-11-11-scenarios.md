@@ -108,7 +108,7 @@ Or saying 'fucking maas' when a german official talked about partnering with B t
 From a domestic policy standpoint, they'll split the difference between (1) 'look at how much more stable our system is'
 vs (2) 'we believe in noninterference in these cases'.
 
-T's first call after winning 2016 was to Tsai Ing-Wen of Taiwan I believe.
+T's after winning 2016 took a call from Tsai Ing-Wen.
 Not clear if he understood the message he was sending.
 (If yes, he did a good job of *not* saying the quiet part out loud).
 B *does* understand the relationship between Taiwan + China and his reaching out to them would send a much louder signal.
