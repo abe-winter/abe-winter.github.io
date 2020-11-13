@@ -161,6 +161,9 @@ Given that there are numerous lawsuits proceeding against T at all levels of the
 B has another option which is to take no legal action,
 but declassify documents which end T's political career (assuming such docs exist).
 
+**Nicknames in politics**.
+I hope we take a break for a while.
+
 ## Armed services
 
 In a constitutional crisis, people who carry guns for a living and drive jets may have to decide who to listen to.
