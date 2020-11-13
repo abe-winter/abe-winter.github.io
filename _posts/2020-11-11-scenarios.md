@@ -217,7 +217,16 @@ However this crisis of succession shakes out, when it's over, it will feel like 
 Many of our beliefs, and particularly our beliefs about what other people believe and how our system works, will evaporate.
 Speaking truth to power gets a lot easier when the power is gone.
 
-If you think you know how you'll feel next year, with a potential effective covid vaccine and some kind of change in leadership,
+People will reconcile.
+People who you think can't be forgiven will be forgiven.
+They were living their truth, at the time, and as the truth changes so will your ability to engage with them and work with them.
+
+Regardless of intent you'd be surprised by what turns out to not be unforgiveable.
+Whether this is a good thing or not, it seems to be the case in the long term.
+Societies need to get over things.
+Look at Argentina.
+
+If you think you know how you'll feel next year, with a potential effective covid vaccine and certainly some kind of change in leadership,
 write it down and set a 3-month reminder.
 Email me when the alarm goes off.
 
