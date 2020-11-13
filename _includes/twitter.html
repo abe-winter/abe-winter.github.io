@@ -1,12 +1,12 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@abewinter2">
 <meta name="twitter:author" content="Abe Winter">
-{% if page.title %}
+{% if page.title -%}
 <meta name="twitter:title" content="{{ page.title }}">
-{% else %}
+{%- else -%}
 <meta name="twitter:title" content="{{ site.title }}">
-{% endif %}
+{%- endif %}
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}You would be clicking here if only someone had written a description for this article ...{% endif %}">
-{% if page.url %}
+{% if page.url -%}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-{% endif %}
+{%- endif %}
