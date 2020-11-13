@@ -207,7 +207,7 @@ but is there a better one?
 History seizes on points of weakeness to create change.
 I feel reasonable saying that this month *isn't not* that.
 
-I read a Brett Deveraux blogpost saying 'not many cases of democracies reverting to authoritarianism in modern history',
+I read a Brett Devereaux blogpost saying 'not many cases of democracies reverting to authoritarianism in modern history',
 but ancient history provides a large set of samples.
 It's unlikely we'll have an outcome that isn't broadly mappable to an episode from greece or rome,
 which isn't to say that we can know in advance *which* episode.
