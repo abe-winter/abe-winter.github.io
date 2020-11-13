@@ -150,6 +150,17 @@ He seems to be the bellwether for the beliefs of the republican base.
 Most recently he's pointing in the direction of 'not enough documented fraud to change the result, but if we're going to die for our country we need a reliable system with zero fraud'.
 That line will evolve as he both leads and follows his viewers.
 
+**Criminal or other penalties for B or T**.
+None of the T campaign's legal action over the voting system has gone anywhere.
+Wisely or unwisely, B has avoided responding in kind.
+
+If elected, B will have to decide whether + how to punish his predecessor or fellow travelers.
+This kind of revenge is non-pretty because it appears partisan, but holding the highest office-holders accountable is a shot in the arm for rule of law.
+Given that there are numerous lawsuits proceeding against T at all levels of the justice system, it would be hard at this point for him to avoid appearing in court.
+
+B has another option which is to take no legal action,
+but declassify documents which end T's political career (assuming such docs exist).
+
 ## Armed services
 
 In a constitutional crisis, people who carry guns for a living and drive jets may have to decide who to listen to.
