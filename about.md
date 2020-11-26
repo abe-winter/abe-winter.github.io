@@ -13,8 +13,9 @@ and also building [wait.chat](https://wait.chat), a hybrid inbox for async teams
 
 If you love or hate something that I've written here,
 let me know on twitter or email.
+If you want me to speak on your podcast / panel, I'm interested!
 
-Few enough people read this blog. If you read + like it, I want to hear your thoughts.
+Few enough people read this blog that if you read + like it, I want to hear your thoughts.
 Hit me up, it's awinter.public@gmail.com.
 
 {% include flatpixel.html %}
