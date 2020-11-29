@@ -14,7 +14,7 @@ We've democratized *writing and publishing* but this year has made the point tha
 The rest of the stuff that happens in the newsroom has stayed in the newsroom:
 cultivating sources, editing for quality, and most importantly, fact-checking.
 
-Lacking checks, it seems like social media is amplifying or at least fertilizing false beliefs,
+Lacking checks, social media is amplifying or at least fertilizing false beliefs,
 and then people cross state lines to shoot up pizza joints.
 If the newsroom's adversarial functions can't make the jump to social media,
 life will continue to be this weird.
@@ -23,7 +23,7 @@ We're starting to address fact-checking, and will do more.
 [Failing to curb antisocial behavior kills companies](https://arstechnica.com/tech-policy/2019/11/why-cant-internet-companies-stop-awful-content/), as well as communities.
 
 Facebook has the technology to filter out the worst-quality content that their users think is 'P(bad for the world)' -- [but only at the cost of lower engagement](https://twitter.com/kevinroose/status/1331257332538359810).
-Given those incentives, nobody benefits if society leaves this to platforms to solve.
+Given these incentives, nobody benefits if we leave this to platforms to solve.
 Users should bring their own moderation to the web.
 
 * toc
@@ -39,7 +39,7 @@ Private groups have the power to resist centralized moderation if they don't lik
 Private groups are sticky which is why facebook [bet their future on them](https://www.theverge.com/2019/4/30/18524188/facebook-f8-keynote-mark-zuckerberg-privacy-future-2019),
 but this stickiness makes them hard to control.
 Yes, their internal cohesion leads to engagement on FB, but it also allows them to move off the platform if they're unhappy.
-They own their network; their moat has a drawbridge.
+They own their slice of the network; their moat has a drawbridge.
 
 A heavy hand will drive private groups to dark corners of the web --
 not *un*-moderated exactly, because trust me, nobody wants that.
@@ -77,18 +77,17 @@ A swedish friend, trying to explain why their [far-right party](https://en.wikip
 said something like 'It's not that we're all nazis, but nobody else would even talk about immigration, and it's a real problem'.
 
 I like the 'marketplace of ideas' as a concept.[^marketplace]
-Markets are an interesting model for public discourse because:
+Markets are an interesting model for public discourse.
 Like goods on markets, there are a limited number of explanations or ideologies available (assuming most people can't coin our own -- for various reasons, I believe we can't).
-Also, like a real market, it's two-sided,
-in that in addition to the ideas on offer, there are buyers:
+Also, like a real market, it's two-sided, in that in addition to the ideas on offer, there are buyers:
 people looking for an action, belief, or political party that suits them.
 
 [^marketplace]: I recently found out this metaphor, if not the exact phrase, probably traces back to SCOTUS judge Oliver Wendell Holmes. He used it in his famous dissent in Abrams. The other justices *went to his house* before he published it and [tried to change his mind](https://www.theatlantic.com/national/archive/2013/08/the-most-powerful-dissent-in-american-history/278503/) on the grounds that freedom of speech would poison the nation. He also had an important 'but' in there: "we should be eternally vigilant against attempts to check the expression of opinions that we loathe and believe to be fraught with death, unless they so imminently threaten immediate interference with the lawful and pressing purposes of the law that an immediate check is required to save the country."
 
-The marketplace model explains why political parties get to lie out loud, be revealed for hypocrisy, or admit their strategy is disingenuous.
+The marketplace model explains why political parties get to lie out loud, be revealed for hypocrisy, and admit their strategy is disingenuous.
 They're *still* the only rallying point for 'critical idea X' that their buyers need.
 It may not matter to the fighting faithful if the center is hollow.
-Or they may be willing to ignore the cognitive dissonance.
+They're willing to ignore the cognitive dissonance.
 
 I wonder if there's a similar effect in the antivax movement --
 autism seems to really be on the rise (0.7 to 1.5% in this century),
@@ -99,7 +98,7 @@ and if your family is affected by this, and there's no other explanation, you 'b
 People are seeking answers that are plausible to them,
 but may not be able or willing to dig deeply, and may not be ready to hear the truth if it means abandoning their hope, identity, or [existing opinions](https://phys.org/news/2020-11-beliefs-world-filter.html).
 I suspect if someone is at the bottom of a rabbit hole and sees a fact bubble saying 'this is stupid', that's the same as saying 'you're stupid', and they won't listen.
-The challenge here is matching them with a well-meaning authority whom they'll trust -- not just to a centralized censor.
+The challenge here is matching them with a well-meaning authority whom they'll trust and find useful.
 
 There was a measles outbreak in Minnesota enabled by high vaccine refusal rate in a single immigrant community.
 Parents noticed a lot of their kids in special autism education[^stat-antivax], then fell prey to antivax lecturers or something.
@@ -120,9 +119,10 @@ I asked a friend who mods a small subbredit what it's like:
 Cranky boomers got us into this mess by believing everything they read on facebook.
 Maybe Cranky-Boomers-R-Us™️ is the right branding for a community fact check to filter out some fast-spreading egregious claims.
 
-We try to train people to consider the source, but mainstream mastheads like NYT feel ideologically hostile to many readers who aren't centrists over 55.
-This is even the case in their fact-checked coverage, where let's say 30% of the sentences in an article are claims of fact and the rest is interpretation.
-It's worse in their op-ed section which had the [tom cotton / james bennet stuff](https://www.cjr.org/the_media_today/james_bennet_tom_cotton_objectivity.php) over the summer.
+We train people to consider the source, but mainstream mastheads like NYT feel ideologically hostile to readers who aren't centrists over 55.
+Their news coverage can be accurate without being neutral -- factual claims in articles are fact-checked, but that's mixed with interpretive conclusions.
+The op-eds are [far stranger](https://www.cjr.org/the_media_today/james_bennet_tom_cotton_objectivity.php).
+
 I don't blame people for switching to ideologically comfortable news.
 I just wish they had a fact-check that was ideologically comfortable, but also competent and reputation-bound, to go along with it.
 
@@ -141,7 +141,7 @@ We need a market ecosystem of moderation vendors who provide different kinds of 
 A moderation marketplace is good for platforms because they don't want to be the arbiter of truth, they just want users to have a good experience.
 (Platforms will still have some policing to do on their own).
 
-A marketplace is good for users because they're not forced into anything; they can pick which web they want to dwell on.
+It's good for users because they're not forced into anything; they can pick which web they want to dwell on.
 This may sound like a filter bubble, where 'everyone has their own truth',
 but moderation vendors will still need to maintain their reputation for being right --
 whatever their ideological alignment.
@@ -151,10 +151,10 @@ BYO moderation isn't BYO newspaper, it's BYO snopes / politifact.
 
 Centralized moderation has problems:
 
-* The costs are asymmetric, meaning it's too expensive to do widely, well, and fast (see lego point below). Jimmy Wales of wikipedia says the economics here lead to a [sweatshop model](https://medium.com/conversations-with-tyler/jimmy-wales-tyler-cowen-wikipedia-610b6e931d20).
+* The costs are asymmetric, meaning it's too expensive to do widely, well, and fast (see lego point below). Jimmy Wales of wikipedia describes the economics here leading to a [sweatshop model](https://medium.com/conversations-with-tyler/jimmy-wales-tyler-cowen-wikipedia-610b6e931d20).
 * It's susceptible to abuse by platforms and institutions and therefore will be less trusted by users, especially the more conspiracy-minded ones whom we want to deradicalize. Note I'm not saying 'prone to abuse' or 'untrustworthy'. Just less trust-*ed*, and less able to balance minority viewpoints in a way that feels authentic to minorities.
-* Moderation features will always be optional in private groups, and they will discard these tools if not effective / ergonomic / trustable
-* For messy issues, cookie-cutter moderation can [enable violence by hiding its proof](https://www.eff.org/wp/caught-net-impact-extremist-speech-regulations-human-rights-content). Or like [where's the parler for breastfeeding](https://twitter.com/KatMurti/status/1276183164109697028)?
+* Private groups will turn off mod systems if not effective / ergonomic / trustable, or else deplatform.
+* For messy issues, cookie-cutter moderation can [support violence by hiding its proof](https://www.eff.org/wp/caught-net-impact-extremist-speech-regulations-human-rights-content). Or like [where's the parler for breastfeeding](https://twitter.com/KatMurti/status/1276183164109697028)?
 
 Every community needs moderation.
 Some get away without it because they moderate membership rather than content --
@@ -162,23 +162,24 @@ small workplaces, for example, have relatively informal content moderation proce
 
 This isn't just a facebook / twitter issue anymore -- it's a problem for anyone with a supply of eyeballs and UGC or DM features, like [pinterest and linkedin](https://www.washingtonpost.com/technology/2020/11/07/pinterest-linkedin-election-disinfo/).
 The older and funnier version of this is the [lego MMO's penis problem](https://www.managingcommunities.com/2015/06/04/lego-universes-penis-problem-and-why-moderation-efforts-arent-hopeless/) --
-note that they scrapped the MMO specifically and entirely because of the cost of moderation.
-A section 230 expert, talking about what happens in case of a repeal, says that [if sites don't do *some* moderation in 2020 they'll be unusable](https://twitter.com/jkosseff/status/1332655935114895360).
+they scrapped their MMO *specifically and entirely* because of the cost of moderation.
+A section 230 expert, talking about what happens in case of a repeal, observes that [sites which don't do *any* moderation in 2020 are unusable](https://twitter.com/jkosseff/status/1332655935114895360).
 
 The need to moderate isn't a new problem.
-Philosopher of science Karl Popper coined [Popper's paradox](http://www.openculture.com/2019/03/does-democracy-demand-the-tolerance-of-the-intolerant-karl-poppers-paradox.html) while thinking about the risks of tolerating intolerant views and the parsing of arguments that happens when bad people ask for equal time.
+Philosopher of science Karl Popper coined [Popper's paradox](http://www.openculture.com/2019/03/does-democracy-demand-the-tolerance-of-the-intolerant-karl-poppers-paradox.html) while thinking about the risks of tolerating intolerant views, and the parsing of arguments that happens when bad people ask for equal time.
+Our problems wouldn't surprise him.
 
 BYO is better because:
 
 * The costs are borne by users. The model can be crowd-funded research -- for example, 10 people have offered $5 each to check a claim, that makes it worthwhile for a researcher to take on.
 * The dispute & appeal processes can be more transparent and community-owned. I know people working on safety systems for dating apps, and the user feedback driving this is that the report process is opaque, dissatisfying, and ineffective. It's the same on social.
-* Your ability to shop for a vendor, and to fire a vendor you don't like, leads to a customer service mentality by vendors and increased trust by users. It also makes them view fact-checking as a utility, i.e. something useful that they call on to resolve doubt.
-* Ideological alignment and factual reputation will become separate axes. Even if I'm only looking for party-approved fact-checkers, I can still pick the one with the best reputation.
+* Your ability to shop for a vendor leads to a customer service mentality by vendors. It also makes users view fact-checking as a utility, i.e. something useful that they call on to resolve doubt.
+* Ideological alignment and factual reputation will become separate axes. Even if I'm only looking for party-approved fact-checkers, I can still pick the best one.
 * The plugin architecture can support moderation workflows that don't exist today -- for example, [voluntary and amplified retraction](https://nickpunt.com/blog/deescalating-social-media/).
 
 Decentralized moderation is starting to exist in decentralized platforms, though it's not exactly BYO.
 This [knight foundation article on mastodon](https://knightcolumbia.org/content/what-if-social-media-worked-more-like-email) talks about self-hosted communities experimenting with alternative moderation rules.
-(The examples, gab + lolicon, aren't exactly inspiring).
+(The examples, gab + lolicon, aren't inspiring).
 A proposed [distributed reputation system for matrix](https://www.matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors/) uses external reputation feeds that you can subscribe to.
 
 ## Information also has professional customers
@@ -202,7 +203,7 @@ This wasn't settled until Hubble studied cepheid variables a few years later.
 
 Flat earthers have experiments on their website you can try yourself.
 I heard an interview with someone from their group where he said "the flat earth society places an emphasis on personally experienced evidence".
-As if [some polymath](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference) hadn't proven this to our satisfaction millennia ago.
+As if [some polymath](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference) hadn't proven this to our satisfaction millions of years ago.
 
 Your time and expertise are limited.
 You [can’t get a master’s degree in everything](https://acesounderglass.com/2019/10/17/what-comes-after-epistemic-spot-checks/) interesting or relevant to your life.
@@ -217,10 +218,9 @@ Political scientist Caitlin Talmadge writes about how [this phenomenon can hobbl
 If we build tools to help filthy causals like me have useful + realistic beliefs about the world,
 the same tools will help information professionals have *up-to-date* beliefs.
 I have a book waiting on my kindle about the half life of facts which claims that compared to 40 years ago, valid beliefs become invalid more quickly.
-(Future Shock, which I couldn't finish, is probably about the same thing).
 Tooling to help us realign when that happens would make us stronger decision-makers, and may be similar in broad outline to BYO moderation tools.
 
-In the same way that I have a 'like' button, I might like a 'believe' button that lets mark a stat I'm taking to heart,
+In the same way that I have a 'like' button, I might like a 'believe' button that lets me mark a stat or claim I'm taking to heart,
 not publicly,
 but so that I can subscribe to retractions, updates, explanations.
 
@@ -239,7 +239,7 @@ It's better if those beliefs are correct.
 -- Peirce, [The Fixation of Belief](http://www.peirce.org/writings/p107.html)
 
 Information quality is absolutely a life or death issue:
-with questions of public health, with questions of why to invade someone, with motivations for small-scale violence.
+in questions of public health, in questions of war, in motivating lynch mobs.
 
 I saw a [tweet from a favorite blogger](https://twitter.com/danluu/status/1271950429870387200) that, for me at least, summarized a feeling I had about public information in 2020:
 
