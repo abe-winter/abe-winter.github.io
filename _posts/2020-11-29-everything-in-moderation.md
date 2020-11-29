@@ -212,7 +212,7 @@ Nobody has time to seek independent truth; even [experts in ancient democracy](h
 
 I really believe everyone has some interest in and value for correct information.
 But organizations that make large bets elevate truth-seeking as a core function.
-(For example, and not to elevate ray dalio who is doing a book tour and seems like a windbag, but bridgewater's culture of radical transparency).
+(For example, and not to boost ray dalio who is doing a book tour and seems like a windbag, but bridgewater's culture of radical transparency).
 Orgs that suppress internal truth-finding get turned into salad by the competition.
 Political scientist Caitlin Talmadge writes about how [this phenomenon can hobble armies]({% post_url 2020-06-04-dictators-army %}).
 
