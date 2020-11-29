@@ -181,6 +181,7 @@ Decentralized moderation is starting to exist in decentralized platforms, though
 This [knight foundation article on mastodon](https://knightcolumbia.org/content/what-if-social-media-worked-more-like-email) talks about self-hosted communities experimenting with alternative moderation rules.
 (The examples, gab + lolicon, aren't inspiring).
 A proposed [distributed reputation system for matrix](https://www.matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors/) uses external reputation feeds that you can subscribe to.
+Whatsapp is [testing out meedan's 'check' tool](https://www.poynter.org/reporting-editing/2019/here-comes-a-tool-approved-by-whatsapp-to-automate-the-distribution-of-fact-checks/) which has some hybrid human / computer stuff but seems to not be community-driven.
 
 ## Information also has professional customers
 
