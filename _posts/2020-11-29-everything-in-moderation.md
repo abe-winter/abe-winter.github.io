@@ -270,4 +270,6 @@ Eppur si muove.
 ## Notes
 {:.no_toc}
 
+See also [Fukuyama's 'middleware' concept](https://www.foreignaffairs.com/articles/united-states/2020-11-24/fukuyama-how-save-democracy-technology).
+
 {% include flatpixel.html %}
