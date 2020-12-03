@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The open office paper is my best read of 2018
+title: Stigmergy, collective intelligence and the open office
 description: If you're a social insect you already know this
 author: Abe Winter
 date: 2018-11-28
