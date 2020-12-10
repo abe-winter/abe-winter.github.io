@@ -4,6 +4,7 @@ title: "Terms of service readthrough: Mailchimp"
 description: Long-form is back baby
 categories: tos
 author: Abe Winter
+noindex: true
 ---
 
 **I'm not a lawyer. This isn't legal advice. Seriously. Don't treat this as a summary of the contracts referenced herein. This article isn't legal work product.**

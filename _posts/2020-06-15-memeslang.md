@@ -6,6 +6,7 @@ description: why is noam chomsky trending
 keywords: slang
 categories: iconoclasm
 redirect_from: /chomsky/approved/2020/06/15/memeslang.html
+noindex: true
 ---
 
 This weekend I didn't check twitter enough and when I got back, everyone was saying noam chomsky and I didn't understand.
