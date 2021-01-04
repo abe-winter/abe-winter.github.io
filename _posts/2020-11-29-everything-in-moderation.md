@@ -242,7 +242,7 @@ It's better if those beliefs are correct.
 Information quality is absolutely a life or death issue:
 in questions of public health, in questions of war, in motivating lynch mobs.
 
-I saw a [tweet from a favorite blogger](https://twitter.com/danluu/status/1271950429870387200) that, for me at least, summarized a feeling I had about public information in 2020:
+I saw a [tweet from a favorite blogger](https://twitter.com/danluu/status/1271950429870387200) that summarized my feelings about public information in 2020:
 
 > the info most people have seems to be 4-N months behind what laypeople with 3 hours+pubmed knew in January.
 
