@@ -267,6 +267,25 @@ Eppur si muove.
 
 ---
 
+## Appendix
+{:.no_toc}
+
+[This is an image](https://twitter.com/nezumi_ningen/status/1345956314372071424/photo/1) of a letter written by the unabomber, who's now in jail, in response to an admirer I guess.
+The pen pal is skeptical that another terrorist, the oklahoma city bomber, could have destroyed the murrah building, and was writing to talk about a pet conspiracy theory.
+
+The unabomber's main points in response are "you should read" Farhad Manjoo's book about post-fact societies, "if you have access to a law library" check out the opinion against mcveigh, and that the pen pal's argument about the explosion is wrong in a way you can check in the media.
+
+> How do you know there was a "strong consensus" of experts? Did you go around and interview the experts yourself? Or are you taking someone else's word for it? There's just too much bullshit out there
+
+> You can also get judicial opinions off the internet though I don't know exactly how
+
+> Federal judges are not above lying when they find it convenient but, even so, the judicial opinion is probably a lot more reliable than whatever sources you've used
+
+I think Kaczynski fascinates people who study extremism professionally.
+The linked tweet is from an expert I think on the aum shinrikyo cult that released sarin gas on the tokyo subway.
+Another extremism researcher published a book this year and has been posting updates about how his new book is charting next to Kaczynski's manifesto, which is #31 in amazon's terrorism bestseller list.
+(It's also #3).
+
 ## Notes
 {:.no_toc}
 
