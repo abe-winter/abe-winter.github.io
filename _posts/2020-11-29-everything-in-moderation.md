@@ -267,8 +267,7 @@ Eppur si muove.
 
 ---
 
-## Appendix
-{:.no_toc}
+## Appendix: the unabomber
 
 [This is an image](https://twitter.com/nezumi_ningen/status/1345956314372071424/photo/1) of a letter written by the unabomber, who's now in jail, in response to an admirer I guess.
 The pen pal is skeptical that another terrorist, the oklahoma city bomber, could have destroyed the murrah building, and was writing to talk about a pet conspiracy theory.
@@ -285,6 +284,31 @@ I think Kaczynski fascinates people who study extremism professionally.
 The linked tweet is from an expert I think on the aum shinrikyo cult that released sarin gas on the tokyo subway.
 Another extremism researcher published a book this year and has been posting updates about how his new book is charting next to Kaczynski's manifesto, which is #31 in amazon's terrorism bestseller list.
 (It's also #3).
+
+## Appendix: thedonald
+
+(Update 1/6/2021)
+
+Welp 2 months after I wrote this, a bunch of angry people from message boards forced their way into the US capitol building and disrupted an important vote.
+
+This is a mod thread at thedonald, a community that was kicked off reddit, to try to get their users to tone it down before their web host deplatforms them.
+I found it via [an extremism researcher at mediamatters](https://twitter.com/AlKapDC/status/1347001739266945024).
+
+![screenshot of post titled 'mods are compromised' from thedonald forum]({{ "/assets/thedonald-mods.jpg" | absolute_url }})
+
+They understand very well the tradeoffs of public / private groups:
+
+> Let free speech run wild for a few more hours and soon after cease to exist - or accept that a public facing website isn't the best place for some discussions
+
+Note the mod's username is 'doggos', which somehow is a cherry on top.
+
+This isn't just about speech, it's about the future of war.
+Who knows what the consensus will look like tomorrow, but for now there are voices on twitter trying to connect donald trump's public communication to the actions of the rioters.
+If forum technology was used to coordinate command and control for a 6-hour mini civil war slash coup, congress, having been the targets today, will be on this like something hungry on something tasty.
+
+No idea what this looks like in a month or even tomorrow, but people will want to say the rioters came from social media, and that changes the conversation.
+
+---
 
 ## Notes
 {:.no_toc}
