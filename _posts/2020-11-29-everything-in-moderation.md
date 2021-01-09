@@ -267,10 +267,9 @@ Eppur si muove.
 
 ---
 
-## Appendix
-{:.no_toc}
+## Appendix: the unabomber
 
-[This is an image](https://twitter.com/nezumi_ningen/status/1345956314372071424/photo/1) of a letter written by the unabomber, who's now in jail, in response to an admirer I guess.
+[This is a letter](https://twitter.com/nezumi_ningen/status/1345956314372071424/photo/1) written by the unabomber, who's now in jail, in response to an admirer I guess.
 The pen pal is skeptical that another terrorist, the oklahoma city bomber, could have destroyed the murrah building, and was writing to talk about a pet conspiracy theory.
 
 The unabomber's main points in response are "you should read" Farhad Manjoo's book about post-fact societies, "if you have access to a law library" check out the opinion against mcveigh, and that the pen pal's argument about the explosion is wrong in a way you can check in the media.
@@ -285,6 +284,69 @@ I think Kaczynski fascinates people who study extremism professionally.
 The linked tweet is from an expert I think on the aum shinrikyo cult that released sarin gas on the tokyo subway.
 Another extremism researcher published a book this year and has been posting updates about how his new book is charting next to Kaczynski's manifesto, which is #31 in amazon's terrorism bestseller list.
 (It's also #3).
+
+## Appendix: thedonald
+
+(Update 1/8/2021)
+
+Welp 2 months later, a bunch of angry people from message boards forced their way into the US capitol building and disrupted an important vote.
+
+This is a mod thread at thedonald, a community that was kicked off reddit, to try to get their users to tone it down before their web host deplatforms them.
+I found it via [an extremism researcher at mediamatters](https://twitter.com/AlKapDC/status/1347001739266945024).
+
+![screenshot of post titled 'mods are compromised' from thedonald forum]({{ "/assets/thedonald-mods.jpg" | absolute_url }})
+
+They understand very well the tradeoffs of public / private groups:
+
+> Let free speech run wild for a few more hours and soon after cease to exist -- or accept that a public facing website isn't the best place for some discussions
+
+Note the mod's username is 'doggos', which somehow is a cherry on top.
+
+I have no idea what the consensus on anything will be in a week.
+In the 24 hours since I wrote the first draft of this,
+trump followers in the internet's semiprivate corners have begun to talk like he betrayed them
+(per [a buzzfeed reporter](https://twitter.com/mollyhc/status/1347345590070484993),
+[an NBC reporter](https://twitter.com/oneunderscore__/status/1347349017886412804)),
+we're all learning about how these groups form beliefs and organize bus trips,
+and [twitter banned him permanently](https://blog.twitter.com/en_us/topics/company/2020/suspension.html) after banning him temporarily to try and get him to apologize.
+
+An upset fan (note pede is 'centipede', not 'pedophile', I'm told):
+
+> I have been a pede since 2015. ... he has now abandoned us and disrespected everything we believe in.
+
+The twitter ban announcement is interesting because the recent tweets look innocuous (albeit deranged).
+They had to read the memes, and wade deep into communities that parse the language here, to decide whether it was an exhortation of violence.
+The *assumed* it was a dog whistle, looked at how it was being interpreted, and acted accordingly.
+
+This is a new philosophy of enforcement I think.
+
+The twitter post also talks about their detection on their platform of operational planning for a second attack.
+
+Experts on extremism and online stuff have found their voice.
+Some interesting one liners from this week:
+
+* [Matt Grossmann thinks](https://twitter.com/MattGrossmann/status/1347475263920205825) both-sidesism is dangerous when one side is ignoring dangerous realities
+* [Matt Blaze notes](https://twitter.com/mattblaze/status/1347224561176223745) trust in insitutions is a non-technical, but still key, component of election integrity
+
+Lots of extremism researchers are making fun of officials who say 'this isn't america' with rebuttals like 'where do you *think* it is'.
+Statements like 'you mustn’t storm the capitol because we have a system of laws' ring hollow now.
+The counterargument is 'we can have a system of laws because people *don’t* storm the capitol', but now they have.
+
+Congress has woken up to this because congress is personally affected, in the same way leaders decide gay people should have rights because they finally met one.
+It would be great to have a competent governing system that can realize what's happening in the world without personally experiencing it.
+Remember who else places a premium on 'personally experienced evidence'?
+Flat-earthers.
+
+trump followers are upset.
+They feel like he left them hanging.
+Those feelings are a plausible outcome of encouraging violence without saying it out loud or having an endgame.
+
+Congress has been the victim of an armed assault.
+The perpetrators of the assault are victims of being lied to.
+
+If the storm the capitol crew has an interest in not being lied to this way again, they may want to invest in trustworthy fact checking.
+
+---
 
 ## Notes
 {:.no_toc}
