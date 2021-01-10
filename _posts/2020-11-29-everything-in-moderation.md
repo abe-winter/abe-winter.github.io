@@ -339,12 +339,12 @@ Flat-earthers.
 
 trump followers are upset.
 They feel like he left them hanging.
-Those feelings are a plausible outcome of encouraging violence without saying it out loud or having an endgame.
+Those feelings are a plausible outcome of indirect and dishonest leadership with no endgame.
 
-Congress has been the victim of an armed assault.
-The perpetrators of the assault are victims of being lied to.
+Congress has been the victim of an armed assault, and going forward platform moderation will have to intersect counter-terrorism.
+But the perpetrators of the assault (and not to defend anyone) are victims of being lied to.
 
-If the storm the capitol crew has an interest in not being lied to this way again, they may want to invest in trustworthy fact checking.
+If the storm the capitol crew has an interest in not being lied to this way again, they may want to invest in some trustworthy fact checking.
 
 ---
 
