@@ -98,7 +98,7 @@ I don’t know if you’d call them jokes or performance art or high sarcasm, bu
 
 In later work, Wittgenstein moved away from private language as a philosophy of meaning and focused on games, observing meaning in the construction of increasingly complex labels for collaborative actions.
 Twitter hijinks have an element of this; fast-mutating vocabulary flashing into being in ill-defined communities, where the most attentive insiders have a monopoly on the guest list i.e. the complete set of actions and words.
-You have to be 'very online' to see this stuff happening in real-time.
+You have to be *very* 'very online' to see this stuff happening in real-time.
 
 I saw a quote from an extremism content observatory about using humor for camouflage and recruiting.
 (It also showed transcripts of Q drops; they appeared to be written in dolphin trinary. There were square brackets).
