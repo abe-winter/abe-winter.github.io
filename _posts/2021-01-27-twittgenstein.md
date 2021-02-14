@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Social media and private language
+title: Social media and private pains
 description: Your finger you fool
 author: Abe Winter
-new: true
+noindex: true
 ---
 
 * toc
@@ -82,9 +82,9 @@ Nonetheless, this year’s online cults do have private pains -- they have badly
 These sufferers can be sympathized with, either for having suffered something *else* or for having been deceived,
 but they can't easily be understood logically.
 
-([This](https://twitter.com/lilithsaintcrow/status/1347296241848225792) is from the author of a book about a necromancer bounty hunter, but it's a perspective on why someone might pretend to believe something silly and wrong that allows them to reach a desired conclusion.
+(A necromancer bounty-hunter fiction author's [story about her real-life neighbor in middle america](https://twitter.com/lilithsaintcrow/status/1347296241848225792) is a perspective on why someone might pretend to believe something silly and wrong that allows them to reach a desired conclusion.
 'You can't wake up someone pretending to be asleep'.
-Beware of empathy that requires suspension of disbelief, though also beware refusing empathy for people with different biographies than yours).
+Beware of empathy that requires suspension of disbelief, though also beware refusing empathy for people with alien biographies).
 
 Maybe one function of these playful language communities is to rapidly iterate their shared invented pains.
 Because the complaints are nonsense to outsiders, it's a system for continuously evolving dog whistles --
@@ -118,7 +118,7 @@ Someone had made a breakthrough in the chemistry of how this could happen, but t
 
 Isolated spaces with the right ingredients and few predators can breed diverse life.
 
-Memes are not life (though if you ask their parent Richard Dawkins you might get a different answer).
+Memes are not life (though if you ask their midwife Richard Dawkins you might get a different answer).
 Language is not strictly speaking alive.
 And yet life is information, and so life and language could require similar conditions for their incubation.
 
