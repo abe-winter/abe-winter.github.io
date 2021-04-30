@@ -4,7 +4,7 @@ title: Only distributed fact-checking can keep up with democratized distribution
 author: Abe Winter
 description: Tragedy of the comments
 categories: only fans
-new: true
+top: true
 ---
 
 ![tweet: the problem with being faster than light is that you always live in darkness]({{ "/assets/swift-ftl.png" | absolute_url }})

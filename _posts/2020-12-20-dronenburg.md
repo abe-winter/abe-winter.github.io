@@ -4,7 +4,6 @@ title: Air taxis will turn cities inside out
 author: Abe Winter
 description: Lock your balconies
 categories: future
-new: true
 ---
 
 Returning home on a bridge at dusk, my eyeballs reminded me that from afar, or from the air, nyc is pretty cool.
