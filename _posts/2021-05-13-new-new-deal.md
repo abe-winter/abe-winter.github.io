@@ -2,6 +2,7 @@
 layout: post
 title: Obsolete labor, new new deals, and the coming repair wars
 description: Obsolescence, planned and un
+categories: subsistence
 new: true
 ---
 
