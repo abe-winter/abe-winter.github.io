@@ -11,7 +11,7 @@ But technology is a two-edged sword:
 in replacing labor, it gets rid of jobs (bad), but also makes goods cheap and accessible (pretty good).
 In 1930s terms, that means it's not clear if automation will be more like the depression or the new deal.
 
-If near-future manufacturing tech 'compresses' supply chains for a set of low- and medium-tech consumer staples, the technological unemployed gain the option to 'opt out' of competitive global economies, seeking instead a slow tech life in hyperlocal networks of production and trade.
+If near-future manufacturing tech 'compresses' supply chains for a set of low- and medium-tech consumer staples, the technological unemployed gain the option to opt out of competitive global economies, seeking instead a slow tech life in hyperlocal networks of production and trade.
 But these hypothetical non-participants will have to interact with the global supply chain for some Clarkeian magic: dank TSMC silicon maybe, or that 2nd jab.
 
 The leavers will live in a parallel material culture which values adaptable machines, and which prioritizes maintainability, compatibility, and repair -- a 'lego economy' where the tractors run linux and every charger works in every phone.
