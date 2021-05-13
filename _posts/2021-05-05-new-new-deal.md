@@ -10,23 +10,22 @@ But technology is a two-edged sword:
 in replacing labor, it gets rid of jobs (bad), but also makes goods cheap and accessible (pretty good).
 In 1930s terms, that means it's not clear if automation will be more like the depression or the new deal.
 
-Near-future manufacturing tech will 'compress' supply chains for a set of low- and medium-tech consumer staples.
-This compression lets the technological unemployed 'opt out' of competitive global economies, seeking instead a slow tech life in hyperlocal networks of production and trade.
+If near-future manufacturing tech 'compresses' supply chains for a set of low- and medium-tech consumer staples, the technological unemployed gain the option to 'opt out' of competitive global economies, seeking instead a slow tech life in hyperlocal networks of production and trade.
 But these hypothetical non-participants will have to interact with the global supply chain for some Clarkeian magic: dank TSMC silicon maybe, or that 2nd jab.
 
-The non-participants will live in a parallel material culture which values adaptable machines, and which prioritizes maintainability, compatibility, and repair -- a 'lego economy' where the tractors run linux and every charger works in every phone.
+The leavers will live in a parallel material culture which values adaptable machines, and which prioritizes maintainability, compatibility, and repair -- a 'lego economy' where the tractors run linux and every charger works in every phone.
 Manufacturers will hate this; they'll strive to keep their goods from being reusable, dissectible, compatible, and maintainable ('no user-serviceable parts within' from Vernor Vinge).
 
-Planned obsolescence isn't new, but digital hardware is a new frontier:
-it's simultaneously easy for buyers to reprogram, and easy for vendors to lock down and degrade.
-We've seen the latter trend accelerate over the last decade with the rise of hardware DRM, remote bricking, and the repair movement.
+Planned obsolescence isn't new, but digital hardware changes the game: it's too easy for vendors to lock down and degrade.
+We've seen this in our century with the prevalence of hardware DRM and remote bricking, and the rise of the open source and repair movements in response.
 
-The simmering conflict of 20th century labor relations likely won't survive the end of full employment.
+The cold war of 20th century labor relations likely won't survive the end of full employment.
 But producers will still need to move inventory;
 the economic conflict of the 21st century will be over who gets to farm consumers.
 The weapons in this war will be the locking down, and the hacking open, of physical technology.
 
-Read on to explore historical analogs for technological unemployment, warfare by companies, and hyperlocal economies, and to look at how the future of automation makes this time different.
+There's some history here.
+Scroll down to read about past crises, current trends, and future conflicts.
 
 (If you read with a soundtrack, try [everything is free now](https://www.youtube.com/watch?v=Sy6VMDXB2SQ) from gillian welch. I paid for my copy. The phoebe bridgers cover is also good).
 
@@ -38,7 +37,7 @@ Read on to explore historical analogs for technological unemployment, warfare by
 They're not always good jobs, but as a society, we're very used to having enough jobs for everyone.
 People suffer when this assumption doesn't hold.
 The bottom of the Great Depression was the only time in the 20th century that more than 1 percent of the US labor force was unemployed for more than a year[^one-one].
-That time had a lot in common with ours, and holds clues for what's coming.
+That time had a lot in common with ours, and can help us understand what we're facing.
 
 The depression was plausibly a *combination* of cyclical unemployment and structural unemployment[^combination].
 This claim surprised me when I found it; I always imagined the GD as a really long, bad business cycle caused by them not knowing anything about monetary policy back then.
