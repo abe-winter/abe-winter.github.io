@@ -49,7 +49,7 @@ This claim surprised me when I found it; I always imagined the GD as a really lo
 [^combination]: Jensen p573
 
 A big fraction of depression job losses were from firm closures rather than individual firings[^firm-closures].
-In industries that had begun to mechanize, the firms which survived were more likely to be mechanized[^surviving-firms], and therefore more likely to have a high bar for hiring.
+In industries that had begun to mechanize, the firms that survived were more likely to be mechanized[^surviving-firms], and therefore more likely to have a high bar for hiring.
 Well-educated workers with seniority were more likely to keep their jobs[^senior].
 
 Paradoxically, the firms that survived weren't doing it by underpaying their workers.
