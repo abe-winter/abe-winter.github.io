@@ -163,7 +163,7 @@ small workplaces, for example, have relatively informal content moderation proce
 This isn't just a facebook / twitter issue anymore -- it's a problem for anyone with a supply of eyeballs and UGC or DM features, like [pinterest and linkedin](https://www.washingtonpost.com/technology/2020/11/07/pinterest-linkedin-election-disinfo/).
 The older and funnier version of this is the [lego MMO's penis problem](https://www.managingcommunities.com/2015/06/04/lego-universes-penis-problem-and-why-moderation-efforts-arent-hopeless/) --
 they scrapped their MMO *specifically and entirely* because of the cost of moderation.
-A section 230 expert, talking about what happens in case of a repeal, observes that [sites which don't do *any* moderation in 2020 are unusable](https://twitter.com/jkosseff/status/1332655935114895360).
+A section 230 expert, talking about what happens in case of a 230 repeal, observes that [sites which don't do *any* moderation in 2020 are unusable](https://twitter.com/jkosseff/status/1332655935114895360).
 
 The need to moderate isn't a new problem.
 Philosopher of science Karl Popper coined [Popper's paradox](http://www.openculture.com/2019/03/does-democracy-demand-the-tolerance-of-the-intolerant-karl-poppers-paradox.html) while thinking about the risks of tolerating intolerant views, and the parsing of arguments that happens when bad people ask for equal time.
@@ -182,6 +182,8 @@ This [knight foundation article on mastodon](https://knightcolumbia.org/content/
 (The examples, gab + lolicon, aren't inspiring).
 A proposed [distributed reputation system for matrix](https://www.matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors/) uses external reputation feeds that you can subscribe to.
 Whatsapp is [testing out meedan's 'check' tool](https://www.poynter.org/reporting-editing/2019/here-comes-a-tool-approved-by-whatsapp-to-automate-the-distribution-of-fact-checks/) which has some hybrid human / computer stuff but seems to not be community-driven.
+
+[Ghost Knowledge](https://www.ghostknowledge.com/) is another example of a pull-based, paid, public question-answering system.
 
 ## Information also has professional customers
 
