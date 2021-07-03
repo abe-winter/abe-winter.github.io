@@ -19,8 +19,7 @@ email: awinter.public@gmail.com
 description: "I blog about future economies and men's style. In my personal time I help turn small companies into medium ones or vice versa."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abe-winter.github.io"
-twitter_username: abewinter2
-github_username: abe-winter
+twitter_username: abenomicon
 
 # Build settings
 markdown: kramdown
