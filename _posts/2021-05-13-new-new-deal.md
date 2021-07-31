@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obsolete labor and new new deals in the repair wars
+title: Obsolete labor, new new deals, and repair
 description: Obsolescence, planned and un
 categories: subsistence
 new: true
