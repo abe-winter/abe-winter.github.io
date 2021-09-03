@@ -3,6 +3,7 @@ layout: post
 title: Sweetgreen terms of service readthrough
 author: Abe Winter
 new: true
+description: how do you like your salad TOS'd
 categories: tos
 ---
 
@@ -137,7 +138,7 @@ although the lack of baby corn and other omissions make it still far inferior to
 
 In summary: over-priced, inferior to self-serve, weirdly specific granny farts for 24 hours.
 
-## Oh you like TOS?
+## TOS these other salads
 
 Did you enjoy this? Hate it in a way that invigorated you? You have several options:
 
