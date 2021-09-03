@@ -114,7 +114,7 @@ Or log into FB + google. Ignore the fact that logging in on a new device helps t
 
 And also they've scraped the bottom of the barrel:
 
-> Please note that we also may work with companies that offer their own opt-out mechanisms or do not participate in the opt-out mechanisms described above. Even after using these opt-out mechanisms, you may receive interest-based advertising from other companies. 
+> Please note that we also may work with companies that offer their own opt-out mechanisms or do not participate in the opt-out mechanisms described above. Even after using these opt-out mechanisms, you may receive interest-based advertising from other companies.
 
 Note their CA 'shine the light' hotline is missing a mailing address. Submit my request in writing to who?
 
