@@ -123,14 +123,6 @@ La la la
 
 It absolutely does not. Do you mean 'copyright*ed* materials'? 'Copyright materials' sounds like it means materials pertaining to the enforcement of a copyright. Redefining a term of art like this is bonkers.
 
-> Cricut will change this Angel Policy from time to time and post the most recent version on this website.
-
-La la la
-
-> Copyright Materials means products, designs and images that are subject to protection as works of authorship under U.S. or international copyright laws
-
-It absolutely does not. Do you mean 'copyright*ed* materials'? 'Copyright materials' sounds like it means materials pertaining to the enforcement of a copyright. Redefining a term of art like this is bonkers.
-
 > Notwithstanding the foregoing, Walt Disney Company (Disney Consumer Products, Inc.), Sesame Workshop, Hello Kitty (Sanrio, Inc.), Warner Bros. (DC Comics, c/o Warner Bros. Consumer Products, Inc.), Martha Stewart, Kirstie Allsopp (BBC Worldwide Limited), Entertainment One UK Limited, Nickelodeon (Viacom International, Inc.), and Boys Scouts of America characters and images MAY NOT be reproduced and sold
 
 'Boys Scouts of America' characters
@@ -145,7 +137,7 @@ Doubt it
 
 > We believe the Angel Policy is the most generous policy in our industry
 
-I suspect this is binding
+I hope this is binding
 
 > The Angel Policy authorizes you to sell up to 10,000 completed projects annually (i.e., cards, scrapbook pages, finished cakes), using cuts made with Cricut products. It does not, however, authorize you to produce and sell individual, unassembled cuts using Cricut products (i.e., mass producing individually-cut letters or shapes to re-sell)
 
