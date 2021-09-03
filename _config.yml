@@ -24,7 +24,7 @@ twitter_username: abenomicon
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
@@ -34,5 +34,3 @@ exclude:
   - Gemfile.lock
   - code
   - vendor
-plugins:
-  - jekyll-redirect-from
