@@ -97,9 +97,7 @@ Still -- I suspect the modification clause is no bueno and this is plausibly not
 
 ## Are they selling your data
 
-Only to everyone who will buy it.
-
-> Affiliates. We may share some or all of your personal information with our parent company, subsidiaries, and other companies under common ownership or control with us for purposes consistent with this Privacy Policy.
+To anyone with a pulse.
 
 > Joint Marketing Partners and Joint Ventures. We may also share any personal information we collect with third party companies that have entered into joint marketing collaborations or other joint ventures with Us, which may use and share such information pursuant to its own privacy policy.
 
