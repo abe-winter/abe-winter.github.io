@@ -7,19 +7,23 @@ description: crime boy idk
 categories: sybil liberties
 ---
 
-Yes maybe you have an internet-connected camera in your pocket, but it takes time to get it out.
-In 18 months it will be mounted on your face.
-Camera phones have contributed to justice, but haven't changed our view of crime or our response to it.
-Wearables will be a bigger change. They'll be omnipresent and they’ll tag what they record; in time they’ll decentralize some functions of public safety.
+Yes you have an internet-connected camera in your pocket, but it takes time to get it out.
+Camera phones have contributed to justice, but haven't changed any systems -- they enable protest, but they can't replace the functions of centralized institutions.
+
+But in 18 months the camera will be mounted on your face.
+Head-mounted wearables will enable intervention, not just protest.
+They'll be omnipresent and they’ll tag what they record; in time they’ll decentralize some functions of public safety.
 
 George Holliday, the guy who filmed Rodney King in 91, had a handycam which he described as ‘like a size 13 shoe’. He [auctioned it off last year](https://natedsanders.com/LotDetail.aspx?inventoryid=58296).
 
 In 68, the day after he said he wouldn’t run again, LBJ told the National Association of Broadcasters that [TV had lost the war in Vietnam](https://www.jstor.org/stable/20024822).
 The network news had to [fly the film from Vietnam to a lab in Tokyo](https://www.britannica.com/topic/The-Vietnam-War-and-the-media-2051426) and then to the US to air tomorrow.
 But it worked – it opened a ‘credibility gap’ between official statements and brutal reality.
-War hawk Walter Cronkite changed his mind when he saw the war up close, and he used his platform to tell what he knew. ‘If we’ve lost Cronkite, we’ve lost the nation’.
+‘If we’ve lost Cronkite, we’ve lost the nation’, LBJ may have said.
 
-In 2021 Cronkite is carrying a smartphone and the Tet Offensive is on your street.
+The 60s war reporters probably used handheld 16mm cameras like [this one](https://americanhistory.si.edu/blog/combat-photographer-vietnam).
+
+In 2021 Cronkite has a samsung galaxy and the Tet Offensive is on your street.
 This time, new communications tech won’t just be challenging the legitimacy of central institutions.
 It will be solving and preventing crimes.
 (Cameras have been solving crimes [since at least 1859](http://jbiocommunication.org/issues/31-2/feature4.html), but this will be different).
@@ -41,7 +45,7 @@ Victims have never had loud voices, unlike law enforcement. When the pea whistle
 One function of police is to turn up the volume on victims so the other organs of public policy can react.
 
 That's necessary because the owner for data about crimes and evidence is law enforcement.
-They decide what reports are credible, what bubbles up to databases, how information is summarized.
+They decide which reports are credible, what bubbles up to databases, how information is summarized.
 I’m not saying that’s good or bad, but they’re clearly the owners of public safety data.
 
 Wearables change that.
@@ -65,13 +69,12 @@ Gandhi’s root philosophy, Satyagraha, means ‘firmly grasping the truth’, a
 
 Public safety technology has a bad rap because for a while now the equation has been technology + police = precrime. Precrime, in case you missed both the 70s and the 2000s, is when you arrest or otherwise investigate someone before they commit a crime, often using gamey population-level stats.
 
-People are trying to use stats models to do it in real life.
 In fiction it was invented by Philip K Dick, the author whose heroes spend most of their time lamenting their messy apartments and taking antipsychotics so they can ignore the physical dissolution of their world.
-I wonder sometimes if the IRL precrime boosters are PKD fans or PKD characters.
+I wonder sometimes whether the IRL precrime boosters are PKD fans or PKD characters.
 
 Your standard precrime system starts with a person's criminal record, then adds some random other data, and then releases a trained model.
 In 2018 [researchers beat one](https://advances.sciencemag.org/content/4/1/eaao5580) using a simple linear algorithm on age and criminal record.
-The vendor claimed it as an independent verification.
+The vendor claimed that as an independent verification.
 It helps to have no shame.[^shame]
 
 [^shame]: More info: the [US sentencing commission says](https://www.ussc.gov/research/research-reports/criminal-history-and-recidivism-federal-offenders) criminal history is a major factor in committing future crimes and this is correlated with long jail terms (not sure they say if jail term is a factor independent of severity of crime). See also Pasco County's attempt to use [grades](https://www.tampabay.com/investigations/2021/07/24/pasco-sheriffs-office-letter-targets-residents-for-increased-accountability/) to do this. See also COMPAS as covered in propublica. This [history of the NYPD's compstat system](https://bja.ojp.gov/sites/g/files/xyckuh186/files/Publications/PERF-Compstat.pdf) talks about the link between statistics and preventive policing. You'll note they're doing statistics on maps + neighborhoods, where the sample size is high enough to direct patrols, rather than attempting to do statistics on individuals like the bananas precrime projects.
@@ -82,7 +85,7 @@ Predicting if a crime will happen is problematic. Deciding whether a crime *has*
 Pervasive wearables don’t enable precrime, which has never worked. They enable something like ‘wearable jury’, a system for bystanders to agree that something is wrong, to have reasonable certainty that the situation is as it seems, and to report it or act to defend people from harm.
 
 This isn’t all gravy. You need to be sure it doesn’t turn into a [witch pursuit thing](https://www.bbc.com/news/technology-22263020).
-More than one social platform has fired up manhunts for the wrong person. The due process and privacy concerns here are real and I don't address them at all.
+More than one social platform has fired up manhunts for the wrong person. The due process and privacy concerns here are real.
 Mobbing is real. At scale, the [UN is blaming facebook](https://www.reuters.com/article/us-myanmar-rohingya-facebook/u-n-investigators-cite-facebook-role-in-myanmar-crisis-idUSKCN1GO2PN) for being the media platform for the Rohingya genocide.
 We can’t build more of these platforms without advancing the tools for moderation.
 
@@ -98,7 +101,7 @@ In a sense it’s a suburb, a public space with a low density of ownership that 
 
 This post is about public safety, but we don’t always agree about what is ‘public’ and what is ‘safe’. People were swapping BJs for narcotics in Washington Square Park last month and apparently that was either too public, or not safe enough, because the city set a curfew and cleared the park at 10pm.
 
-The NYPD also ran a block meeting in a local church basement.
+The NYPD also ran a block meeting in a local church basement to take the temperature of the neighbors.
 Gothamist got a quote from the 6th precinct community council president [saying basically](https://gothamist.com/news/west-village-residents-nypd-call-permanent-curfew-washington-square-park) ‘we’re open minded people but we also go to sleep on time’, which is (1) totally fine and (2) something you say in a suburb.
 
 Decentralized safety leads naturally to tagging, as witnesses and victims categorize what they experienced or saw.
@@ -128,11 +131,12 @@ The modern watches are nonviolent and use the [5D method](https://www.ihollaback
 If you’re interested in being a helpful bystander yourself, click through.
 
 Self defense, whether in the moment or with organized patrols, is a powerful argument because governments can’t deny it without looking bad.
-But frequent self defense may deligitimize a system. I started Hofstadter’s American Violence last month; he thinks that the need for force to keep order, regardless of who is doing it, is a threat to legitimacy.
+But frequent force, even in self defense, is not a good look.
+I started Hofstadter’s American Violence last month; he thinks that the need for force to keep order, regardless of who is doing it, is a threat to legitimacy.
 
 Weber thinks states by definition need to be the sole provider of force in their borders, but had a complicated loophole about individual self defense. Also, was he ever in a street fight?
 I suspect he underestimated the hierarchy of semi-violent turf protection happening every day in a normal city.
-Janet Yellen of all people wrote a paper about [why communities tolerate gangs](https://www.brookings.edu/wp-content/uploads/2016/06/gang-behavior-law-enforcement-community-values-akerlof-yellen.pdf) and claimed that we have a non-zero floor for gang violence in our space. I think hers is the better take.
+Janet Yellen of all people wrote a paper about [why communities tolerate gangs](https://www.brookings.edu/wp-content/uploads/2016/06/gang-behavior-law-enforcement-community-values-akerlof-yellen.pdf) and claimed that we have a non-zero floor beneath which gang violence is tolerable. I think hers is the better take.
 
 To the extent decentralized safety networks enable consensus and norm setting, they also enable posse formation. That’s good when it’s for like picking up garbage together. It’s less good when it’s used to deploy force.
 
@@ -149,16 +153,15 @@ The extreme opposite of golden arms is the guy or lady who drives a polaris trik
 The polaris website says they're 'impossible to ignore'. Can confirm.
 
 Trike pilot isn’t breaking a golden arm. They’re disrupting hundreds of people over say 20 blocks for like 5 minutes each. Basically a papercut, but times a hundred. Noise hinders problem solving. Noise increases heart rate and causes heart disease with long-term exposure.
-I hate noise, and I'm a minority in that respect but a large one.
 
 The trike driver is stealing a statistical week of life or work; just not from any single person.
 
 Decentralizing the collection and categorization of crime reports won’t just amplify victims of serious crimes. It will also amplify the hundreds of small complaints against my trike driver by clustering them together, which enables collective action.
 
-The trike pilot is just a nuisance, but we’re also in the middle of a national debate on mask wearing in public. To the person who’s mask-less on a crowded subway car, who may or may not be vaccinated, who may or may not be sick anyway, who is certainly breaking the rules, everyone staring daggers at you now has a camera on their face. They've killed 1/1000 of a person, or 1/10000, not 1, but plausibly not 0.
+The tricycle is just a nuisance, but we’re also in the middle of a national debate on mask wearing in public. To the person who’s mask-less on a crowded subway car, who may or may not be vaccinated, who may or may not be sick anyway, who is certainly breaking the rules, everyone staring daggers at you now has a camera on their face. They've killed 1/1000 of a person, or 1/10000, not 1, but plausibly not 0.
 
-Flattening the long tail of tiny risks is essential state capacity for fighting an exponential threat and we are sucking at it.
-Decentralized safety is the right shape for this.
+Flattening the long tail of tiny risks is essential state capacity for fighting an exponential threat and we're sucking at it.
+Decentralized safety is the right shape peg for this hole.
 
 ## State capacity and its discontents
 
