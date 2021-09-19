@@ -147,7 +147,7 @@ The bad actors in the decentralized model will mimic the shape of the network, w
 
 ## A millimort for a millimort
 
-I didn’t see that golden arm show on Quibi but heard it was the best thing on there. I bring it up because in reality, some people have actual golden arms, or some other special status giving them an awesome career, and we let them sue for future earnings when something happens to that career. (There’s an [ALAB podcast](https://www.alabseries.com/episodes/episode-21-baked-in) about how you won’t like the formula for future earnings).
+I didn’t see that golden arm show on Quibi but heard it was the best thing on there. I bring it up because in reality, some people have actual golden arms, or some other special status giving them an awesome career, and we let them sue for future earnings when something happens to that career. (There’s an ALAB podcast about [problems with the formula](https://www.alabseries.com/episodes/episode-21-baked-in)).
 
 The extreme opposite of golden arms is the guy or lady who drives a polaris trike past my place sometimes with the radio up. [They also frequent Hoboken](https://patch.com/new-jersey/hoboken/hoboken-whats-deal-three-wheeled-cars-motorcycles), which means either there are multiple polaris trike clubs in the tri-state area or the one has a very long route.
 The polaris website says they're 'impossible to ignore'. Can confirm.
