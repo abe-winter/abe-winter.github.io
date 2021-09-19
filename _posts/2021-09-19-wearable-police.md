@@ -28,7 +28,7 @@ This time, new communications tech won’t just be challenging the legitimacy of
 It will be solving and preventing crimes.
 (Cameras have been solving crimes [since at least 1859](http://jbiocommunication.org/issues/31-2/feature4.html), but this will be different).
 
-The trend here is the decentralization of public safety. This hardware is coming on the market, like, now -- Facebook’s Ray Ban partnership, something coming from Apple.
+The trend here is the decentralization of public safety. This hardware is coming on the market, like, now -- the facebook’s Ray Ban partnership, Xiaomi, something coming from Apple.
 Software and networks will catch up in a year or two.
 Expect a wild ride.
 
