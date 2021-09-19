@@ -181,9 +181,11 @@ I’m not saying crime is up, or that it isn’t up, or that it matters. I know 
 
 Government at all levels here is slow to adopt technology; I heard a take that this isn’t because of a lack of talent, nor even fully because of corrupt or broken government purchasing, but rather because upgraded institutions bring updated values, and we can’t agree on what those should be.
 
-Too bad, whatever the reason, because we sorely need the upgrades. Cross your fingers private sector innovation can pick up the slack. I’m not advocating for decentralized institutions. I just want ones that work.
+Too bad, whatever the reason, because we sorely need the upgrades. Cross your fingers private sector innovation can pick up the slack. I’m not asking for decentralized institutions. I just want ones that work.
 
-I opened with legitimacy and public data. But another challenge to legitimacy is incompetence. My generation has shrinking tolerance for the growing gap between the state of the art and state capacity. Decentralized institutions are a reaction to that, but if there’s a way to fix what we’ve got, that would be good too.
+I opened with legitimacy and public data. But another challenge to legitimacy is incompetence.
+My generation has shrinking tolerance for the growing gap between state capacity and the state of the art.
+Decentralized institutions are a reaction to that, but if there’s a way to fix what we’ve got, that would be good too.
 
 ---
 <br>
