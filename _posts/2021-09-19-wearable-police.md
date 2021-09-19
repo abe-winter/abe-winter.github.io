@@ -23,7 +23,7 @@ But it worked – it opened a ‘credibility gap’ between official statements 
 
 The 60s war reporters probably used handheld 16mm cameras like [this one](https://americanhistory.si.edu/blog/combat-photographer-vietnam).
 
-In 2021 Cronkite has a samsung galaxy and the Tet Offensive is on your street.
+In 2021 Cronkite is a samsung galaxy and the Tet Offensive is your street.
 This time, new communications tech won’t just be challenging the legitimacy of central institutions.
 It will be solving and preventing crimes.
 (Cameras have been solving crimes [since at least 1859](http://jbiocommunication.org/issues/31-2/feature4.html), but this will be different).
