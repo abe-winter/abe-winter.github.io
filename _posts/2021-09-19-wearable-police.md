@@ -11,7 +11,7 @@ Yes you have an internet-connected camera in your pocket, but it takes time to g
 Camera phones have contributed to justice, but haven't changed any systems -- they enable protest, but they can't replace the functions of centralized institutions.
 
 But in 18 months the camera will be mounted on your face.
-Head-mounted wearables will enable intervention, not just protest.
+Head-worn wearables will enable intervention, not just protest.
 They'll be omnipresent and they’ll tag what they record; in time they’ll decentralize some functions of public safety.
 
 George Holliday, the guy who filmed Rodney King in 91, had a handycam which he described as ‘like a size 13 shoe’. He [auctioned it off last year](https://natedsanders.com/LotDetail.aspx?inventoryid=58296).
@@ -23,8 +23,8 @@ But it worked – it opened a ‘credibility gap’ between official statements 
 
 The 60s war reporters probably used handheld 16mm cameras like [this one](https://americanhistory.si.edu/blog/combat-photographer-vietnam).
 
-In 2021 Cronkite is a samsung galaxy and the Tet Offensive is your street.
-This time, new communications tech won’t just be challenging the legitimacy of central institutions.
+In 2020 Cronkite was a samsung galaxy and the Tet Offensive was your street.
+Next year, new communications tech won’t just be challenging the legitimacy of central institutions.
 It will be solving and preventing crimes.
 (Cameras have been solving crimes since at least 1859[^camera], but this will be different).
 
