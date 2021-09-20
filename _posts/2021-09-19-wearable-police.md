@@ -26,9 +26,11 @@ The 60s war reporters probably used handheld 16mm cameras like [this one](https:
 In 2021 Cronkite is a samsung galaxy and the Tet Offensive is your street.
 This time, new communications tech won’t just be challenging the legitimacy of central institutions.
 It will be solving and preventing crimes.
-(Cameras have been solving crimes [since at least 1859](http://jbiocommunication.org/issues/31-2/feature4.html), but this will be different).
+(Cameras have been solving crimes since at least 1859[^camera], but this will be different).
 
-The trend here is the decentralization of public safety. This hardware is coming on the market, like, now -- the facebook’s Ray Ban partnership, Xiaomi, something coming from Apple.
+[^camera]: [A Brief History of Forensic Imaging](http://jbiocommunication.org/issues/31-2/feature4.html), in the journal of biocommunication, gives the 1859 number and describes the case. [The Law and Science of Evidence](https://chnm.gmu.edu/aq/photos/frames/essay01.htm), in American Quarterly, seems to say the photo was used to examine and assemble evidence already submitted to the court, not as a piece of evidence itself. Also this gem: "The sun-pictures of various kinds have been in popular use for a generation; but many years passed before they were adopted into the apparatus of courts of justice," noted an 1879 article in the Western Jurist. "The law of the land is a wary old fox, and scrutinizes a new invention a long time before extending the paw to appropriate it."
+
+The trend here is the decentralization of public safety. This hardware is coming on the market, like, now -- the facebook’s ray ban partnership, xiaomi, something coming from apple.
 Software and networks will catch up in a year or two.
 Expect a wild ride.
 
