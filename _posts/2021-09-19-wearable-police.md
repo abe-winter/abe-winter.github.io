@@ -36,14 +36,11 @@ Expect a wild ride.
 
 Philomela is a mythological victim of assault whose attacker cut her tongue out. To report the crime, she spun a tapestry and mailed it to her sister the queen. Eventually she became a nightingale. (Everyone in the story ends as some kind of bird).
 
-Victims have never had loud voices, unlike law enforcement. When the pea whistle was invented in 1883, the first client was Scotland Yard.
-One function of police is to turn up the volume on victims so the other organs of public policy can react.
-
-That's necessary because the owner for data about crimes and evidence is law enforcement.
+When the pea whistle was invented in 1883, the first client was Scotland Yard.
+Unlike victims, when law enforcement speaks about crime it's with a very loud voice.
 They decide which reports are credible, what bubbles up to databases, how information is summarized.
-I’m not saying that’s good or bad, but they’re clearly the owners of public safety data.
 
-Wearables change that.
+Wearables change that by decentralizing the collection of victim and witness reports.
 The dataset assembled by the new glassholes will be:
 
 * **Collectively owned**, with ownership weighted to the victims. I know 2 new yorkers with rough subway experiences who found out that those cameras are basically unusable by cops
@@ -54,7 +51,7 @@ The dataset assembled by the new glassholes will be:
 
 I’m not, you’ll notice, making any claims about the impact of this technology on crime rates, close rates, anything. I read a bunch of PDFs about the impact of policing on crime rates and came away understanding very little. Maybe the data will be wrong. Maybe it will stir up awful mobs.
 
-For all the risks, decentralized safety networks will also empower people to accurately report how their lives are, and to be heard by others around them, and to form groups to solve real problems.
+For all the risks, decentralized safety networks will also empower people to accurately report how their lives are, to be heard by others around them, and to form groups to solve real problems.
 
 I always associated Gandhi with his nonviolent resistance work, but in researching this post, I learned protest was only half his project. ‘My real politics,’ he wrote to a colleague, ‘is constructive work’ – the creation of new institutions that advanced his social values. Decentralization, whatever else it represents, is a factory for new institutions.
 
