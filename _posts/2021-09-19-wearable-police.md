@@ -7,13 +7,6 @@ description: crime boy idk
 categories: sybil liberties
 ---
 
-Yes you have an internet-connected camera in your pocket, but it takes time to get it out.
-Camera phones have contributed to justice, but haven't changed any systems -- they enable protest, but they can't replace the functions of centralized institutions.
-
-But in 18 months the camera will be mounted on your face.
-Head-worn wearables will enable intervention, not just protest.
-They'll be omnipresent and they’ll tag what they record; in time they’ll decentralize some functions of public safety.
-
 George Holliday, the guy who filmed Rodney King in 91, had a handycam which he described as ‘like a size 13 shoe’. He [auctioned it off last year](https://natedsanders.com/LotDetail.aspx?inventoryid=58296).
 
 In 68, the day after he said he wouldn’t run again, LBJ told the National Association of Broadcasters that [TV had lost the war in Vietnam](https://www.jstor.org/stable/20024822).
