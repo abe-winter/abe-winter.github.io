@@ -17,9 +17,9 @@ But it worked – it opened a ‘credibility gap’ between official statements 
 The 60s war reporters probably used handheld 16mm cameras like [this one](https://americanhistory.si.edu/blog/combat-photographer-vietnam).
 
 In 2020 Cronkite was a samsung galaxy and the Tet Offensive was your street.
-Next year, new communications tech won’t just be challenging the legitimacy of central institutions.
-It will be solving and preventing crimes.
-(Cameras have been solving crimes since at least 1859[^camera], but this will be different).
+Next year, the camera will be wearable. It will be **mounted on your face**.
+And it won’t just be challenging the legitimacy of central institutions, it will be solving and preventing crimes.
+(Cameras have been solving crimes since at least 1859[^camera], but what's coming will be different).
 
 [^camera]: [A Brief History of Forensic Imaging](http://jbiocommunication.org/issues/31-2/feature4.html), in the journal of biocommunication, gives the 1859 number and describes the case. [The Law and Science of Evidence](https://chnm.gmu.edu/aq/photos/frames/essay01.htm), in American Quarterly, seems to say the photo was used to examine and assemble evidence already submitted to the court, not as a piece of evidence itself. Also this gem: "The sun-pictures of various kinds have been in popular use for a generation; but many years passed before they were adopted into the apparatus of courts of justice," noted an 1879 article in the Western Jurist. "The law of the land is a wary old fox, and scrutinizes a new invention a long time before extending the paw to appropriate it."
 
