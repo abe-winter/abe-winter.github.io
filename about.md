@@ -9,12 +9,8 @@ permalink: /about/
 I write about the information economy and how the world is getting weird but not necessarily worse.
 I also write about broken technology + institutions, and the intersection of the two.
 
-I'm an armchair everything.
+In my IRL / WFH existence, I'm an experienced software person. I help small companies with high traffic to adopt systems which scale.
 
-I also help midsized web companies tune their backend stack for load,
-and am also building [wait.chat](https://wait.chat), a hybrid inbox for async teams.
-
-Few enough people read this blog that if you have a reaction, I want to hear it.
-Hit me up, it's awinter.public@gmail.com.
+Random non-spam emails welcome, hit me up at awinter.public@gmail.com.
 
 {% include flatpixel.html %}
