@@ -103,7 +103,7 @@ If I am, I get to vet.
 
 On-sites let you show off stupid human tricks.
 One time I touch-typed a coding section, carrying on a conversation while I did it.
-All I proving is that I'm a good typist, but I'm pretty sure it got me the offer.
+All I proved is that I'm a good typist, but I'm pretty sure it got me the offer.
 
 Interviewing sucks on both sides but is a form of networking and can be fun;
 we should streamline it but not neuter it completely.
