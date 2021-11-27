@@ -3,7 +3,6 @@ layout: post
 title: "Pasito, pasito: Europe's anti-Google roadmap (in lyrics)"
 author: Abe Winter
 description: Veo que eres malicia con delicadeza
-noindex: true
 ---
 
 When Article 13 got on the agenda, [Youtube CEO Susan Wojcicki released a blogpost](https://youtube-creators.googleblog.com/2018/11/i-support-goals-of-article-13-i-also.html) explaining that regulating Youtube will significantly affect consumer welfare because they'll have to remove Despacito from the play store (or something -- this veiled threat was a little too veiled).
