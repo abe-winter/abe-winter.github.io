@@ -32,7 +32,7 @@ Expect a wild ride.
 1. toc
 {:toc}
 
-## A change of Philomel
+## Guided by voices
 
 Philomela is a mythological victim of assault whose attacker cut her tongue out. To report the crime, she spun a tapestry and mailed it to her sister the queen. Eventually she became a nightingale. (Everyone in the story ends as some kind of bird).
 
