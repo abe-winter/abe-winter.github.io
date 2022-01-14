@@ -39,29 +39,27 @@ Like most adult men in my age bracket I owned[^guilty] the jagged little pill CD
 ## I'm tired but I'm working yeah
 
 There are worse things than being atavistic and dolphin-brained[^cube].
-For a week, I didn’t have to make any decisions about time, and it was great.
+For a week, I didn’t have to make any decisions about time.
+I just said no to everyone!
+It was a superpower.
 
 [^cube]: [Who wants to join me in becoming cube brained](https://twitter.com/dilettanterypod/status/1406458667700867077)
 
-My work life last year was me leaving a job because they started a weird contract renegotiation 3 months after a previous weird contract negotiation, and then starting another job which was supposed to take less time, but actually took more, and also I overlapped both for a while because pandemic.
-Some people had these overlaps and made 2x their normal comp – I ended up making less than I would have by just staying where I was.
-For a mix of absurd reasons I ended up writing both jobs *checks* at some point in the year.
-
-If I take away nothing else from all that, time management advice:
-if you work below market for any reason, you're letting guilt drive and will end up writing your job a check, metaphorically or actually, and it will be all your fault for not thinking sanely about time and money.
-
+My work life balance last year was me not saying no enough, and not valuing my time correctly, and feeling an absurd disconnect every time I put in an hour of time at a loss.
 I read something about d-day and normandy which said that new soldiers are, the first time they take fire, motivated by loyalty to the person next to them and little else.
-Social loyalty can hijack your motivation system.
-My point is that I was drained, the beaches of normandy are no place to make a career, and beware dolphins bearing haikus.
+Saying yes to favors can be a sugar hit, and hijack your incentives.
+But this is not something covid tolerates.
 
-But this week I had the phone muted.
-I wasn’t responding to IMs. It was wonderful.
-I’m sensitive to interruptions, and am on an extreme of believing they're an awful tax, and haven't been able to shut notifications off for a year, and needed this.
+Also the beaches of normandy are not a good model for your career. Beware dolphins bearing haikus.
 
-(It turns out dolphins are great at interruptions – they can stay alert in a stimulus task for days on end. If I were actually dolphin brained I wouldn’t care about the IMs. But the covid didn’t give me unihemispheric sleep, or unihemispheric anything, unfortunately).
+I muted the phone for *a week*.
+I ignored IMs for *hours*. It was paradise.
+I’m sensitive to interruptions, am on an extreme of believing they're an awful tax, and haven't been able to shut notifications off for a year, and needed this.
+
+(It turns out dolphins are great at interruptions – they can stay alert in a stimulus task for days on end. If I were actually dolphin-brained I wouldn’t care about the IMs. But the covid didn’t give me unihemispheric sleep, or unihemispheric anything, unfortunately).
 
 At one point I thought the phrase 'this is absolutely no reason to be losing sleep', and spent the rest of my isolation period living that.
-I now have zero temptation to do anything inconvenient like wake up after 3 hours of sleep for an unnecessary short-notice meeting in a random time zone.
+I now have zero temptation to do anything inconvenient like wake up 3 hours after going to bed for an unnecessary short-notice meeting in a random time zone.
 
 ## Anosmia
 
