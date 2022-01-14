@@ -85,7 +85,8 @@ It felt like a hole in my senses; a phantom limb but for information, with my br
 
 This 'phantom sense' feeling is weirdly similar to being in VR; an experience that is more real than normal screen interactions, but with something missing.
 
-Coincidentally, david chalmers has a new book out about simulations and was on the kent bye vr podcast this week pushing it. His conclusion seems to be he’s not sure if we’re in a simulation, which is maybe not surprising from a guy whose chief contribution to consciousness research is that he’s not sure what to ask about consciousness[^order-n].
+Coincidentally, david chalmers has a new book out about simulations and was on the kent bye vr podcast this week pushing it.
+His conclusion is that he's not sure if we’re in a simulation, which is maybe not surprising from a guy whose chief contribution to consciousness research is that he’s not sure what to ask about consciousness[^order-n].
 Chalmers has spent some portion of his recent career doing a lecture series about the matrix (yes, the film), and may or may not be planning a transition to ready player one scholarship.
 
 [^order-n]: He has a list of philosophical stances on whether we’re in a simulation, but doesn’t talk about computability. If the rules of computation are the same in our universe as a hypothetical simulated universe, then it's illegal to mine bitcoin on clouds. and we mine bitcoin, therefore we're not in a cloud. (by rules I mean literally rules, not laws of physics, but there's a version of this argument that uses O(N) rather than TOS). He wonders if minds in a simulation would be non-conscious, but doesn’t ask the more-plausible inverse question: is consciousness a side effect of a simulation, are *only* simulated minds conscious. Kent Bye is obsessed with the topic of reality, and has a reading group of process philosophers and quantum ontologists that’s currently reading 'untying the gordian knot'.
