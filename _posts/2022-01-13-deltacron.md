@@ -22,6 +22,8 @@ My phone was in do not disturb mode constantly, and I checked it like twice a da
 I had zero days with less than 4 hours of sleep.
 ('Now that's some halved-tripled thinking', a friend said about this general topic).
 
+(I'm joking but not entirely joking about the IQ stuff. It's plausible that [covid has serious sequelae](https://twitter.com/IanRicksecker/status/1478611650760437765) in various organ systems. Get a [mask that fits](https://twitter.com/peteyreplies/status/1482204962931236865), I conceivably got it while wearing a KN95).
+
 There’s a book in the david brin uplift series where the dolphins become atavistic in a crisis, and dolphin captain creideiki has to coax them back to 'science and language brain' with ultrasonic trinary haikus.
 I feel like this getting back to work, like I’m 'forcing my brain into modern thinking'.
 Which I will do, but reluctantly, and make sure to still embrace atavism once in a while.
