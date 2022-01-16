@@ -271,7 +271,7 @@ Eppur si muove.
 
 ## Appendix: the unabomber
 
-[This is a letter](https://twitter.com/nezumi_ningen/status/1345956314372071424/photo/1) written by the unabomber, who's now in jail, in response to an admirer I guess.
+[This is a letter](https://web.archive.org/web/20210104045258/https://twitter.com/nezumi_ningen/status/1345956314372071424) written by the unabomber, who's now in jail, in response to an admirer I guess.
 The pen pal is skeptical that another terrorist, the oklahoma city bomber, could have destroyed the murrah building, and was writing to talk about a pet conspiracy theory.
 
 The unabomber's main points in response are "you should read" Farhad Manjoo's book about post-fact societies, "if you have access to a law library" check out the opinion against mcveigh, and that the pen pal's argument about the explosion is wrong in a way you can check in the media.
