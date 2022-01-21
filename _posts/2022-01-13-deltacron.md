@@ -143,6 +143,11 @@ Getting covid wasn't my new year's resolution. But improving my time management 
 No human being had the power to change my habits until a random old lady in my building rode the elevator without a mask.
 A little part of me is thinking 'thanks for the wakeup call'.
 
+![less is more]({{ "/assets/less-is-more.png" | absolute_url }})
+
+Sometimes less is more.
+
 ## Notes
+{:.no_toc}
 
 {% include flatpixel.html %}
