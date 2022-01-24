@@ -91,16 +91,16 @@ span.flat-group {
           <b >
             payload
           </b>
-          <a href="#step-4-res-pay-$client-identifier">
+          <a href="#step-4-res-pay-client-identifier">
             📛 client-identifier
           </a>
-          <a href="#step-4-res-pay-$requested-scope">
+          <a href="#step-4-res-pay-requested-scope">
             🔬 requested-scope
           </a>
-          <a href="#step-4-res-pay-$redirection-uri">
+          <a href="#step-4-res-pay-redirection-uri">
             🔄 redirection-uri
           </a>
-          <a href="#step-4-res-pay-$local-state">
+          <a href="#step-4-res-pay-local-state">
             📎 local-state
           </a>
         </span>
@@ -111,6 +111,23 @@ span.flat-group {
         <a href="https://datatracker.ietf.org/doc/html/rfc6749#section-4.1.1">
           spec
         </a>
+        <span class="flat-group">
+          <b >
+            payload
+          </b>
+          <a href="#step-5-req-pay-client-identifier">
+            📛 client-identifier
+          </a>
+          <a href="#step-5-req-pay-requested-scope">
+            🔬 requested-scope
+          </a>
+          <a href="#step-5-req-pay-redirection-uri">
+            🔄 redirection-uri
+          </a>
+          <a href="#step-5-req-pay-local-state">
+            📎 local-state
+          </a>
+        </span>
       </div>
       <div style="grid-row: 7; grid-column: 3 / 4" class="checks">
         <div >
@@ -140,10 +157,10 @@ span.flat-group {
           <b >
             payload
           </b>
-          <a href="#step-7-res-pay-$authorization-code">
+          <a href="#step-7-res-pay-authorization-code">
             🔑 authorization-code
           </a>
-          <a href="#step-7-res-pay-$local-state">
+          <a href="#step-7-res-pay-local-state">
             📎 local-state
           </a>
         </span>
@@ -155,10 +172,10 @@ span.flat-group {
           <b >
             payload
           </b>
-          <a href="#step-8-req-pay-$authorization-code">
+          <a href="#step-8-req-pay-authorization-code">
             🔑 authorization-code
           </a>
-          <a href="#step-8-req-pay-$local-state">
+          <a href="#step-8-req-pay-local-state">
             📎 local-state
           </a>
         </span>
@@ -174,10 +191,10 @@ span.flat-group {
           <b >
             payload
           </b>
-          <a href="#step-9-req-pay-$authorization-code">
+          <a href="#step-9-req-pay-authorization-code">
             🔑 authorization-code
           </a>
-          <a href="#step-9-req-pay-$redirection-uri">
+          <a href="#step-9-req-pay-redirection-uri">
             🔄 redirection-uri
           </a>
         </span>
@@ -278,7 +295,7 @@ span.flat-group {
           The server issuing access tokens to the client after successfully authenticating the resource owner and obtaining authorization.
         </p>
       </div>
-      <div id="step-4-res-pay-$client-identifier" class="docsec">
+      <div id="step-4-res-pay-client-identifier" class="docsec">
         <h4 >
           Payload: client-identifier
         </h4>
@@ -289,7 +306,7 @@ span.flat-group {
           The authorization server issues the registered client a client identifier -- a unique string representing the registration information provided by the client.
         </p>
       </div>
-      <div id="step-4-res-pay-$requested-scope" class="docsec">
+      <div id="step-4-res-pay-requested-scope" class="docsec">
         <h4 >
           Payload: requested-scope
         </h4>
@@ -300,7 +317,7 @@ span.flat-group {
           The authorization and token endpoints allow the client to specify the scope of the access request using the "scope" request parameter. In turn, the authorization server uses the "scope" response parameter to inform the client of the scope of the access token issued. ... The authorization server MAY fully or partially ignore the scope requested by the client.
         </p>
       </div>
-      <div id="step-4-res-pay-$redirection-uri" class="docsec">
+      <div id="step-4-res-pay-redirection-uri" class="docsec">
         <h4 >
           Payload: redirection-uri
         </h4>
@@ -311,7 +328,7 @@ span.flat-group {
           After completing its interaction with the resource owner, the authorization server directs the resource owner's user-agent back to the client.  The authorization server redirects the user-agent to the client's redirection endpoint previously established with the authorization server during the client registration process or when making the authorization request.
         </p>
       </div>
-      <div id="step-4-res-pay-$local-state" class="docsec">
+      <div id="step-4-res-pay-local-state" class="docsec">
         <h4 >
           Payload: local-state
         </h4>
@@ -322,18 +339,40 @@ span.flat-group {
           An opaque value used by the client to maintain state between the request and callback.  The authorization server includes this value when redirecting the user-agent back to the client.
         </p>
       </div>
-      <div id="step-7-res-pay-$authorization-code" class="docsec">
+      <div id="step-5-req-pay-client-identifier" class="docsec">
         <h4 >
-          Payload: authorization-code
+          Payload: client-identifier
         </h4>
-        <a href="https://datatracker.ietf.org/doc/html/rfc6749#section-1.3.1">
+        <a href="https://datatracker.ietf.org/doc/html/rfc6749#section-2.2">
           source
         </a>
         <p >
-          The authorization code is obtained by using an authorization server as an intermediary between the client and resource owner.  Instead of requesting authorization directly from the resource owner, the client directs the resource owner to an authorization server (via its user-agent as defined in [RFC2616]), which in turn directs the resource owner back to the client with the authorization code.
+          The authorization server issues the registered client a client identifier -- a unique string representing the registration information provided by the client.
         </p>
       </div>
-      <div id="step-7-res-pay-$local-state" class="docsec">
+      <div id="step-5-req-pay-requested-scope" class="docsec">
+        <h4 >
+          Payload: requested-scope
+        </h4>
+        <a href="https://datatracker.ietf.org/doc/html/rfc6749#section-3.3">
+          source
+        </a>
+        <p >
+          The authorization and token endpoints allow the client to specify the scope of the access request using the "scope" request parameter. In turn, the authorization server uses the "scope" response parameter to inform the client of the scope of the access token issued. ... The authorization server MAY fully or partially ignore the scope requested by the client.
+        </p>
+      </div>
+      <div id="step-5-req-pay-redirection-uri" class="docsec">
+        <h4 >
+          Payload: redirection-uri
+        </h4>
+        <a href="https://datatracker.ietf.org/doc/html/rfc6749#section-3.1.2">
+          source
+        </a>
+        <p >
+          After completing its interaction with the resource owner, the authorization server directs the resource owner's user-agent back to the client.  The authorization server redirects the user-agent to the client's redirection endpoint previously established with the authorization server during the client registration process or when making the authorization request.
+        </p>
+      </div>
+      <div id="step-5-req-pay-local-state" class="docsec">
         <h4 >
           Payload: local-state
         </h4>
@@ -344,7 +383,7 @@ span.flat-group {
           An opaque value used by the client to maintain state between the request and callback.  The authorization server includes this value when redirecting the user-agent back to the client.
         </p>
       </div>
-      <div id="step-8-req-pay-$authorization-code" class="docsec">
+      <div id="step-7-res-pay-authorization-code" class="docsec">
         <h4 >
           Payload: authorization-code
         </h4>
@@ -355,7 +394,7 @@ span.flat-group {
           The authorization code is obtained by using an authorization server as an intermediary between the client and resource owner.  Instead of requesting authorization directly from the resource owner, the client directs the resource owner to an authorization server (via its user-agent as defined in [RFC2616]), which in turn directs the resource owner back to the client with the authorization code.
         </p>
       </div>
-      <div id="step-8-req-pay-$local-state" class="docsec">
+      <div id="step-7-res-pay-local-state" class="docsec">
         <h4 >
           Payload: local-state
         </h4>
@@ -366,7 +405,7 @@ span.flat-group {
           An opaque value used by the client to maintain state between the request and callback.  The authorization server includes this value when redirecting the user-agent back to the client.
         </p>
       </div>
-      <div id="step-9-req-pay-$authorization-code" class="docsec">
+      <div id="step-8-req-pay-authorization-code" class="docsec">
         <h4 >
           Payload: authorization-code
         </h4>
@@ -377,7 +416,29 @@ span.flat-group {
           The authorization code is obtained by using an authorization server as an intermediary between the client and resource owner.  Instead of requesting authorization directly from the resource owner, the client directs the resource owner to an authorization server (via its user-agent as defined in [RFC2616]), which in turn directs the resource owner back to the client with the authorization code.
         </p>
       </div>
-      <div id="step-9-req-pay-$redirection-uri" class="docsec">
+      <div id="step-8-req-pay-local-state" class="docsec">
+        <h4 >
+          Payload: local-state
+        </h4>
+        <a href="https://datatracker.ietf.org/doc/html/rfc6749#section-4.1.1">
+          source
+        </a>
+        <p >
+          An opaque value used by the client to maintain state between the request and callback.  The authorization server includes this value when redirecting the user-agent back to the client.
+        </p>
+      </div>
+      <div id="step-9-req-pay-authorization-code" class="docsec">
+        <h4 >
+          Payload: authorization-code
+        </h4>
+        <a href="https://datatracker.ietf.org/doc/html/rfc6749#section-1.3.1">
+          source
+        </a>
+        <p >
+          The authorization code is obtained by using an authorization server as an intermediary between the client and resource owner.  Instead of requesting authorization directly from the resource owner, the client directs the resource owner to an authorization server (via its user-agent as defined in [RFC2616]), which in turn directs the resource owner back to the client with the authorization code.
+        </p>
+      </div>
+      <div id="step-9-req-pay-redirection-uri" class="docsec">
         <h4 >
           Payload: redirection-uri
         </h4>
