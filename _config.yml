@@ -16,7 +16,7 @@
 title: Abenomicon
 author: Abe Winter
 email: awinter.public@gmail.com
-description: "trying to be hipster runoff for niche web frameworks, hopefully not succeeding"
+description: "trying to be hipster runoff for the web stack, hopefully not succeeding"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abe-winter.github.io"
 twitter_username: abenomicon
