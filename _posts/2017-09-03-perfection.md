@@ -3,6 +3,7 @@ layout: post
 title: Perfection is a modern heresy
 categories: heresy
 author: Abe Winter
+noindex: true
 ---
 
 * toc

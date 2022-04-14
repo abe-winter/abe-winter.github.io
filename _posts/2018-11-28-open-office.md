@@ -4,6 +4,7 @@ title: Stigmergy, collective intelligence and the open office
 description: If you're a social insect you already know this
 author: Abe Winter
 date: 2018-11-28
+noindex: true
 ---
 
 Last month I read the [Bernstein & Turban paper on open-plan offices](http://rstb.royalsocietypublishing.org/content/373/1753/20170239), where the researchers tracked two offices that adopted an open plan as part of a 'war on walls'. They gave some workers a [sociometric badge](https://www.fastcompany.com/3051324/we-spent-two-weeks-wearing-employee-trackers-heres-what-we-learned) to track IRL interactions.

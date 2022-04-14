@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Deltacron dispatches
-new: true
 description: beware dolphins bearing haikus
 categories: half-triple-thinking
 ---

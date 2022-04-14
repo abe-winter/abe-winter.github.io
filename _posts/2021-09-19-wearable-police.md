@@ -34,8 +34,6 @@ Expect a wild ride.
 
 ## Guided by voices
 
-Philomela is a mythological victim of assault whose attacker cut her tongue out. To report the crime, she spun a tapestry and mailed it to her sister the queen. Eventually she became a nightingale. (Everyone in the story ends as some kind of bird).
-
 When the pea whistle was invented in 1883, the first client was Scotland Yard.
 Unlike victims, when law enforcement speaks about crime it's with a very loud voice.
 They decide which reports are credible, what bubbles up to databases, how information is summarized.
