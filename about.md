@@ -11,6 +11,8 @@ I also write about broken technology + institutions, and the intersection of the
 
 In my IRL / WFH existence, I'm an experienced software person. I help small companies with high traffic to adopt systems which scale.
 
+I'm also starting a thing which most people who have heard the pitch either don't understand or hate, so if you like to not understand / hate things, let's talk.
+
 Random non-spam emails welcome, hit me up at awinter.public@gmail.com.
 
 {% include flatpixel.html %}
