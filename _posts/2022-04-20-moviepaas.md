@@ -6,23 +6,9 @@ categories: faux pas
 new: true
 ---
 
-This is about netflix + uber imploding.
-
-1. toc
-{:toc}
-
-## good product, bad business
-
-If you're a consumer, netflix and uber are awesome.
-(Except somehow for me: I avoided uber for a while because of the privacy risk, and netflix for reasons surpassing understanding doesn't work with my credit card).
-
-But you can be a great product without being a great business.
-Businesses need to have, like, moats, and positive unit economics.
-
-You know what was a great product? *Moviepass*.
-Incentivize consumers to buy movie tix through us, rather than through the theater, by buying them at retail price from the theater and then selling them to the consumer as a subscription, which, uh, costs less than a single ticket.
-
-(I never had moviepass. You'd have to pay me my hourly consulting rate to sit through a 60-minute movie. I'm told the hobbit movie is 8 hours long and doesn't feature tom bombadil[^oldtom]. This surpasses understanding).
+I never had moviepass.
+(You'd have to pay me my hourly consulting rate to sit through a 60-minute movie).
+I'm told the hobbit movie is 8 hours long and doesn't feature tom bombadil[^oldtom]. This surpasses understanding.
 
 [^oldtom]: [oldest and fatherless](https://km-515.livejournal.com/1042.html) his terrible secret
 
@@ -32,9 +18,14 @@ I've heard anecdotally that management wanted to launch a more sustainable, less
 
 [^moviepass]: [MoviePass Parent Company Sued by Shareholders as It Continues to Bleed Money](https://www.thewrap.com/moviepass-parent-company-sued-shareholders-continues-bleed-money/). "Defendants carried out a plan, scheme and course of conduct which was intended to, and did, deceive the investing public and cause the plaintiff and other members of the class to purchase" etc
 
-So did netflix + uber defraud investors by creating really nice consumer experiences, and cushy offices where developers get paid to work on resume-builder OSS projects[^oss-startups], while unit economics are eternally and hopelessly negative by design?
+Did netflix + uber defraud investors by creating really nice consumer experiences, and cushy offices where developers get paid to work on resume-builder OSS projects[^oss-startups], while unit economics were eternally and hopelessly negative?
 
 [^oss-startups]: matt turck [vc pullback](https://mattturck.com/vcpullback/) letter talks about netflix employees ditching to run their OSS projects as companies. netflix doesn't own a piece of the action. ctrl-F for 'open source projects'
+
+This post is about netflix + uber imploding, and whether that's bad.
+
+1. toc
+{:toc}
 
 ## why fraud when you can gaap
 
