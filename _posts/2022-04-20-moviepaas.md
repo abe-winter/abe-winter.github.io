@@ -36,12 +36,12 @@ So did netflix + uber defraud investors by creating really nice consumer experie
 
 [^oss-startups]: matt turck [vc pullback](https://mattturck.com/vcpullback/) letter talks about netflix employees ditching to run their OSS projects as companies. netflix doesn't own a piece of the action. ctrl-F for 'open source projects'
 
-## fraud and gaap
+## why fraud when you can gaap
 
 Fraud of course has multiple elements and one of them is 'did the alleged fraudster *know* they were lying'.
 My take: probably not at first?
 uber launched as a competitor to black cars, not taxis. netflix mailed people DVDs.
-Over time they developed these businesses into moatless platforms[^moatless] that got cloned by companies who could operate them more cheaply. (amazon w/ video, lyft by not investing as much in failed international expansions).
+Over time they developed these businesses into moatless platforms[^moatless] that got cloned by companies who could operate them more cheaply.
 
 [^moatless]: [7 powers guy on acquired pod](https://www.acquired.fm/episodes/7-powers-with-hamilton-helmer). business author who writes about competition thinks uber doesn't have a moat. Find the 'network effects' paragraph that talks about 'meaningful profitability'. IMO this is a right take on uber + all gig businesses -- creating a gig labor force is hard, stealing one that has already been created is easy. The whole point of gig labor is low barrier to entry and part-time-ness. Exclusivity is anathema.
 
@@ -53,15 +53,20 @@ Hubert Horan is years into a series of articles where he personally adjusts uber
 
 When wework's S-1 came out, beyond the nutty softbank battle about whether to IPO + what price, they were panned for some bananas accounting term that they made up[^ebitda].
 
-I haven't heard netflix accused of any accounting shenanigans?
-But my model of netflix is that they depend on raising money to create content, have to create the same amount of content every year, so they're raising to buy assets which depreciate in a year.
-They're competing in this with amazon, which uses free videos to sell scammy prime[^stoller], and apple, which has more cash than god *and* which collected 30% of netflix's itunes revenue through 2018[^apple-netflix].
+netflix depreciates their content on a varying calendar; originals mostly 4 years, chelsea handler right away[^content].
+Perhaps 4 years is justified by real subscriber behavior. If not, netflix is in the same business as moviepass; borrowing money to buy content at retail prices, then sell at a discount.
+
+The effect of content on retention is probably mediated by whether competing streaming services are also adding good content.
+Their competition, btw, is amazon, which uses free videos to sell scammy prime[^stoller], and apple, which has more cash than god *and* which kept 30% of netflix's itunes revenue until 2018[^apple-netflix].
+It can't be good that the only fighters willing to enter this ring don't need to make money on content.
 
 [^ebitda]: [community adjusted ebitda](https://www.finnotes.org/terms/community-adjusted-ebitda). I'm not an accountant but my understanding is this is ebitda but also not including expenses
 
 [^apple-netflix]: [netflix stopped accepting itunes](https://venturebeat.com/2018/12/28/netflix-permanently-pulls-itunes-billing-for-new-users/) in dec 2018 per venturebeat
 
 [^stoller]: matt stoller on the [amazon antitrust suit](https://mattstoller.substack.com/p/judges-behaving-badly-amazon-antitrust?s=r). search for 'three steps' for his short explanation of prime's fee structure to seller and why they were getting sued
+
+[^content]: [netflix content accounting](https://www.fool.com/investing/2017/07/19/how-netflix-accounts-for-all-of-its-content-spendi.aspx), motley fool, Adam Levy (2017). It links to this 2016 article saying [espn spends more on content than anyone else](https://www.fool.com/investing/2016/10/27/espn-spends-more-on-content-than-anyone-else-inclu.aspx), which I suspect is no longer true, but is relevant in that cable subsidizes the cost of espn; by quietly drawing from a pool that is larger than their actual users, espn probably increased the price of sports licenses above the true demand. More recent [2021 netflix IR deck](https://s22.q4cdn.com/959853165/files/doc_downloads/2020/01/IR-Content-Accounting-Slides-Jan-2020.pdf) on content accounting talks about ASC 920, a GAAP 'accounting standards codification' on how to account for digital content, and says 4 years is still their average amortization.
 
 ## bread, games and involution
 
@@ -121,8 +126,9 @@ Maybe this is how bubbles pop, and private money has a working safety valve, and
 
 It's hard.
 Even if some hypothetical bootstrapped investor wanted to start a company with sane cost controls and straightforward accounting, the moment their model is validated, it's open season for the VC backed firms to 'growth hack', aka sell the same thing at a lower price.
+We're somehow okay with companies giving stuff away to induce subscriptions, even though we're not okay with elected officials giving things away to become dictators.
 
-This is a governance problem.
+This is probably a governance problem.
 I don't know the answer (as usual), and I don't even think I know the answer (less common).
 We need to agree there's a tragedy of the commons, and then define it well enough to regulate.
 Maybe you're not allowed to operate a money-losing business? But that's tricky too -- R&D is money-losing, until it isn't.
@@ -145,15 +151,16 @@ And simultaneously, various players in the system are getting squeezed.
 [^price-t]: price transparency rules: 14% compliance says [gothamist in 2022](https://gothamist.com/news/nyc-hospitals-still-arent-sharing-all-their-prices-a-year-after-transparency-law-took-effect), 17% said [axios in 2021](https://www.axios.com/hospitals-price-transparency-costs-regulations-noncompliance-ebf6bd21-5709-4298-b67a-74c8a90a1ec1.html). Not sure if it's going down or just different survey methodology
 
 netflix, uber, and the health care system are all markets that have been parasitized by weird unnecessary intermediaries.
+Maybe we ban subscriptions and force platforms to sell things one by one.
 Maybe we 'make markets markets', restricting the role of platform-like creatures who don't seem to add value.
 (Though parasites play a role in predator-prey dynamics[^parasites] and potentially increase the malthusian fitness of the system? And parasites in theory defend against worse parasites).
 
 [^parasites]: [dynamics of predation](https://www.nature.com/scitable/knowledge/library/dynamics-of-predation-13229468/), Alyson Stevens, 'host-parasite interactions' section.
 
-But new rules haven't solved the problem so far.
+But more rules haven't solved the problem so far.
 
-Maybe 'new values' would?
-But public values are almost religions. Is there a religion of 'don't buy subsidized stuff'?
+Maybe new values would?
+But public values are almost religions. Is there a viable religion of 'don't buy cheap stuff'?
 What commandments are violated by the millennial lifestyle subsidy?
 
 What myths would remind us to fear Danaans, even those bearing gifts.
