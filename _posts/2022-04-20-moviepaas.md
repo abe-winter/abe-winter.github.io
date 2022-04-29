@@ -101,7 +101,7 @@ I wonder if netflix and uber are in an involution spiral, growth depending on mo
 
 I'm not saying the millennial lifestyle subsidy[^mls] will end our republic. I'm not saying shortages in long-distance supply chains are the same problem in 2022 as for Tertullus in 359 (who had to promise to starve his kids if storms destroyed the grain ships).
 I'm not saying that WSB / gamestop are signs of decay.
-I'm not saying that our class structure is as broken as the city of Rome, or that Rome's was broken for it's era, or that removing voting sites in poor districts in the US is equivalent to Rome's non-citizen class.
+I'm not saying that our class structure is as broken as the city of Rome, or that Rome's was broken for its era, or that removing voting sites in poor districts in the US is equivalent to Rome's non-citizen class.
 
 I'm not qualified to say these things. But I'm *thinking* them.
 
@@ -119,7 +119,9 @@ It's hard.
 Even if some hypothetical bootstrapped investor wanted to start a company with sane cost controls and straightforward accounting, the moment their model is validated, it's open season for the VC backed firms to 'growth hack', aka sell the same thing at a lower price.
 We're somehow okay with companies giving stuff away to induce subscriptions, even though we're not okay with elected officials giving things away to become dictators.
 
-This is probably a governance problem.
+And money is, in a way, information, and in areas where we don't have much information money naturally becomes inefficient.
+
+But this is probably a governance problem.
 I don't know the answer (as usual), and I don't even think I know the answer (less common).
 We need to agree there's a tragedy of the commons, and then define it well enough to regulate.
 Maybe you're not allowed to operate a money-losing business? But that's tricky too -- R&D is money-losing, until it isn't.
