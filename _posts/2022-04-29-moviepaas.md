@@ -155,6 +155,7 @@ But more rules haven't solved the problem so far.
 Maybe new values would?
 But public values are almost religions. Is there a viable religion of 'don't buy cheap stuff'?
 What commandments are violated by the millennial lifestyle subsidy?
+Did moviepass defraud investors? Or is the system to blame.
 
 What myths would remind us to fear Danaans, even those bearing gifts.
 
