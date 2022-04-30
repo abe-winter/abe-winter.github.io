@@ -4,6 +4,7 @@ title: Moviepass all the way down
 description: faal in to the gaap
 categories: faux pas
 new: true
+redirect_from: /faux/pas/2022/04/20/moviepaas.html
 ---
 
 I never had moviepass.
@@ -90,7 +91,7 @@ Plus other large capitals back then were nearish their grain supply[^gracchi], w
 Once the annona was in place, Rome's subsequent population growth was built on top of it;
 the larger the population, the larger the disaster of removing it, and the larger the military network required to send home grain.
 
-I'm not a china watcher but I read something[^involution] about 'involution', an econ term describing the intensification of labor without increasing wealth.
+I'm not a china watcher but I read something[^involution] about 'involution', an econ term describing growth through the intensification of labor.
 Online people have adopted it to describe 2020s china.
 I wonder if it applies to bread-and-games era Rome as well -- more and more labor being tasked with securing the grain supply, without new innovations that increase the yield[^yield].
 I wonder if netflix and uber are in an involution spiral, growth depending on more intensive 'farming' of investors, contractors, employees, and customers.
