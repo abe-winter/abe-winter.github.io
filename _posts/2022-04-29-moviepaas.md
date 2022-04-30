@@ -82,7 +82,7 @@ The dole was initially for laborers and slaves, aka non-citizens who lacked stea
 
 Caesar as consul changed it from cheap to free[^caesar], a bribe to the people which enabled him to become dictator.
 I lost the cite for this (firefox crashed), but the full subsidies warped the local economy such that local farmers shut down their farms, moving to the city to receive the dole.
-'We're too rich to make things here' is a bad definition of 'rich'.
+'We're too rich to make things here' is a definition of 'rich' that plagues undiversified economies.
 
 [^caesar]: [Frumentariae Leges](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Frumentariae_Leges.html), dictionary of greek and roman antiquities, william smith, 1875
 
@@ -111,45 +111,42 @@ I'm not qualified to say these things. But I'm *thinking* them.
 A less crazy take here is that we should, as a society, ask participants in the public markets to issue accurate accounting.
 Arthur Andersen *was* a big 5 accounting firm, so it's not like this stuff is zero consequence, but let's normalize good accounting.
 
-In the case of uber and netflix, 'collapse' so far has meant increasing prices, or squeezing driver margins, because investor money isn't as infinite as state coffers.
+In the case of uber and netflix, 'collapse' so far has meant increasing prices, because investor money isn't more finite than state coffers.
 Maybe this is how bubbles pop, and private money has a working safety valve, and the system isn't doomed?
+It has also meant squeezing drivers.
 
 ## can we have nice things without defrauding investors?
 
 It's hard.
-Even if some hypothetical bootstrapped investor wanted to start a company with sane cost controls and straightforward accounting, the moment their model is validated, it's open season for the VC backed firms to 'growth hack', aka sell the same thing at a lower price.
+Even if some bootstrapped investor starts a company with sane cost controls and accounting, the moment their model is validated, it's open season for the series As to 'growth hack', aka sell the same good at a loss.
 We're somehow okay with companies giving stuff away to induce subscriptions, even though we're not okay with elected officials giving things away to become dictators.
 
-And money is, in a way, information, and in areas where we don't have much information money naturally becomes inefficient.
-
-But this is probably a governance problem.
+This is probably a governance problem.
 I don't know the answer (as usual), and I don't even think I know the answer (less common).
-We need to agree there's a tragedy of the commons, and then define it well enough to regulate.
-Maybe you're not allowed to operate a money-losing business? But that's tricky too -- R&D is money-losing, until it isn't.
+Maybe you're not allowed to operate a money-losing business? But that's tricky too -- R&D is money-losing.
 
 And governance can be hacked:
 health care in the US is one large accounting problem, is heavily regulated, but the industry has become sentient faster than the regulators and is resisting our attempts to kill it.
-And like grain in Rome, health *is* a large % of our GDP.
+Like grain in Rome, health *is* a large % of our GDP and continuing to overpay for it will drain us.
 
 Random example from a month ago: HR 6833 ('affordable insulin now' act) lowers prices to consumers without changing the price paid to suppliers.
-Someone in the floor debate cited an axios article saying this just shifts costs to employers and insurers, ultimately increasing premiums[^shifts], i.e. the bill is an accounting scam.
-This is just a random example; every health interaction I've had has had some kind of accounting irregularity.
+Someone in the floor debate cited an axios article saying this just shifts costs to insurers, ultimately increasing consumer premiums[^shifts], i.e. the bill is an accounting scam.
+This is just a random example; every health interaction I've ever had has had some kind of accounting irregularity.
 
 [^shifts]: [AFFORDABLE INSULIN NOW ACT; Congressional Record Vol. 168, No. 57](https://www.congress.gov/congressional-record/2022/03/31/house-section/article/H4033-1)
 
-Health care providers have engaged in regulatory capture such that the rules seem to protect the system in its current form.
+Health care providers have engaged in regulatory capture such that the rules protect the system in its current form.
 (And rules that can reform the system, like medicare's price transparency change, are ignored[^price-t]).
 Tons of public money is being diverted to maintain it, as well as pseudo-public money like pre-tax employer coverage.
 And simultaneously, various players in the system are getting squeezed.
 
 [^price-t]: price transparency rules: 14% compliance says [gothamist in 2022](https://gothamist.com/news/nyc-hospitals-still-arent-sharing-all-their-prices-a-year-after-transparency-law-took-effect), 17% said [axios in 2021](https://www.axios.com/hospitals-price-transparency-costs-regulations-noncompliance-ebf6bd21-5709-4298-b67a-74c8a90a1ec1.html). Not sure if it's going down or just different survey methodology
 
-netflix, uber, and the health care system are all markets that have been parasitized by weird unnecessary intermediaries.
+netflix, uber, and the health care system are all markets that have been parasitized[^parasites] by weird unnecessary intermediaries.
 Maybe we ban subscriptions and force platforms to sell things one by one.
 Maybe we 'make markets markets', restricting the role of platform-like creatures who don't seem to add value.
-(Though parasites play a role in predator-prey dynamics[^parasites] and potentially increase the malthusian fitness of the system? And parasites in theory defend against worse parasites).
 
-[^parasites]: [dynamics of predation](https://www.nature.com/scitable/knowledge/library/dynamics-of-predation-13229468/), Alyson Stevens, 'host-parasite interactions' section.
+[^parasites]: Interestingly, some parasites invade predator-prey dynamics, manipulating the behavior of prey to increase the odds of transfering the parasite to predators, gardening ecosystems in hidden ways that serve the parasite's life cycle. We're not the only species with a regulatory capture problem; look to the foxes and voles. [Dynamics of predation](https://www.nature.com/scitable/knowledge/library/dynamics-of-predation-13229468/), Alyson Stevens, 'host-parasite interactions' section.
 
 But more rules haven't solved the problem so far.
 
