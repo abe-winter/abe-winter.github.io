@@ -32,7 +32,7 @@ This post is about netflix + uber imploding, and whether that's bad.
 Fraud of course has multiple elements and one of them is 'did the alleged fraudster *know* they were lying'.
 My take: probably not at first?
 uber launched as a competitor to black cars, not taxis. netflix mailed people DVDs.
-Over time they developed these businesses into moatless platforms[^moatless] that got cloned by companies who could operate them more cheaply.
+Over time they developed these businesses into frictionless, but also moatless, models[^moatless], and got cloned by companies who could operate them more cheaply.
 
 [^moatless]: [7 powers guy on acquired pod](https://www.acquired.fm/episodes/7-powers-with-hamilton-helmer). business author who writes about competition thinks uber doesn't have a moat. Find the 'network effects' paragraph that talks about 'meaningful profitability'. IMO this is a right take on uber + all gig businesses -- creating a gig labor force is hard, stealing one that has already been created is easy. The whole point of gig labor is low barrier to entry and part-time-ness. Exclusivity is anathema.
 
@@ -49,7 +49,7 @@ Perhaps 4 years is justified by real subscriber behavior. If not, netflix is in 
 
 The effect of content on retention is probably mediated by whether competing streaming services are also adding good content.
 Their competition, btw, is amazon, which uses free videos to sell scammy prime[^stoller], and apple, which has more cash than god *and* which kept 30% of netflix's itunes revenue until 2018[^apple-netflix].
-It can't be good that the only fighters willing to enter this ring don't need to make money on content.
+Choose your fighter.
 
 [^ebitda]: [community adjusted ebitda](https://www.finnotes.org/terms/community-adjusted-ebitda). I'm not an accountant but my understanding is this is ebitda but also not including expenses
 
@@ -68,7 +68,7 @@ Her symbols were a cornucopia and a boat.
 
 Subsidies, like 'community EBITDA', are an accounting hack, and can ruin your IPO or worse.
 The Romain grain subsidies were a factor in the end of the republic and the birth of the empire.
-Later, in the 200s AD, they caused a currency crisis, which was resolved by Diocletian's price controls but not before the empire split into eastern and western halves.
+Later, in the 200s AD, they caused a currency crisis, which was resolved by Diocletian's price controls but not before the empire split in half.
 
 (FWIW I'm *not* saying societies in 2022 shouldn't feed everyone; unlike the Romans, grain isn't our whole economy).
 
@@ -97,7 +97,7 @@ I wonder if netflix and uber are in an involution spiral, growth depending on mo
 
 [^involution]: [involution (nèijuǎn) on chinese social media](https://www.whatsonweibo.com/the-concept-of-involution-neijuan-on-chinese-social-media/), whatsonweibo, Manya Koetse
 
-[^yield]: In fairness Casson's 'Ancient Mariners' suggests that they at least got better at shipping it
+[^yield]: In fairness Casson's 'Ancient Mariners' says they at least got better at shipping it
 
 I'm not saying the millennial lifestyle subsidy[^mls] will end our republic. I'm not saying shortages in long-distance supply chains are the same problem in 2022 as for Tertullus in 359 (who had to promise to starve his kids if storms destroyed the grain ships).
 I'm not saying that WSB / gamestop are signs of decay.
