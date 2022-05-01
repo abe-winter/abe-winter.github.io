@@ -147,10 +147,10 @@ Maybe you're not allowed to operate a money-losing business? But that's tricky t
 
 And governance can be hacked:
 health care in the US is one large accounting problem, and is heavily regulated, but the industry has become sentient faster than regulators and is resisting our attempts to exorcise it.
-Like grain in Rome, health *is* a large % of our GDP and continuing to overpay for it will drain us.
+Like grain in Rome, health is a large % of our GDP, and giant entitlement programs can find the resonant frequencies of political institutions, shattering them if not damped.
 
 Random example from a month ago: HR 6833 ('affordable insulin now' act) lowers prices to consumers without changing the price paid to suppliers.
-Someone in the floor debate cited an axios article saying this just shifts costs to insurers, ultimately increasing consumer premiums[^shifts], i.e. the bill is an accounting scam.
+Someone in the floor debate said this just shifts costs to insurers, ultimately increasing consumer premiums[^shifts], i.e. the bill is an accounting scam.
 That's just one recent example; every health interaction I've ever had has had some accounting irregularity.
 
 [^shifts]: [AFFORDABLE INSULIN NOW ACT; Congressional Record Vol. 168, No. 57](https://www.congress.gov/congressional-record/2022/03/31/house-section/article/H4033-1)
