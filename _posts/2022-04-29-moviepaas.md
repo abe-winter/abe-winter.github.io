@@ -8,7 +8,6 @@ redirect_from: /faux/pas/2022/04/20/moviepaas.html
 ---
 
 netflix is having a bad week; it lost 200k subscribers in Q1[^loss] and is planning to end account sharing over the next year or so[^sharing], which they say will boost revenue but :/ could also go like the 2011 hike[^hike] (unanimous outrage).
-This has sucked for their stock, but IMO is more of a trigger than a root cause; they have yet to prove they can operate sustainable content business.
 
 [^loss]: reuters [subscribers fall forecasts grim](https://www.reuters.com/technology/netflix-subscribers-fall-first-time-decade-forecasts-more-losses-2022-04-19/) 4/19
 
@@ -17,12 +16,13 @@ This has sucked for their stock, but IMO is more of a trigger than a root cause;
 [^hike]: [The Complete History of Netflix Price Hikes – From 2007 to 2019](https://flixed.io/netflix-price-hikes/) Alex Munkachy, citing wired in the 2011 section
 
 netflix is *technically* profitable.
-They *reported*[^annual] 5.1 billion dollars in net income in 2021 on 29.7b revenue. They also spent 17.7b on content, *but* amortized 12.2b of that (more than 2x profit).
-But those content costs are going up.
-Also they don't really pay taxes[^itep] (but who would).
-If you don't agree with the amortization period, they're actually losing money.
+They reported[^annual] 5.1 billion dollars in net income in 2021 on 29.7b revenue. They also spent 17.7b on content, but amortized 12.2b of that.
+Without the amortization, they would have lost 7b.
+Maybe increasing content spend is justified by growth?
+They grew from 30m to 220m subscribers from 2013-2021, which isn't nothing, but the streaming landscape is a dark forest post 2020. Growth and retention will get harder.
+Also they don't pay taxes[^itep] (but who would).
 
-[^annual]: [ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934](https://s22.q4cdn.com/959853165/files/doc_financials/2021/q4/da27d24b-9358-4b5c-a424-6da061d91836.pdf) For the fiscal year ended December 31, 2021. PDF page 43 (marked as page 41, which is a numeric crime but not the worst one in there)
+[^annual]: [ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934](https://s22.q4cdn.com/959853165/files/doc_financials/2021/q4/da27d24b-9358-4b5c-a424-6da061d91836.pdf) For the fiscal year ended December 31, 2021. PDF page 43 (marked as page 41, which is a numeric crime but not the worst one in there). Later in the doc: "Net cash provided by operating activities decreased $2,034 million from the year ended December 31, 2020 to $393 million for the year ended December 31, 2021 primarily driven by an increase in investments in content that require more upfront cash payments, partially offset by a $4,702 million or 19% increase in revenues."
 
 [^itep]: [record 5.3b profit on tax rate 1.1%](https://itep.org/netflix-posts-record-profits-federal-tax-rate-of-just-1-percent/) institute on taxation + economic policy
 
@@ -33,7 +33,7 @@ Are they creating really nice consumer experiences, and cushy offices where deve
 
 Did *moviepass* defraud investors?
 Investors allege yes[^moviepass] (but they would).
-I've heard anecdotally that management wanted to launch a more sustainable, less-subsidized service and one of their investors was like 'no, go big', which is to say the board was complicit. I'm not sure which narrative is right. 
+I've heard anecdotally that management wanted to launch with lower subsidies, and one of their investors was like 'no, go big', which is to say the board was complicit. I'm not sure which narrative is right.
 
 [^moviepass]: [MoviePass Parent Company Sued by Shareholders as It Continues to Bleed Money](https://www.thewrap.com/moviepass-parent-company-sued-shareholders-continues-bleed-money/). "Defendants carried out a plan, scheme and course of conduct which was intended to, and did, deceive the investing public and cause the plaintiff and other members of the class to purchase" etc 🎻
 
@@ -43,7 +43,7 @@ I'm told the hobbit movie is 8 hours long and doesn't feature tom bombadil[^oldt
 
 [^oldtom]: [oldest and fatherless](https://km-515.livejournal.com/1042.html) his terrible secret
 
-This post is about netflix accounting, incidentally about uber accounting because uber is in similar slow trouble, incidentally about currency in the roman empire (because it's relevant), and whether these many implosions indicate a systemic problem in how we finance growth.
+This post is about netflix accounting, incidentally about uber accounting because uber is in similar slow trouble, incidentally about subsidy + collapse in the roman empire, and whether these many implosions indicate a systemic problem in how we finance growth.
 
 1. toc
 {:toc}
@@ -56,6 +56,8 @@ uber launched as a competitor to black cars, not taxis. netflix mailed people DV
 Over time they developed these businesses into frictionless, but also moatless, models[^moatless], and got cloned by companies who could operate them more cheaply.
 
 [^moatless]: [7 powers guy on acquired pod](https://www.acquired.fm/episodes/7-powers-with-hamilton-helmer). business author who writes about competition thinks uber doesn't have a moat. Find the 'network effects' paragraph that talks about 'meaningful profitability'. IMO this is a right take on uber + all gig businesses -- creating a gig labor force is hard, stealing one that has already been created is easy. The whole point of gig labor is low barrier to entry and part-time-ness. Exclusivity is anathema.
+
+Content, with the possible exception of fleabag season 2, isn't a moat in the infinite content world.
 
 Another element of fraud is 'did the victim *not* know it was a lie', were they actually fooled.
 This one is harder because there have been voices saying 'if you do your diligence, it's obvious that these aren't working'.
