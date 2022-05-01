@@ -7,23 +7,43 @@ new: true
 redirect_from: /faux/pas/2022/04/20/moviepaas.html
 ---
 
-I never had moviepass.
-(You'd have to pay me my hourly consulting rate to sit through a 60-minute movie).
-I'm told the hobbit movie is 8 hours long and doesn't feature tom bombadil[^oldtom]. This surpasses understanding.
+netflix is having a bad week; it lost 200k subscribers in Q1[^loss] and is planning to end account sharing over the next year or so[^sharing], which they say will boost revenue but :/ could also go like the 2011 hike[^hike] (unanimous outrage).
+This has sucked for their stock, but IMO is more of a trigger than a root cause; they have yet to prove they can operate sustainable content business.
 
-[^oldtom]: [oldest and fatherless](https://km-515.livejournal.com/1042.html) his terrible secret
+[^loss]: reuters [subscribers fall forecasts grim](https://www.reuters.com/technology/netflix-subscribers-fall-first-time-decade-forecasts-more-losses-2022-04-19/) 4/19
 
-Did moviepass defraud investors?
-Investors say yes[^moviepass].
-I've heard anecdotally that management wanted to launch a more sustainable, less-subsidized service and one of their investors was like 'no, go big', which is to say the board was complicit. I'm not sure which narrative is right. 
+[^sharing]: cnbc [something netflix account sharing](https://www.cnbc.com/2022/04/23/how-netflixs-password-sharing-crackdown-is-likely-to-work.html) 4/23
 
-[^moviepass]: [MoviePass Parent Company Sued by Shareholders as It Continues to Bleed Money](https://www.thewrap.com/moviepass-parent-company-sued-shareholders-continues-bleed-money/). "Defendants carried out a plan, scheme and course of conduct which was intended to, and did, deceive the investing public and cause the plaintiff and other members of the class to purchase" etc
+[^hike]: [The Complete History of Netflix Price Hikes – From 2007 to 2019](https://flixed.io/netflix-price-hikes/) Alex Munkachy, citing wired in the 2011 section
 
-Did netflix + uber defraud investors by creating really nice consumer experiences, and cushy offices where developers get paid to work on resume-builder OSS projects[^oss-startups], while unit economics were eternally and hopelessly negative?
+netflix is *technically* profitable.
+They *reported*[^annual] 5.1 billion dollars in net income in 2021 on 29.7b revenue. They also spent 17.7b on content, *but* amortized 12.2b of that (more than 2x profit).
+But those content costs are going up.
+Also they don't really pay taxes[^itep] (but who would).
+If you don't agree with the amortization period, they're actually losing money.
+
+[^annual]: [ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934](https://s22.q4cdn.com/959853165/files/doc_financials/2021/q4/da27d24b-9358-4b5c-a424-6da061d91836.pdf) For the fiscal year ended December 31, 2021. PDF page 43 (marked as page 41, which is a numeric crime but not the worst one in there)
+
+[^itep]: [record 5.3b profit on tax rate 1.1%](https://itep.org/netflix-posts-record-profits-federal-tax-rate-of-just-1-percent/) institute on taxation + economic policy
+
+Is netflix defrauding investors with froggy accounting?
+Are they creating really nice consumer experiences, and cushy offices where developers get paid to work on resume-builder OSS projects[^oss-startups], and exits for early investors and equity participants, on a model where unit economics are eternally and hopelessly negative?
 
 [^oss-startups]: matt turck [vc pullback](https://mattturck.com/vcpullback/) letter talks about netflix employees ditching to run their OSS projects as companies. netflix doesn't own a piece of the action. ctrl-F for 'open source projects'
 
-This post is about netflix + uber imploding, and whether that's bad.
+Did *moviepass* defraud investors?
+Investors allege yes[^moviepass] (but they would).
+I've heard anecdotally that management wanted to launch a more sustainable, less-subsidized service and one of their investors was like 'no, go big', which is to say the board was complicit. I'm not sure which narrative is right. 
+
+[^moviepass]: [MoviePass Parent Company Sued by Shareholders as It Continues to Bleed Money](https://www.thewrap.com/moviepass-parent-company-sued-shareholders-continues-bleed-money/). "Defendants carried out a plan, scheme and course of conduct which was intended to, and did, deceive the investing public and cause the plaintiff and other members of the class to purchase" etc 🎻
+
+(I never had moviepass.
+You'd have to pay my hourly rate to get me to sit through a movie.
+I'm told the hobbit movie is 8 hours long and doesn't feature tom bombadil[^oldtom]. This surpasses understanding).
+
+[^oldtom]: [oldest and fatherless](https://km-515.livejournal.com/1042.html) his terrible secret
+
+This post is about netflix accounting, incidentally about uber accounting because uber is in similar slow trouble, incidentally about currency in the roman empire (because it's relevant), and whether these many implosions indicate a systemic problem in how we finance growth.
 
 1. toc
 {:toc}
@@ -39,7 +59,7 @@ Over time they developed these businesses into frictionless, but also moatless, 
 
 Another element of fraud is 'did the victim *not* know it was a lie', were they actually fooled.
 This one is harder because there have been voices saying 'if you do your diligence, it's obvious that these aren't working'.
-Hubert Horan is years into a series of articles where he personally adjusts uber's gaap down[^hubert] when they do an earnings statement.
+Hubert Horan is N years into a series of articles where he personally adjusts uber's gaap down[^hubert] when they do an earnings statement.
 
 [^hubert]: [part 29 in a series](https://www.nakedcapitalism.com/2022/02/hubert-horan-can-uber-ever-deliver-part-twenty-nine-despite-massive-price-increases-uber-losses-top-31-billion.html) by hubert horan, 40 yrs experience. he thinks uber overstated profit by 3.2b in 2021 and has lost a total of 30 billion dollars over the lifetime of their company. I'm not an accountant and don't know how to extract data tables from PDFs and am not endorsing this view
 
