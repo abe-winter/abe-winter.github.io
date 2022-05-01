@@ -108,7 +108,7 @@ I lost the cite for this (firefox crashed), but the full subsidies warped the lo
 
 [^caesar]: [Frumentariae Leges](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Frumentariae_Leges.html), dictionary of greek and roman antiquities, william smith, 1875
 
-Rome got into this mess because of a side effect of urbanization: city dwellers are located far from their supply chain.
+Rome got into this mess because of a side effect of urbanization and density: city dwellers are located far from their supply chain.
 Plus other large capitals back then were nearish their grain supply[^gracchi], while Rome relied on shipping.
 Once the annona was in place, Rome's subsequent population growth was built on top of it;
 the larger the population, the larger the disaster of removing it, and the larger the military network required to send home grain.
@@ -120,7 +120,7 @@ I wonder if netflix and uber are in an involution spiral, growth depending on mo
 
 [^involution]: [involution (nèijuǎn) on chinese social media](https://www.whatsonweibo.com/the-concept-of-involution-neijuan-on-chinese-social-media/), whatsonweibo, Manya Koetse
 
-[^yield]: In fairness Casson's 'Ancient Mariners' says they at least got better at shipping it
+[^yield]: I'm not saying they were never innovative; only that they used military exploration to control more labor and send more grain home, rather than that growth being primarily driven through technology. Roman food supply innovations were many: Casson's 'Ancient Mariners' talks about huge football field sized barges used for shipping grain. [Kron 2005](https://web.stanford.edu/~scheidel/CCRE%20Chapter%208%20Supplement.pdf) says both people and livestock were taller in rome than in europe again until the 20th century, indicators of productivity. They possessed "innovations most responsible for the modern agricultural revolution: seed selection; effective tillage; hoeing and harrowing to destroy weeds; crop rotations; the suppression of bare fallow; the rotation of legumes ... irrigation, ... manure management; careful grazing management for range and pasture land; and, most decisively ... ley farming or convertible husbandry, still the most effective system of intensive mixed farming." james 2020 [Innovation in the Economy of the Roman Grain Supply](https://dspace.mit.edu/bitstream/handle/1721.1/131005/1256549851-MIT.pdf?sequence=1&isAllowed=y) asks if rome "tried to improve the efficiency of their grain supply or whether they expanded their sphere of influence in large part to feed a growing urban population in the capital" and concludes 'both'.
 
 I'm not saying the millennial lifestyle subsidy[^mls] will end our republic. I'm not saying shortages in long-distance supply chains are the same problem in 2022 as for Tertullus in 359 (who had to promise to starve his kids if storms destroyed the grain ships).
 I'm not saying that WSB / gamestop are signs of decay.
@@ -175,9 +175,9 @@ But 'more rules' hasn't solved the problem so far.
 Maybe new values would?
 But public values are almost religions. Is there a viable religion of 'don't buy cheap stuff'?
 What commandments are violated by the millennial lifestyle subsidy?
-Did moviepass defraud investors, or is the system to blame.
-
 What myths would remind us to fear Danaans, even those bearing gifts.
+Did moviepass defraud investors, or is the system to blame.
+Or are bezzles, like wars, the mother of innovation, and the way to have nice things is always through bankrupting our republic.
 
 ## notes
 {:.no_toc}
