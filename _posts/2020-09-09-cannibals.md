@@ -15,7 +15,7 @@ and [we're gonna have to come after you](https://money.cnn.com/2018/03/12/techno
 [Google drive only launched in 2012](https://www.cbsnews.com/news/google-drive-online-storage-launches-today/).
 Dropbox had been around for *years* by then, although Google docs launched in 06 after [they bought Writely](https://venturebeat.com/2006/03/09/google-acquires-online-word-processor-writely/).
 There was speculation even back in 06 about a 'G:Drive' product.
-(The colon didn't survive to the 2010s).
+(The colon didn't make it).
 
 Every platform that Dropbox targets has a Dropbox-clone storage product, but they survived.
 We're living in the platform era, and the [removal of the still beating heart](https://en.wikipedia.org/wiki/Human_sacrifice_in_Maya_culture) of apps is the ritual by which platforms sustain their power.

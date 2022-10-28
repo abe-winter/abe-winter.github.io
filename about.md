@@ -9,9 +9,9 @@ permalink: /about/
 I write about the information economy and how the world is getting weird but not necessarily worse.
 I also write about broken technology + institutions, and the intersection of the two.
 
-In my IRL / WFH existence, I'm an experienced software person. I help small companies with high traffic to adopt systems which scale.
+In my IRL / WFH existence, I work on [KLERB](https://klerb.chat), a social IRL reading meetup app which you should try if you want to do a lot more socializing around books.
 
-I'm also starting a thing which most people who have heard the pitch either don't understand or hate, so if you like to not understand / hate things, let's talk.
+(I'm also an experienced software person + I help small companies with high traffic to adopt systems which scale).
 
 Random non-spam emails welcome, hit me up at awinter.public@gmail.com.
 
