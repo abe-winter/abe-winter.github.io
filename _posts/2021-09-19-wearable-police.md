@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wearable police
+title: AR is wearable police
 author: Abe Winter
 new: true
 description: crime boy idk
