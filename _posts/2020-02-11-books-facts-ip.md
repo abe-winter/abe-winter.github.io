@@ -92,6 +92,13 @@ Stealing is evil, of course, and [evil has only been on the menu since 2018](htt
 
 ## Appendix
 
+I book I started (long) after writing this is Blair's 'Too Much to Know', about how scribes' margin notes were the medieval wikipedia, the Renaissance 'info-lust', and the dictionary craze of the 18th century.
+Great book, and it makes you want to draw a line from the scribes' notes to the much larger, denser, semantically-indexed accumulations of knowledge we're scraping together today.
+
+Also, this post was written before LLMs hit the mainstream.
+A lot has happened.
+(I am working on a follow-up which I will try to remember to link from here).
+
 There's a [thread about this](https://news.ycombinator.com/item?id=22301512) on HN. Arguments I liked in there:
 
 **Publishing a summary doesn't violate copyright**.
