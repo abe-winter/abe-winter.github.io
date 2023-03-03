@@ -84,6 +84,14 @@ This is coming.
 
 [^markham]: If you're interested in the experience of early flight, read Beryl Markham's *West with the Night*. It's her autobiography; she was an early military or postal pilot in Kenya. It's one of my favorite books. Hemingway claimed to be jealous of it. Markham stole Isak Dinesen's boyfriend.
 
+## Appendix: 2023
+
+Damn I just reread this.
+
+- 'worst transportation disaster' should probably read 'worst transportation disaster not adapted for film by james cameron'
+- I said 2 years ago some version of this would happen in 24 months; it hasn't
+- also google should just build external elevators, and also obviously doesn't care about the productivity of their staff
+
 ### Notes
 {:.no_toc}
 
