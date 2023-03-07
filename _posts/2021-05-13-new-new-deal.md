@@ -3,7 +3,6 @@ layout: post
 title: Obsolete labor, new new deals, and repair
 description: Obsolescence, planned and un
 categories: subsistence
-new: true
 ---
 
 Technological unemployment, the permanent unemployability of whole industries because of advancing automation, is on the horizon.

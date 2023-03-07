@@ -2,7 +2,6 @@
 layout: post
 title: AR is wearable police
 author: Abe Winter
-new: true
 description: crime boy idk
 categories: sybil liberties
 ---

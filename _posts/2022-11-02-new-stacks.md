@@ -2,7 +2,6 @@
 layout: post
 title: Trying new serverless tools
 categories: stackshare
-new: true
 ---
 
 * toc

@@ -3,7 +3,7 @@ layout: post
 title: Sweetgreen terms of service readthrough
 author: Abe Winter
 description: how do you like your salad TOS'd
-new: true
+noindex: true
 categories: tos
 ---
 
