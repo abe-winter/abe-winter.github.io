@@ -71,7 +71,7 @@ Public datasets here include:
 
 (Like many 'create a dataset' problems in finance, this to some extent exists in [government filings](https://www.fdic.gov/resources/bankers/bank-financial-reports/), and probably exists in a private source).
 
-I have yet to use an LLM with internet access, but friends say they've had limited luck getting sophisticated 'find and build dataset' queries to work.
+I have yet to use an LLM with internet access, but friends say they've had bad luck getting sophisticated 'find and build dataset' queries to work.
 Innovation researcher Ethan Mollick has been posting good thoughts about Bing as research assistant, and probably has tried a dataset construction project.
 
 This is slightly beyond the curve today, but 'ingest and merge' feels near-horizon.
