@@ -5,18 +5,15 @@ new: true
 layout: post
 ---
 
-> This was a longer post, but zapier released an LLM layer, and openai released a plugin system, and half the things I speculated about last week are suddenly real.
-I cut the sections describing functionality that is suddenly commercial off-the-shelf, and hit send on the rest.
-
 I started thinking about this after trying a demo of AI dungeon and noticing 1) it isn't remembering state very well and 2) it doesn't know the map.
 
 My other impetus was math;
 like everyone else last fall, I asked it the 'bat and a ball cost five cents different' problem.
-It was wrong, but if you asked for a system of linear equations, it got it right.
+It was wrong, but if you told it to use a system of linear equations, it got it right.
 
 My point in both of these examples:
 LLM is a tool user.
-Even if big models with big token memory can make some tasks better, this approach doesn't scale as well as giving it the actual tools it needs.
+Even if big models with big token memory can make some tasks better, the scaling approach doesn't scale as well as giving it the actual tools it needs.
 
 1. toc
 {:toc}
@@ -29,7 +26,7 @@ I didn't read that book, but the dual-process model of cognition says that human
 
 In LLM terms this means the LLM has a hunch, based on stuff it has read online, that the bat is 0.55 and the ball is 0.5.
 But if you tell it to build a system of equations, it **translates** the problem into a model.
-And it sort of, often correctly, uses a hunch to evaluate the model, and this often works better than using a hunch to just evaluate the question.
+And it still uses a hunch to evaluate the model, but this often works better than using a hunch directly on the question.
 
 (**Translates** is in bold because I want you to believe that LLMs are good at style transfer or translation tasks, because my whole argument below depends on that).
 
@@ -39,7 +36,7 @@ If you're thinking BLAS, yes fine, but I'll accept 'literally any other software
 Why not delegate to a system that is provably correct?
 [Why is it that you don't want faster speeds](https://www.vice.com/en/article/4x3a53/comcast-investigating-customer-service-call-from-hell).
 
-One-liner: let the artificial brain run its computer tasks on tiny actual computer, rather than on a huge neural net.
+One-liner: let the artificial brain run its computer tasks on a tiny actual computer, rather than emulating them on a huge network trained on cognitive effluent.
 
 There's an approach called [chain of thought prompting](https://arxiv.org/abs/2201.11903) which provides an LLM with examples of how to reason, which causes the LLM to follow that model of reasoning.
 Asking for a system of linear equations is slightly different, because with COTS, the 'question prompt' doesn't need to specify a method.
@@ -53,7 +50,7 @@ Two things to note about Toolformer:
 
 'Smaller LLM' matters because these are expensive to train, your laptop can't run the big ones, and your phone definitely can't.
 
-The next few sections are about external systems that should harness well to LLMs, and could pay dividends in capabilities, correctness, and small size.
+The remaining 3 sections are about external systems that should harness well to LLMs, and could pay dividends in capabilities, correctness, and small size.
 
 ## Research plans, plans generally
 
@@ -76,8 +73,10 @@ Public datasets here include:
 
 I have yet to use an LLM with internet access, but friends say they've had limited luck getting sophisticated 'find and build dataset' queries to work.
 Innovation researcher Ethan Mollick has been posting good thoughts about Bing as research assistant, and probably has tried a dataset construction project.
+
 This is slightly beyond the curve today, but 'ingest and merge' feels near-horizon.
-If you get it right, you can do a 
+If you get it right, you can do a join query on the entire internet.
+(If you use SQL a lot, though, you know joins can get expensive).
 
 Research, of course, isn't limited to summarizing what is already known.
 It may involve collecting new information, like with lidar cars, consumer surveys[^surveys], or lab-type R&D.
