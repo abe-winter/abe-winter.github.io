@@ -141,25 +141,27 @@ OpenAI Gym and Gazebo run some kind of software.
 (You would probably want to fine-tune a model because these are not widely used frameworks).
 
 Also I wish there were a declarative DSL for agent sim -- 
-I would use it personally, but especially as an AI codegen target, 
+I would use it personally,
+but especially as an AI codegen target, I have a hunch DSLs will lead to more powerful and reliable superpowers.
 
 Why:
 LMs are good at translation, and DSLs are intentionally similar to the domain-specific problem statement.
-Declarative specs are better (vs imperative code ) because they decouple description from execution.
-Both of these things lead to short, low-boilerplate code snippets that produce a data output.
+Declarative specs, vs imperative code, decouple description from execution, which means the AI only has to write the 'situation specific' piece; it gets to leverage well-tested, probably-correct execution logic.
+Both of these things lead to short, low-boilerplate code snippets that emit a data output, rather than something that must be parsed.
 
 Types of problems that are tractable to simulation but hard to solve analytically:
-- The answer depends on a network structure; for example supply chain questions that depend on geography
+- The answer depends on a network structure; for example supply chain questions that depend on geography. Google maps even -- you need to use something a lot like simulation to figure out whether to take the tunnel or the bridge
 - Effects emerge after multiple steps, with knock-on effects between heterogeneous systems, and price and demand dynamics. For example people leave cities in the pandemic, and cause a suburban real estate boom, and lumber futures go up
 - Problems with stochastic shocks
 - Analogy on existing knowledge isn't sufficient to get the information, or there is no existing knowledge, but physical simulation can do the trick
-- Behavior of a system is well-understood, and output data is available, and you want to predict inputs. For example, given that Russia invaded Ukraine, what does that tell us about their armament or leadership structure
+- Behavior of a system is modeled, and output data is available, and you want to predict inputs. For example, given that Russia invaded Ukraine, what does that tell us about their armament or leadership structure
 
 My favorite *fictional* simulation is 'personality retrieval' from Dan Simmons.
 (I'm not going to fully spoil it, so ignore this paragraph if it makes no sense).
-Not just the cybrid (though what a great fictional detective), but especially Fedmahn Kassad's training constructs.
+Not the cybrid detective, who was an abnormal retrieval, but Fedmahn Kassad's training constructs.
 I think Simmons was just trying to mix Teilhard-era psychic mumbo jumbo with high-compute AI and quantum mysticism, and somehow produced an idea that is wonderful beyond any fair expectation.
-FWIW the main problem of the retrieval personas was that they went insane.
+
+FWIW the retrieval personas went insane.
 
 The real-life simulation problem I care most about today:
 given what I know about my marketing personas and channel performance, model the paid and viral growth of my social platform, and help me do portfolio management across my growth levers: partnerships, paid acquisition, and feature development.
