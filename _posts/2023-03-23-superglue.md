@@ -170,6 +170,13 @@ Types of problems that are tractable to simulation but hard to solve analyticall
 - Analogy on existing knowledge isn't sufficient to get the information, or there is no existing knowledge, but physical simulation can do the trick
 - Behavior of a system is modeled, and output data is available, and you want to predict inputs. For example, given that Russia invaded Ukraine, what does that tell us about their armament or leadership structure
 
+The inverse question here is if you can do simulations, why do we need LLMs?
+Because you can't do infinite simulations without infinite compute.
+LLMs generate ideas to simulate, catalog the results, and operate as an index for them.
+'Creativity' and 'reuse' are both more computationally tractable when you mix methods.
+
+## Next steps
+
 My favorite *fictional* simulation is 'personality retrieval' from Dan Simmons.
 (I'm not going to fully spoil it, so ignore this paragraph if it makes no sense).
 Not the cybrid detective, who was an abnormal retrieval, but Fedmahn Kassad's training constructs.
