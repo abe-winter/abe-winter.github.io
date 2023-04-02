@@ -115,10 +115,12 @@ Predicate logic is a tool that 'seemed like AI' in the dark ages before deep lea
 
 If you're imagining that predicate logic is rigid and can't handle ambiguity, it can these days.
 Markov logic is a 'try your best' semantic graph method that resolves the logic relationships for a situation to tease out consistent and inconsistent statements.
-Some more recent work uses LLM-like embeddings in the context of logic graphs, but the downside of embeddings is they're not human readable / checkable.
+Some more recent work (RuLE, for example) uses LLM-like embeddings in the context of logic graphs, but the downside of embeddings is they're not human readable / checkable.
 
 In the olden days these systems relied on carefully constructed knowledge bases in a form that the rule engine could process.
-But LLMs can use their semantic understanding of a situation to build a small semantic graph.
+But LLMs can use their semantic understanding of a situation to build a small semantic graph[^reasoning].
+
+[^reasoning]: I haven't read this yet, but it claims to be able to run a logic-like process directly on the model weights [Latent Knowledge in Language Models](https://arxiv.org/abs/2212.03827)
 
 ## SIMULACRA AND SIMULATIONS
 
