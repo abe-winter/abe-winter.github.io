@@ -4,6 +4,7 @@ title: Kube is ~3 different things that could be split out
 description: Kube is also greek for dice
 keywords: cloud, strategy, design
 author: Abe Winter
+noindex: true
 ---
 
 I'm not one of those luddites who thinks we shouldn't run our container workloads wherever they fit, and kube is *the* tool for that right now, but it has 32k github issues -- that's 1 for every 2 stars. It's too complicated.

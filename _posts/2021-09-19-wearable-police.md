@@ -4,6 +4,7 @@ title: AR is wearable police
 author: Abe Winter
 description: crime boy idk
 categories: sybil liberties
+noindex: true
 ---
 
 George Holliday, the guy who filmed Rodney King in 91, had a handycam which he described as ‘like a size 13 shoe’. He [auctioned it off last year](https://natedsanders.com/LotDetail.aspx?inventoryid=58296).

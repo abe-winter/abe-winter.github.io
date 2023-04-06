@@ -2,6 +2,7 @@
 layout: post
 title: Trying new serverless tools
 categories: stackshare
+noindex: true
 ---
 
 * toc

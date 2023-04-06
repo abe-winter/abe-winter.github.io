@@ -3,6 +3,7 @@ layout: post
 title: I've wanted enumerable classes for *so long*
 author: Abe Winter
 date: 2019-01-19
+noindex: true
 ---
 
 First class language support for iterating the storage fields of a struct is *so useful* and nobody is supporting it in their language.

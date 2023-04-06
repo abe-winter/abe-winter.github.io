@@ -2,7 +2,7 @@
 layout: post
 title: Warrant-proof encryption isn't a 4th amendment issue, it's a 1st amendment issue
 description: "Encryption is privacy incarnate -- don't ban it"
-top: true
+noindex: true
 ---
 
 Attorney General Bill Barr is having an ongoing public debate with facebook over whether it's in the public interest for platform companies to be unable to read messages sent over their platform.
