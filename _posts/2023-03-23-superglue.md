@@ -100,7 +100,7 @@ If there were, LLMs would gain superpowers around projects that weren't just 'fe
 
 At least with 3.5, it's obviously not reasoning from knowledge; if it is reasoning at all, it's doing it from immediate context using the 'textural' features of GPT's attention -- its ability to make things make sense that are next to each other.
 
-A simple example of it's failure to reason -- it has no problem uttering statements that are mutually exclusive, and has a hard time feeling shame when you call it on this.
+A simple example of its failure to reason -- it has no problem uttering statements that are mutually exclusive, and has a hard time feeling shame when you call it on this.
 
 But as with the linear equations above, you can tease it into doing better.
 Asking it to **translate** a statement[^stmt] into predicate logic can sometimes kick it into doing actual reasoning, instead of the 'textural' correctness it does by default.
